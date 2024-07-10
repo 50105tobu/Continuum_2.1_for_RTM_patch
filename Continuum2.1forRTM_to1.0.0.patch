@@ -1,0 +1,3105 @@
+diff --git a/Continuum 2.1 Alpha Build 12/ContinuumLib/Common/MatID.glsl b/Continuum 2.1 Alpha forRTM 1.0.0/ContinuumLib/Common/MatID.glsl
+similarity index 100%
+rename from Continuum 2.1 Alpha Build 12/ContinuumLib/Common/MatID.glsl
+rename to Continuum 2.1 Alpha forRTM 1.0.0/ContinuumLib/Common/MatID.glsl
+diff --git a/Continuum 2.1 Alpha Build 12/ContinuumLib/Common/PhysicalSky.glsl b/Continuum 2.1 Alpha forRTM 1.0.0/ContinuumLib/Common/PhysicalSky.glsl
+similarity index 100%
+rename from Continuum 2.1 Alpha Build 12/ContinuumLib/Common/PhysicalSky.glsl
+rename to Continuum 2.1 Alpha forRTM 1.0.0/ContinuumLib/Common/PhysicalSky.glsl
+diff --git a/Continuum 2.1 Alpha Build 12/ContinuumLib/Common/PrecomputedSky.glsl b/Continuum 2.1 Alpha forRTM 1.0.0/ContinuumLib/Common/PrecomputedSky.glsl
+similarity index 100%
+rename from Continuum 2.1 Alpha Build 12/ContinuumLib/Common/PrecomputedSky.glsl
+rename to Continuum 2.1 Alpha forRTM 1.0.0/ContinuumLib/Common/PrecomputedSky.glsl
+diff --git a/Continuum 2.1 Alpha Build 12/ContinuumLib/Common/Shadows.glsl b/Continuum 2.1 Alpha forRTM 1.0.0/ContinuumLib/Common/Shadows.glsl
+similarity index 100%
+rename from Continuum 2.1 Alpha Build 12/ContinuumLib/Common/Shadows.glsl
+rename to Continuum 2.1 Alpha forRTM 1.0.0/ContinuumLib/Common/Shadows.glsl
+diff --git a/Continuum 2.1 Alpha Build 12/ContinuumLib/Debug.glsl b/Continuum 2.1 Alpha forRTM 1.0.0/ContinuumLib/Debug.glsl
+similarity index 100%
+rename from Continuum 2.1 Alpha Build 12/ContinuumLib/Debug.glsl
+rename to Continuum 2.1 Alpha forRTM 1.0.0/ContinuumLib/Debug.glsl
+diff --git a/Continuum 2.1 Alpha Build 12/ContinuumLib/Exit.glsl b/Continuum 2.1 Alpha forRTM 1.0.0/ContinuumLib/Exit.glsl
+similarity index 100%
+rename from Continuum 2.1 Alpha Build 12/ContinuumLib/Exit.glsl
+rename to Continuum 2.1 Alpha forRTM 1.0.0/ContinuumLib/Exit.glsl
+diff --git a/Continuum 2.1 Alpha Build 12/ContinuumLib/Fragment/ACES/ACES.fsh b/Continuum 2.1 Alpha forRTM 1.0.0/ContinuumLib/Fragment/ACES/ACES.fsh
+similarity index 100%
+rename from Continuum 2.1 Alpha Build 12/ContinuumLib/Fragment/ACES/ACES.fsh
+rename to Continuum 2.1 Alpha forRTM 1.0.0/ContinuumLib/Fragment/ACES/ACES.fsh
+diff --git a/Continuum 2.1 Alpha Build 12/ContinuumLib/Fragment/ACES/LMT.fsh b/Continuum 2.1 Alpha forRTM 1.0.0/ContinuumLib/Fragment/ACES/LMT.fsh
+similarity index 100%
+rename from Continuum 2.1 Alpha Build 12/ContinuumLib/Fragment/ACES/LMT.fsh
+rename to Continuum 2.1 Alpha forRTM 1.0.0/ContinuumLib/Fragment/ACES/LMT.fsh
+diff --git a/Continuum 2.1 Alpha Build 12/ContinuumLib/Fragment/ACES/ODT.fsh b/Continuum 2.1 Alpha forRTM 1.0.0/ContinuumLib/Fragment/ACES/ODT.fsh
+similarity index 100%
+rename from Continuum 2.1 Alpha Build 12/ContinuumLib/Fragment/ACES/ODT.fsh
+rename to Continuum 2.1 Alpha forRTM 1.0.0/ContinuumLib/Fragment/ACES/ODT.fsh
+diff --git a/Continuum 2.1 Alpha Build 12/ContinuumLib/Fragment/ACES/Tonescales.fsh b/Continuum 2.1 Alpha forRTM 1.0.0/ContinuumLib/Fragment/ACES/Tonescales.fsh
+similarity index 100%
+rename from Continuum 2.1 Alpha Build 12/ContinuumLib/Fragment/ACES/Tonescales.fsh
+rename to Continuum 2.1 Alpha forRTM 1.0.0/ContinuumLib/Fragment/ACES/Tonescales.fsh
+diff --git a/Continuum 2.1 Alpha Build 12/ContinuumLib/Fragment/ACES/Utility.fsh b/Continuum 2.1 Alpha forRTM 1.0.0/ContinuumLib/Fragment/ACES/Utility.fsh
+similarity index 100%
+rename from Continuum 2.1 Alpha Build 12/ContinuumLib/Fragment/ACES/Utility.fsh
+rename to Continuum 2.1 Alpha forRTM 1.0.0/ContinuumLib/Fragment/ACES/Utility.fsh
+diff --git a/Continuum 2.1 Alpha Build 12/ContinuumLib/Fragment/Camera.glsl b/Continuum 2.1 Alpha forRTM 1.0.0/ContinuumLib/Fragment/Camera.glsl
+similarity index 100%
+rename from Continuum 2.1 Alpha Build 12/ContinuumLib/Fragment/Camera.glsl
+rename to Continuum 2.1 Alpha forRTM 1.0.0/ContinuumLib/Fragment/Camera.glsl
+diff --git a/Continuum 2.1 Alpha Build 12/ContinuumLib/Fragment/ColorCorrection.glsl b/Continuum 2.1 Alpha forRTM 1.0.0/ContinuumLib/Fragment/ColorCorrection.glsl
+similarity index 100%
+rename from Continuum 2.1 Alpha Build 12/ContinuumLib/Fragment/ColorCorrection.glsl
+rename to Continuum 2.1 Alpha forRTM 1.0.0/ContinuumLib/Fragment/ColorCorrection.glsl
+diff --git a/Continuum 2.1 Alpha Build 12/ContinuumLib/Fragment/FilmicToningOperator.glsl b/Continuum 2.1 Alpha forRTM 1.0.0/ContinuumLib/Fragment/FilmicToningOperator.glsl
+similarity index 100%
+rename from Continuum 2.1 Alpha Build 12/ContinuumLib/Fragment/FilmicToningOperator.glsl
+rename to Continuum 2.1 Alpha forRTM 1.0.0/ContinuumLib/Fragment/FilmicToningOperator.glsl
+diff --git a/Continuum 2.1 Alpha Build 12/ContinuumLib/GLSL_Version.glsl b/Continuum 2.1 Alpha forRTM 1.0.0/ContinuumLib/GLSL_Version.glsl
+similarity index 100%
+rename from Continuum 2.1 Alpha Build 12/ContinuumLib/GLSL_Version.glsl
+rename to Continuum 2.1 Alpha forRTM 1.0.0/ContinuumLib/GLSL_Version.glsl
+diff --git a/Continuum 2.1 Alpha Build 12/ContinuumLib/Syntax.glsl b/Continuum 2.1 Alpha forRTM 1.0.0/ContinuumLib/Syntax.glsl
+similarity index 100%
+rename from Continuum 2.1 Alpha Build 12/ContinuumLib/Syntax.glsl
+rename to Continuum 2.1 Alpha forRTM 1.0.0/ContinuumLib/Syntax.glsl
+diff --git a/Continuum 2.1 Alpha Build 12/ContinuumLib/Uniform/ProjectionMatrices.glsl b/Continuum 2.1 Alpha forRTM 1.0.0/ContinuumLib/Uniform/ProjectionMatrices.glsl
+similarity index 100%
+rename from Continuum 2.1 Alpha Build 12/ContinuumLib/Uniform/ProjectionMatrices.glsl
+rename to Continuum 2.1 Alpha forRTM 1.0.0/ContinuumLib/Uniform/ProjectionMatrices.glsl
+diff --git a/Continuum 2.1 Alpha Build 12/ContinuumLib/Uniform/ShadowDistortion.glsl b/Continuum 2.1 Alpha forRTM 1.0.0/ContinuumLib/Uniform/ShadowDistortion.glsl
+similarity index 100%
+rename from Continuum 2.1 Alpha Build 12/ContinuumLib/Uniform/ShadowDistortion.glsl
+rename to Continuum 2.1 Alpha forRTM 1.0.0/ContinuumLib/Uniform/ShadowDistortion.glsl
+diff --git a/Continuum 2.1 Alpha Build 12/ContinuumLib/Uniform/ShadowMatrices.glsl b/Continuum 2.1 Alpha forRTM 1.0.0/ContinuumLib/Uniform/ShadowMatrices.glsl
+similarity index 100%
+rename from Continuum 2.1 Alpha Build 12/ContinuumLib/Uniform/ShadowMatrices.glsl
+rename to Continuum 2.1 Alpha forRTM 1.0.0/ContinuumLib/Uniform/ShadowMatrices.glsl
+diff --git a/Continuum 2.1 Alpha Build 12/ContinuumLib/Uniform/TemporalJitter.glsl b/Continuum 2.1 Alpha forRTM 1.0.0/ContinuumLib/Uniform/TemporalJitter.glsl
+similarity index 100%
+rename from Continuum 2.1 Alpha Build 12/ContinuumLib/Uniform/TemporalJitter.glsl
+rename to Continuum 2.1 Alpha forRTM 1.0.0/ContinuumLib/Uniform/TemporalJitter.glsl
+diff --git a/Continuum 2.1 Alpha Build 12/ContinuumLib/Utilities.glsl b/Continuum 2.1 Alpha forRTM 1.0.0/ContinuumLib/Utilities.glsl
+similarity index 100%
+rename from Continuum 2.1 Alpha Build 12/ContinuumLib/Utilities.glsl
+rename to Continuum 2.1 Alpha forRTM 1.0.0/ContinuumLib/Utilities.glsl
+diff --git a/Continuum 2.1 Alpha Build 12/ContinuumLib/Utilities/Clamping.glsl b/Continuum 2.1 Alpha forRTM 1.0.0/ContinuumLib/Utilities/Clamping.glsl
+similarity index 100%
+rename from Continuum 2.1 Alpha Build 12/ContinuumLib/Utilities/Clamping.glsl
+rename to Continuum 2.1 Alpha forRTM 1.0.0/ContinuumLib/Utilities/Clamping.glsl
+diff --git a/Continuum 2.1 Alpha Build 12/ContinuumLib/Utilities/ColorConversions.glsl b/Continuum 2.1 Alpha forRTM 1.0.0/ContinuumLib/Utilities/ColorConversions.glsl
+similarity index 60%
+rename from Continuum 2.1 Alpha Build 12/ContinuumLib/Utilities/ColorConversions.glsl
+rename to Continuum 2.1 Alpha forRTM 1.0.0/ContinuumLib/Utilities/ColorConversions.glsl
+index 35e32fe..f187a6e 100644
+--- a/Continuum 2.1 Alpha Build 12/ContinuumLib/Utilities/ColorConversions.glsl	
++++ b/Continuum 2.1 Alpha forRTM 1.0.0/ContinuumLib/Utilities/ColorConversions.glsl	
+@@ -52,5 +52,38 @@
+         
+         return c.z * mix(K.xxx, clamp(p - K.xxx, 0.0, 1.0), c.y);
+     }
++    vec3 reynRGB2hsv(vec3 rgb){ //https://algorithm.joho.info/programming/python/opencv-rgb-to-hsv-color-space/
++        const float mx = max3(rgb.r, rgb.g, rgb.b);
++        const float mn = min3(rgb.r, rgb.g, rgb.b);
++        const float diff = mx - mn;
++        vec3 hsv;
+ 
++        //Hの値を計算
++        if(mx == mn){
++            hsv.x = 0;
++        }else if(mx == rgb.r){
++            hsv.x = 60 * ((rgb.g-rgb.b)/diff);
++        }else if(mx == rgb.g){
++            hsv.x = 60 * ((rgb.b-rgb.r)/diff) + 120;
++        }else if(mx == rgb.b){
++            hsv.x = 60 * ((rgb.r-rgb.g)/diff) + 240;
++        }
++        hsv.x = (hsv.x < 0) ? hsv.x + 360 : hsv.x;
++
++        //Sの値を計算
++        if(mx != 0){
++            hsv.y = diff/mx;
++        }else{
++            hsv.y = 0;
++        }
++
++        //Vの値を計算
++        hsv.z = mx;
++
++        return vec3(hsv.x/360.0, hsv.yz);
++    }
++
++    float reynGetBrilliance(vec3 rgb){
++        return max3(rgb.r, rgb.g, rgb.b);
++    }
+ #endif
+diff --git a/Continuum 2.1 Alpha Build 12/ContinuumLib/Utilities/Encoding.glsl b/Continuum 2.1 Alpha forRTM 1.0.0/ContinuumLib/Utilities/Encoding.glsl
+similarity index 100%
+rename from Continuum 2.1 Alpha Build 12/ContinuumLib/Utilities/Encoding.glsl
+rename to Continuum 2.1 Alpha forRTM 1.0.0/ContinuumLib/Utilities/Encoding.glsl
+diff --git a/Continuum 2.1 Alpha Build 12/ContinuumLib/Utilities/Noise.glsl b/Continuum 2.1 Alpha forRTM 1.0.0/ContinuumLib/Utilities/Noise.glsl
+similarity index 100%
+rename from Continuum 2.1 Alpha Build 12/ContinuumLib/Utilities/Noise.glsl
+rename to Continuum 2.1 Alpha forRTM 1.0.0/ContinuumLib/Utilities/Noise.glsl
+diff --git a/Continuum 2.1 Alpha Build 12/ContinuumLib/Utilities/Pow.glsl b/Continuum 2.1 Alpha forRTM 1.0.0/ContinuumLib/Utilities/Pow.glsl
+similarity index 100%
+rename from Continuum 2.1 Alpha Build 12/ContinuumLib/Utilities/Pow.glsl
+rename to Continuum 2.1 Alpha forRTM 1.0.0/ContinuumLib/Utilities/Pow.glsl
+diff --git a/Continuum 2.1 Alpha Build 12/ContinuumLib/Utilities/SphericalHarmonics.glsl b/Continuum 2.1 Alpha forRTM 1.0.0/ContinuumLib/Utilities/SphericalHarmonics.glsl
+similarity index 100%
+rename from Continuum 2.1 Alpha Build 12/ContinuumLib/Utilities/SphericalHarmonics.glsl
+rename to Continuum 2.1 Alpha forRTM 1.0.0/ContinuumLib/Utilities/SphericalHarmonics.glsl
+diff --git a/Continuum 2.1 Alpha Build 12/DevNotes.txt b/Continuum 2.1 Alpha forRTM 1.0.0/DevNotes.txt
+similarity index 100%
+rename from Continuum 2.1 Alpha Build 12/DevNotes.txt
+rename to Continuum 2.1 Alpha forRTM 1.0.0/DevNotes.txt
+diff --git a/Continuum 2.1 Alpha Build 12/InternalLib/Fragment/AmbientOcclusion.fsh b/Continuum 2.1 Alpha forRTM 1.0.0/InternalLib/Fragment/AmbientOcclusion.fsh
+similarity index 100%
+rename from Continuum 2.1 Alpha Build 12/InternalLib/Fragment/AmbientOcclusion.fsh
+rename to Continuum 2.1 Alpha forRTM 1.0.0/InternalLib/Fragment/AmbientOcclusion.fsh
+diff --git a/Continuum 2.1 Alpha Build 12/InternalLib/Fragment/DiffuseLighting.fsh b/Continuum 2.1 Alpha forRTM 1.0.0/InternalLib/Fragment/DiffuseLighting.fsh
+similarity index 89%
+rename from Continuum 2.1 Alpha Build 12/InternalLib/Fragment/DiffuseLighting.fsh
+rename to Continuum 2.1 Alpha forRTM 1.0.0/InternalLib/Fragment/DiffuseLighting.fsh
+index 4fac226..43e5c39 100644
+--- a/Continuum 2.1 Alpha Build 12/InternalLib/Fragment/DiffuseLighting.fsh	
++++ b/Continuum 2.1 Alpha forRTM 1.0.0/InternalLib/Fragment/DiffuseLighting.fsh	
+@@ -106,21 +106,35 @@ vec3 GGXDiffuse(vec3 albedo, float roughness, float NoL, float NoV, float NoH, f
+ }
+ 
+ 
+-vec3 CalculateTorchLight(vec3 diffuseColor, float torchLightmap, bool isEmissive){
++vec3 CalculateTorchLight(vec3 diffuseColor, float torchLightmap, bool isDefaultEmissive, bool isValiableEmissive, float emissivity, bool isHand){
+     vec3 lightColor = blackbody(LIGHT_TEMP);
+     
+-    if (isEmissive) {
+-        float angularRadius = 0.15;
+-        float luminance = 1.0 / (PI * angularRadius * angularRadius);
++    float angularRadius = 0.15;
++    float luminance = 1.0 / (PI * angularRadius * angularRadius);
+ 
++    isValiableEmissive = isHand? false : isValiableEmissive; //playerFix
++
++    if (isValiableEmissive) {
++        const float difBrilli = reynGetBrilliance(diffuseColor);
++        float emiCoefficient = (difBrilli * 5) / (1 + difBrilli);
++        diffuseColor = reynRGB2hsv(diffuseColor);
++        diffuseColor = hsv2rgb(vec3(diffuseColor.x, diffuseColor.y * 1.15, emiCoefficient));
++
++        float glow = length(lightColor/ length(vec3(1.0)));
++              glow = pow5(glow);
++              glow *= luminance;
++        
++        return TEX_LIGHT_LUM * emissivity * diffuseColor *((1.0 / luminance) + glow);
++    }
++    else if (isDefaultEmissive) {
+         float glow = length(diffuseColor/ length(vec3(1.0)));
+               glow = pow5(glow);
+               glow *= luminance;
+ 
+-        return LIGHT_LUM * lightColor * ((1.0 / luminance) + glow);
++        return LIGHT_LUM * lightColor * diffuseColor * ((1.0 / luminance) + glow);
+     }
+ 
+-    float lightDistance = (1.0 - torchLightmap) * 15.0 + 1.0;
++    float lightDistance = (1.0 - torchLightmap) * BLOCKLIGHT_ATTENUATION + 1.0;
+     float atten = torchLightmap / (lightDistance * lightDistance);
+ 
+     
+@@ -128,7 +142,7 @@ vec3 CalculateTorchLight(vec3 diffuseColor, float torchLightmap, bool isEmissive
+         atten += NETHER_AMBIENT_LUM;
+     #endif
+ 
+-    return atten * LIGHT_LUM * lightColor; // 800 lumens
++    return atten * LIGHT_LUM * lightColor * diffuseColor; // 800 lumens
+ }
+ 
+ float SampleAO(vec2 coord, vec3 normal){
+@@ -277,7 +291,7 @@ float CalculateUndergroundVisibility(float skyLightmap) {
+     return mask * (1.0 - eyeMask) + eyeMask;
+ }
+ 
+-vec3 CalculateDiffuseLighting(mat2x3 positions, vec3 pixelPosition, vec3 diffuseColor, vec3 normal, vec3 worldNormal, vec3 flatWorldNormal, vec3 viewVector, float depth, float roughness, float f0, mat2x3 metalIOR, vec2 lightmaps, float dither, float pomShadow, bool isFoliage, bool isLava, bool isEmissive, bool isHand, out vec3 sunIrradiance) {
++vec3 CalculateDiffuseLighting(mat2x3 positions, vec3 pixelPosition, vec3 diffuseColor, vec3 normal, vec3 worldNormal, vec3 flatWorldNormal, vec3 viewVector, float depth, float roughness, float f0, mat2x3 metalIOR, vec2 lightmaps, float dither, float pomShadow, bool isFoliage, bool isLava, bool isDefaultEmissive, bool isValiableEmissive, bool isHand, out vec3 sunIrradiance, float emissivity) {
+     // Calculate Shadows and multiply by sunlight color
+     vec3 shadowPosition = WorldSpaceToShadowSpace(positions[1]);
+     vec4 texSampleCoords = vec4(texcoord * 0.25 + vec2(0.5, 0.625), texcoord * 0.25 + vec2(0.75, 0.625));
+@@ -362,7 +376,7 @@ vec3 CalculateDiffuseLighting(mat2x3 positions, vec3 pixelPosition, vec3 diffuse
+     // Calculate Emissive Surfaces
+ 
+     // Calculate Torch Lights
+-    vec3 torchLight = CalculateTorchLight(diffuseColor, lightmaps.x, isEmissive) * diffuseColor * mix(ao, 1.0, pow8(lightmaps.x));
++    vec3 torchLight = CalculateTorchLight(diffuseColor, lightmaps.x, isDefaultEmissive, isValiableEmissive, emissivity, isHand) * mix(ao, 1.0, pow8(lightmaps.x));
+ 
+     #if defined WORLD0
+         return (sunLight + skyLight + torchLight + rsm);
+diff --git a/Continuum 2.1 Alpha Build 12/InternalLib/Fragment/GlobalIllumination.fsh b/Continuum 2.1 Alpha forRTM 1.0.0/InternalLib/Fragment/GlobalIllumination.fsh
+similarity index 100%
+rename from Continuum 2.1 Alpha Build 12/InternalLib/Fragment/GlobalIllumination.fsh
+rename to Continuum 2.1 Alpha forRTM 1.0.0/InternalLib/Fragment/GlobalIllumination.fsh
+diff --git a/Continuum 2.1 Alpha Build 12/InternalLib/Fragment/LightmapShading.fsh b/Continuum 2.1 Alpha forRTM 1.0.0/InternalLib/Fragment/LightmapShading.fsh
+similarity index 100%
+rename from Continuum 2.1 Alpha Build 12/InternalLib/Fragment/LightmapShading.fsh
+rename to Continuum 2.1 Alpha forRTM 1.0.0/InternalLib/Fragment/LightmapShading.fsh
+diff --git a/Continuum 2.1 Alpha Build 12/InternalLib/Fragment/PlanarClouds.fsh b/Continuum 2.1 Alpha forRTM 1.0.0/InternalLib/Fragment/PlanarClouds.fsh
+similarity index 98%
+rename from Continuum 2.1 Alpha Build 12/InternalLib/Fragment/PlanarClouds.fsh
+rename to Continuum 2.1 Alpha forRTM 1.0.0/InternalLib/Fragment/PlanarClouds.fsh
+index ddbf668..b550c8e 100644
+--- a/Continuum 2.1 Alpha Build 12/InternalLib/Fragment/PlanarClouds.fsh	
++++ b/Continuum 2.1 Alpha forRTM 1.0.0/InternalLib/Fragment/PlanarClouds.fsh	
+@@ -142,7 +142,7 @@ vec3 calculatePlanarClouds(const vec3 backgroundColor, const vec3 wDir, const ve
+ 	
+     vec3 transmitAP;
+     vec3 in_scatter_moon;
+-    vec3 in_scatter = GetSkyRadianceToPoint(ATMOSPHERE, colortex7, colortex7, colortex7, kCamera, kPoint, 0.0, wSunVector, transmitAP, in_scatter_moon) * SKY_SPECTRAL_RADIANCE_TO_LUMINANCE;
++    vec3 in_scatter = GetSkyRadianceToPoint(ATMOSPHERE, colortex4, colortex4, colortex4, kCamera, kPoint, 0.0, wSunVector, transmitAP, in_scatter_moon) * SKY_SPECTRAL_RADIANCE_TO_LUMINANCE;
+     in_scatter_moon *= SKY_SPECTRAL_RADIANCE_TO_LUMINANCE_MOON;
+     in_scatter += in_scatter_moon;
+ 
+diff --git a/Continuum 2.1 Alpha Build 12/InternalLib/Fragment/ScreenspaceRaytracer.fsh b/Continuum 2.1 Alpha forRTM 1.0.0/InternalLib/Fragment/ScreenspaceRaytracer.fsh
+similarity index 100%
+rename from Continuum 2.1 Alpha Build 12/InternalLib/Fragment/ScreenspaceRaytracer.fsh
+rename to Continuum 2.1 Alpha forRTM 1.0.0/InternalLib/Fragment/ScreenspaceRaytracer.fsh
+diff --git a/Continuum 2.1 Alpha Build 12/InternalLib/Fragment/SpecularLighting.fsh b/Continuum 2.1 Alpha forRTM 1.0.0/InternalLib/Fragment/SpecularLighting.fsh
+similarity index 100%
+rename from Continuum 2.1 Alpha Build 12/InternalLib/Fragment/SpecularLighting.fsh
+rename to Continuum 2.1 Alpha forRTM 1.0.0/InternalLib/Fragment/SpecularLighting.fsh
+diff --git a/Continuum 2.1 Alpha Build 12/InternalLib/Fragment/TerrainParallax.fsh b/Continuum 2.1 Alpha forRTM 1.0.0/InternalLib/Fragment/TerrainParallax.fsh
+similarity index 100%
+rename from Continuum 2.1 Alpha Build 12/InternalLib/Fragment/TerrainParallax.fsh
+rename to Continuum 2.1 Alpha forRTM 1.0.0/InternalLib/Fragment/TerrainParallax.fsh
+diff --git a/Continuum 2.1 Alpha Build 12/InternalLib/Fragment/VolumetricClouds.fsh b/Continuum 2.1 Alpha forRTM 1.0.0/InternalLib/Fragment/VolumetricClouds.fsh
+similarity index 99%
+rename from Continuum 2.1 Alpha Build 12/InternalLib/Fragment/VolumetricClouds.fsh
+rename to Continuum 2.1 Alpha forRTM 1.0.0/InternalLib/Fragment/VolumetricClouds.fsh
+index fea4b91..3e7a041 100644
+--- a/Continuum 2.1 Alpha Build 12/InternalLib/Fragment/VolumetricClouds.fsh	
++++ b/Continuum 2.1 Alpha forRTM 1.0.0/InternalLib/Fragment/VolumetricClouds.fsh	
+@@ -15,7 +15,7 @@ const float cloudBackwardG = -0.5;
+ const float cloudMixG = 0.5;
+ 
+ const float sigmaA = 0.0;                               // Absorption coefficient
+-const float sigmaS = 0.07;                              // Scattering coefficient
++const float sigmaS = volumetric_cloudScattering;        // Scattering coefficient
+ const float sigmaE = sigmaS + sigmaA;                   // Extinction coefficient
+ 
+ float Calculate3DNoise(vec3 position){
+@@ -287,7 +287,7 @@ void calculateVolumetricClouds(inout vec3 cloud, inout float transmit, vec3 wDir
+ 	
+     vec3 transmitAP;
+     vec3 in_scatter_moon;
+-    vec3 in_scatter = GetSkyRadianceToPoint(ATMOSPHERE, colortex7, colortex7, colortex7, kCamera, kPoint, 0.0, wSunVector, transmitAP, in_scatter_moon) * SKY_SPECTRAL_RADIANCE_TO_LUMINANCE;
++    vec3 in_scatter = GetSkyRadianceToPoint(ATMOSPHERE, colortex4, colortex4, colortex4, kCamera, kPoint, 0.0, wSunVector, transmitAP, in_scatter_moon) * SKY_SPECTRAL_RADIANCE_TO_LUMINANCE;
+     in_scatter_moon *= SKY_SPECTRAL_RADIANCE_TO_LUMINANCE_MOON;
+     in_scatter += in_scatter_moon;
+ 	
+diff --git a/Continuum 2.1 Alpha Build 12/InternalLib/Fragment/VolumetricLighting.fsh b/Continuum 2.1 Alpha forRTM 1.0.0/InternalLib/Fragment/VolumetricLighting.fsh
+similarity index 100%
+rename from Continuum 2.1 Alpha Build 12/InternalLib/Fragment/VolumetricLighting.fsh
+rename to Continuum 2.1 Alpha forRTM 1.0.0/InternalLib/Fragment/VolumetricLighting.fsh
+diff --git a/Continuum 2.1 Alpha Build 12/InternalLib/Fragment/WaterVolume.fsh b/Continuum 2.1 Alpha forRTM 1.0.0/InternalLib/Fragment/WaterVolume.fsh
+similarity index 100%
+rename from Continuum 2.1 Alpha Build 12/InternalLib/Fragment/WaterVolume.fsh
+rename to Continuum 2.1 Alpha forRTM 1.0.0/InternalLib/Fragment/WaterVolume.fsh
+diff --git a/Continuum 2.1 Alpha Build 12/InternalLib/Fragment/WaterWaves.fsh b/Continuum 2.1 Alpha forRTM 1.0.0/InternalLib/Fragment/WaterWaves.fsh
+similarity index 100%
+rename from Continuum 2.1 Alpha Build 12/InternalLib/Fragment/WaterWaves.fsh
+rename to Continuum 2.1 Alpha forRTM 1.0.0/InternalLib/Fragment/WaterWaves.fsh
+diff --git a/Continuum 2.1 Alpha Build 12/InternalLib/Vertex/VertexDisplacement.vsh b/Continuum 2.1 Alpha forRTM 1.0.0/InternalLib/Vertex/VertexDisplacement.vsh
+similarity index 100%
+rename from Continuum 2.1 Alpha Build 12/InternalLib/Vertex/VertexDisplacement.vsh
+rename to Continuum 2.1 Alpha forRTM 1.0.0/InternalLib/Vertex/VertexDisplacement.vsh
+diff --git a/Continuum 2.1 Alpha Build 12/README.md b/Continuum 2.1 Alpha forRTM 1.0.0/README.md
+similarity index 100%
+rename from Continuum 2.1 Alpha Build 12/README.md
+rename to Continuum 2.1 Alpha forRTM 1.0.0/README.md
+diff --git a/Continuum 2.1 Alpha Build 12/UserLib/Camera/CameraSettings.glsl b/Continuum 2.1 Alpha forRTM 1.0.0/UserLib/Camera/CameraSettings.glsl
+similarity index 74%
+rename from Continuum 2.1 Alpha Build 12/UserLib/Camera/CameraSettings.glsl
+rename to Continuum 2.1 Alpha forRTM 1.0.0/UserLib/Camera/CameraSettings.glsl
+index dd0a8ed..c8b6d01 100644
+--- a/Continuum 2.1 Alpha Build 12/UserLib/Camera/CameraSettings.glsl	
++++ b/Continuum 2.1 Alpha forRTM 1.0.0/UserLib/Camera/CameraSettings.glsl	
+@@ -10,10 +10,25 @@
+ #define CAMERA_FOCAL_LENGTH 100 // [10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35 36 37 38 39 40 41 42 43 44 45 46 47 48 49 50 51 52 53 54 55 56 57 58 59 60 65 70 75 80 85 90 95 100 110 120 130 140 150 160 170 180 190 200 220 240 260 280 300 320 340 360 380 400 420 440 460 480 500]
+ 
+ //Auto Camera Settings
+-#define AUTO_EXPOSURE_TIME 1.0
+-#define AUTO_EXPOSURE_MIN_LUM 0.5
++#define AUTO_EXPOSURE_TIME 2.0 // [0.5 1.0 2.0 3.0 4.0]
++#define AUTO_EXPOSURE_MIN_LUM 0.5 // [1.0 2.5 5.0 10.0 25.0 50.0 100.0 200.0 400.0 800.0 1024.0 1536.0 2048.0]
+ #define AUTO_EXPOSURE_MAX_LUM 2048.0
+ 
++//RTM Additional Settings
++#define SMOOTHING_ALL 2
++#define SMOOTHING_WHITELIST 1
++#define SMOOTHING_OFF 0
++
++#define SMOOTHING_ORNAMENT SMOOTHING_WHITELIST // [SMOOTHING_ALL SMOOTHING_WHITELIST SMOOTHING_OFF]
++#define SMOOTHNESS_FIX 1.0 // [1.0 1.05 1.1 1.15 1.2 1.25 1.3 1.35 1.4 1.45 1.5 1.55 1.6]
++#define READ_RENEWED_METAL
++#define SPEC_AddBlueToRoughness
++//#define TRAIN_ALPHA_SMOOSE
++#define TRAIN_NORMALTEX_HEIGHT 1.0 // [1.0 2.0 3.0 4.0 5.0 6.0 7.0 8.0 9.0 10.0 12.0 14.0 16.0 18.0 20.0]
++#define TRAIN_NORMAL_POWER 1.0 // [0.0 0.2 0.4 0.6 0.8 1.0 1.2 1.4 1.6 1.8 2.0 2.5 3.0]
++#define BLOCKLIGHT_ATTENUATION 15.0 // [1.0 2.0 3.0 5.0 7.0 10.0 15.0 20.0]
++#define volumetric_cloudScattering 0.07 // [0.01 0.02 0.03 0.04 0.05 0.06 0.07 0.08 0.09]
++
+ //Manual Camera Settings
+ #define CAMERA_APERTURE 16.0 // [1.4 2 2.8 4 5.6 8.0 11.0 16.0 22.0]
+ #define CAMERA_ISO 100 // [50 75 100 200 400 800 1600 3200 6400]
+diff --git a/Continuum 2.1 Alpha Build 12/UserLib/Lighting/AOSettings.glsl b/Continuum 2.1 Alpha forRTM 1.0.0/UserLib/Lighting/AOSettings.glsl
+similarity index 100%
+rename from Continuum 2.1 Alpha Build 12/UserLib/Lighting/AOSettings.glsl
+rename to Continuum 2.1 Alpha forRTM 1.0.0/UserLib/Lighting/AOSettings.glsl
+diff --git a/Continuum 2.1 Alpha Build 12/UserLib/Lighting/CausticsSettings.glsl b/Continuum 2.1 Alpha forRTM 1.0.0/UserLib/Lighting/CausticsSettings.glsl
+similarity index 100%
+rename from Continuum 2.1 Alpha Build 12/UserLib/Lighting/CausticsSettings.glsl
+rename to Continuum 2.1 Alpha forRTM 1.0.0/UserLib/Lighting/CausticsSettings.glsl
+diff --git a/Continuum 2.1 Alpha Build 12/UserLib/Lighting/DiffuseSettings.glsl b/Continuum 2.1 Alpha forRTM 1.0.0/UserLib/Lighting/DiffuseSettings.glsl
+similarity index 69%
+rename from Continuum 2.1 Alpha Build 12/UserLib/Lighting/DiffuseSettings.glsl
+rename to Continuum 2.1 Alpha forRTM 1.0.0/UserLib/Lighting/DiffuseSettings.glsl
+index 2b8b138..f438807 100644
+--- a/Continuum 2.1 Alpha Build 12/UserLib/Lighting/DiffuseSettings.glsl	
++++ b/Continuum 2.1 Alpha forRTM 1.0.0/UserLib/Lighting/DiffuseSettings.glsl	
+@@ -11,7 +11,8 @@
+ #define RSM_QUALITY 16 //[8 16 32 64 128]
+ 
+ #define LIGHT_TEMP 2700 //[2500 2600 2700 2800 2900 3000 3200 3400 3600 3800 4000 4300 4600 4900 5200 5500 5800 6100 6400]
+-#define LIGHT_LUM 500   //[100 200 300 400 500 600 700 800 900 1000 1200 1400 1600 1800 2000]
++#define LIGHT_LUM 500 //[100 200 300 400 500 600 700 800 900 1000 1200 1400 1600 1800 2000 3000 4000 5000 10000 50000 100000 500000 1000000]
++#define TEX_LIGHT_LUM 5000 //[100 200 300 400 500 600 700 800 900 1000 1200 1400 1600 1800 2000 3000 4000 5000 10000 50000 100000 500000]
+ 
+ #define NETHER_AMBIENT_LUM 0.0025
+ #define END_AMBIENT_LUM vec3(1.6, 0.86, 2.1)
+diff --git a/Continuum 2.1 Alpha Build 12/UserLib/Lighting/ShadowSettings.glsl b/Continuum 2.1 Alpha forRTM 1.0.0/UserLib/Lighting/ShadowSettings.glsl
+similarity index 95%
+rename from Continuum 2.1 Alpha Build 12/UserLib/Lighting/ShadowSettings.glsl
+rename to Continuum 2.1 Alpha forRTM 1.0.0/UserLib/Lighting/ShadowSettings.glsl
+index 630a419..7541fd5 100644
+--- a/Continuum 2.1 Alpha Build 12/UserLib/Lighting/ShadowSettings.glsl	
++++ b/Continuum 2.1 Alpha forRTM 1.0.0/UserLib/Lighting/ShadowSettings.glsl	
+@@ -24,7 +24,7 @@
+ 
+ const int shadowMapResolution = 2048; // [256 512 1024 2048 3072 4096 8192 16384]
+ const float rShadowMapResolution = 1.0 / float(shadowMapResolution);
+-const float shadowDistance    = 120.0;
++const float shadowDistance = 120;   // [70 120 180 240]
+ 
+ #define CAUSTICS
+ 
+diff --git a/Continuum 2.1 Alpha Build 12/UserLib/Lighting/SpecularSettings.glsl b/Continuum 2.1 Alpha forRTM 1.0.0/UserLib/Lighting/SpecularSettings.glsl
+similarity index 70%
+rename from Continuum 2.1 Alpha Build 12/UserLib/Lighting/SpecularSettings.glsl
+rename to Continuum 2.1 Alpha forRTM 1.0.0/UserLib/Lighting/SpecularSettings.glsl
+index 9259ddb..b009b9c 100644
+--- a/Continuum 2.1 Alpha Build 12/UserLib/Lighting/SpecularSettings.glsl	
++++ b/Continuum 2.1 Alpha forRTM 1.0.0/UserLib/Lighting/SpecularSettings.glsl	
+@@ -7,6 +7,6 @@
+ #define RAYTRACE_REFINEMENT //Improves ray trace quality by refining the rays with minimal performance overhead.
+ #define RAYTRACE_REFINEMENT_STEPS 6 //[2 3 4 5 6 7 8 9 10 12 14 16 18 20 22 24 26 28 30 32]
+ 
+-#define SPECULAR_TAIL_CLAMP 0.3 //[0.0 0.05 0.1 0.15 0.2 0.25 0.3 0.35 0.4 0.45 0.5 0.55 0.6 0.65 0.7] Controls the "tail" length of the specular distribution. Higher values lowers the maximum tail length. Higher values reduces noise at the cost of quality.
++#define SPECULAR_TAIL_CLAMP 0.3 //[0.0 0.05 0.1 0.15 0.2 0.25 0.3 0.35 0.4 0.45 0.5 0.55 0.6 0.65 0.7 0.9 0.95 1.0] Controls the "tail" length of the specular distribution. Higher values lowers the maximum tail length. Higher values reduces noise at the cost of quality.
+ 
+ #endif
+\ No newline at end of file
+diff --git a/Continuum 2.1 Alpha Build 12/UserLib/Lighting/TimeOverride.glsl b/Continuum 2.1 Alpha forRTM 1.0.0/UserLib/Lighting/TimeOverride.glsl
+similarity index 100%
+rename from Continuum 2.1 Alpha Build 12/UserLib/Lighting/TimeOverride.glsl
+rename to Continuum 2.1 Alpha forRTM 1.0.0/UserLib/Lighting/TimeOverride.glsl
+diff --git a/Continuum 2.1 Alpha Build 12/UserLib/Lighting/VolumetricLightSettings.glsl b/Continuum 2.1 Alpha forRTM 1.0.0/UserLib/Lighting/VolumetricLightSettings.glsl
+similarity index 100%
+rename from Continuum 2.1 Alpha Build 12/UserLib/Lighting/VolumetricLightSettings.glsl
+rename to Continuum 2.1 Alpha forRTM 1.0.0/UserLib/Lighting/VolumetricLightSettings.glsl
+diff --git a/Continuum 2.1 Alpha Build 12/UserLib/Misc/AntialiasingSettings.glsl b/Continuum 2.1 Alpha forRTM 1.0.0/UserLib/Misc/AntialiasingSettings.glsl
+similarity index 100%
+rename from Continuum 2.1 Alpha Build 12/UserLib/Misc/AntialiasingSettings.glsl
+rename to Continuum 2.1 Alpha forRTM 1.0.0/UserLib/Misc/AntialiasingSettings.glsl
+diff --git a/Continuum 2.1 Alpha Build 12/UserLib/Misc/MiscSettings.glsl b/Continuum 2.1 Alpha forRTM 1.0.0/UserLib/Misc/MiscSettings.glsl
+similarity index 100%
+rename from Continuum 2.1 Alpha Build 12/UserLib/Misc/MiscSettings.glsl
+rename to Continuum 2.1 Alpha forRTM 1.0.0/UserLib/Misc/MiscSettings.glsl
+diff --git a/Continuum 2.1 Alpha Build 12/UserLib/Misc/ParallaxSettings.glsl b/Continuum 2.1 Alpha forRTM 1.0.0/UserLib/Misc/ParallaxSettings.glsl
+similarity index 100%
+rename from Continuum 2.1 Alpha Build 12/UserLib/Misc/ParallaxSettings.glsl
+rename to Continuum 2.1 Alpha forRTM 1.0.0/UserLib/Misc/ParallaxSettings.glsl
+diff --git a/Continuum 2.1 Alpha Build 12/UserLib/Misc/VertexSettings.glsl b/Continuum 2.1 Alpha forRTM 1.0.0/UserLib/Misc/VertexSettings.glsl
+similarity index 100%
+rename from Continuum 2.1 Alpha Build 12/UserLib/Misc/VertexSettings.glsl
+rename to Continuum 2.1 Alpha forRTM 1.0.0/UserLib/Misc/VertexSettings.glsl
+diff --git a/Continuum 2.1 Alpha Build 12/UserLib/PostProcess/PostProcessSettings.glsl b/Continuum 2.1 Alpha forRTM 1.0.0/UserLib/PostProcess/PostProcessSettings.glsl
+similarity index 100%
+rename from Continuum 2.1 Alpha Build 12/UserLib/PostProcess/PostProcessSettings.glsl
+rename to Continuum 2.1 Alpha forRTM 1.0.0/UserLib/PostProcess/PostProcessSettings.glsl
+diff --git a/Continuum 2.1 Alpha Build 12/UserLib/SettingsManager.glsl b/Continuum 2.1 Alpha forRTM 1.0.0/UserLib/SettingsManager.glsl
+similarity index 100%
+rename from Continuum 2.1 Alpha Build 12/UserLib/SettingsManager.glsl
+rename to Continuum 2.1 Alpha forRTM 1.0.0/UserLib/SettingsManager.glsl
+diff --git a/Continuum 2.1 Alpha Build 12/UserLib/Sky/CloudConstants.glsl b/Continuum 2.1 Alpha forRTM 1.0.0/UserLib/Sky/CloudConstants.glsl
+similarity index 100%
+rename from Continuum 2.1 Alpha Build 12/UserLib/Sky/CloudConstants.glsl
+rename to Continuum 2.1 Alpha forRTM 1.0.0/UserLib/Sky/CloudConstants.glsl
+diff --git a/Continuum 2.1 Alpha Build 12/UserLib/Sky/SkyConstants.glsl b/Continuum 2.1 Alpha forRTM 1.0.0/UserLib/Sky/SkyConstants.glsl
+similarity index 100%
+rename from Continuum 2.1 Alpha Build 12/UserLib/Sky/SkyConstants.glsl
+rename to Continuum 2.1 Alpha forRTM 1.0.0/UserLib/Sky/SkyConstants.glsl
+diff --git a/Continuum 2.1 Alpha Build 12/UserLib/Sky/SkyOverrides.glsl b/Continuum 2.1 Alpha forRTM 1.0.0/UserLib/Sky/SkyOverrides.glsl
+similarity index 100%
+rename from Continuum 2.1 Alpha Build 12/UserLib/Sky/SkyOverrides.glsl
+rename to Continuum 2.1 Alpha forRTM 1.0.0/UserLib/Sky/SkyOverrides.glsl
+diff --git a/Continuum 2.1 Alpha Build 12/UserLib/Textures/data.bin b/Continuum 2.1 Alpha forRTM 1.0.0/UserLib/Textures/data.bin
+similarity index 100%
+rename from Continuum 2.1 Alpha Build 12/UserLib/Textures/data.bin
+rename to Continuum 2.1 Alpha forRTM 1.0.0/UserLib/Textures/data.bin
+diff --git a/Continuum 2.1 Alpha Build 12/UserLib/Textures/noise.png b/Continuum 2.1 Alpha forRTM 1.0.0/UserLib/Textures/noise.png
+similarity index 100%
+rename from Continuum 2.1 Alpha Build 12/UserLib/Textures/noise.png
+rename to Continuum 2.1 Alpha forRTM 1.0.0/UserLib/Textures/noise.png
+diff --git a/Continuum 2.1 Alpha Build 12/UserLib/Textures/noise.png.mcmeta b/Continuum 2.1 Alpha forRTM 1.0.0/UserLib/Textures/noise.png.mcmeta
+similarity index 100%
+rename from Continuum 2.1 Alpha Build 12/UserLib/Textures/noise.png.mcmeta
+rename to Continuum 2.1 Alpha forRTM 1.0.0/UserLib/Textures/noise.png.mcmeta
+diff --git a/Continuum 2.1 Alpha Build 12/UserLib/Toning/TonemapOverride.glsl b/Continuum 2.1 Alpha forRTM 1.0.0/UserLib/Toning/TonemapOverride.glsl
+similarity index 100%
+rename from Continuum 2.1 Alpha Build 12/UserLib/Toning/TonemapOverride.glsl
+rename to Continuum 2.1 Alpha forRTM 1.0.0/UserLib/Toning/TonemapOverride.glsl
+diff --git a/Continuum 2.1 Alpha Build 12/UserLib/Toning/ToningSettings.glsl b/Continuum 2.1 Alpha forRTM 1.0.0/UserLib/Toning/ToningSettings.glsl
+similarity index 100%
+rename from Continuum 2.1 Alpha Build 12/UserLib/Toning/ToningSettings.glsl
+rename to Continuum 2.1 Alpha forRTM 1.0.0/UserLib/Toning/ToningSettings.glsl
+diff --git a/Continuum 2.1 Alpha Build 12/shaders/Antialiasing.glsl b/Continuum 2.1 Alpha forRTM 1.0.0/shaders/Antialiasing.glsl
+similarity index 100%
+rename from Continuum 2.1 Alpha Build 12/shaders/Antialiasing.glsl
+rename to Continuum 2.1 Alpha forRTM 1.0.0/shaders/Antialiasing.glsl
+diff --git a/Continuum 2.1 Alpha Build 12/shaders/Blur.glsl b/Continuum 2.1 Alpha forRTM 1.0.0/shaders/Blur.glsl
+similarity index 100%
+rename from Continuum 2.1 Alpha Build 12/shaders/Blur.glsl
+rename to Continuum 2.1 Alpha forRTM 1.0.0/shaders/Blur.glsl
+diff --git a/Continuum 2.1 Alpha Build 12/shaders/Composite0.glsl b/Continuum 2.1 Alpha forRTM 1.0.0/shaders/Composite0.glsl
+similarity index 98%
+rename from Continuum 2.1 Alpha Build 12/shaders/Composite0.glsl
+rename to Continuum 2.1 Alpha forRTM 1.0.0/shaders/Composite0.glsl
+index 4ba1d2d..5609bc3 100644
+--- a/Continuum 2.1 Alpha Build 12/shaders/Composite0.glsl	
++++ b/Continuum 2.1 Alpha forRTM 1.0.0/shaders/Composite0.glsl	
+@@ -23,7 +23,7 @@ varying vec3 skyIlluminanceClouds;
+ /***********************************************************************/
+ #if defined vsh
+ 
+-uniform sampler3D colortex7;
++uniform sampler3D colortex4;
+ 
+ uniform mat4 gbufferProjection;
+ uniform mat4 gbufferProjectionInverse;
+@@ -58,7 +58,7 @@ void main() {
+     vec3 moon_irradiance = vec3(0.0);
+     vec3 sky_irradiance_moon = vec3(0.0);
+ 
+-    sunIlluminanceClouds = SUN_SPECTRAL_RADIANCE_TO_LUMINANCE * GetSunAndSkyIrradiance(ATMOSPHERE, colortex7, colortex7, vec3(0.0, volumetric_cloudHeight / 1000.0 + ATMOSPHERE.bottom_radius, 0.0), vec3(0.0, 1.0, 0.0), wSunVector, wMoonVector, skyIlluminanceClouds, sky_irradiance_moon, moon_irradiance);
++    sunIlluminanceClouds = SUN_SPECTRAL_RADIANCE_TO_LUMINANCE * GetSunAndSkyIrradiance(ATMOSPHERE, colortex4, colortex4, vec3(0.0, volumetric_cloudHeight / 1000.0 + ATMOSPHERE.bottom_radius, 0.0), vec3(0.0, 1.0, 0.0), wSunVector, wMoonVector, skyIlluminanceClouds, sky_irradiance_moon, moon_irradiance);
+     moon_irradiance = MOON_SPECTRAL_RADIANCE_TO_LUMINANCE * moon_irradiance;
+     sunIlluminanceClouds += moon_irradiance;
+ 
+@@ -92,7 +92,7 @@ uniform sampler2D shadowcolor;
+ 
+ uniform sampler2D noisetex;
+ 
+-uniform sampler3D colortex7;
++uniform sampler3D colortex4;
+ 
+ uniform mat4 gbufferModelView;
+ uniform mat4 gbufferModelViewInverse;
+@@ -208,7 +208,7 @@ void CalculateSkySphere(vec2 coord, inout vec4 outBuffer){
+ 
+     vec3 transmit = vec3(0.0);
+     vec3 SkyRadianceMoon = vec3(0.0);
+-    SkyRadiance = SKY_SPECTRAL_RADIANCE_TO_LUMINANCE * GetSkyRadiance(ATMOSPHERE, colortex7, colortex7, colortex7, skyCamera, worldVector, 0.0, wSunVector, transmit, SkyRadianceMoon);
++    SkyRadiance = SKY_SPECTRAL_RADIANCE_TO_LUMINANCE * GetSkyRadiance(ATMOSPHERE, colortex4, colortex4, colortex4, skyCamera, worldVector, 0.0, wSunVector, transmit, SkyRadianceMoon);
+     SkyRadianceMoon = SKY_SPECTRAL_RADIANCE_TO_LUMINANCE_MOON * SkyRadianceMoon;
+     SkyRadiance += SkyRadianceMoon;
+ 
+@@ -226,7 +226,7 @@ void CalculateSkySphere(vec2 coord, inout vec4 outBuffer){
+                 vec3 skyIrradiance = vec3(0.0);
+                 vec3 moon_irradiance = vec3(0.0);
+                 vec3 sky_irradiance_moon = vec3(0.0);
+-                vec3 sunIrradiance = GetSunAndSkyIrradiance(ATMOSPHERE, colortex7, colortex7, planetSurfacePosition, normal, wSunVector, wMoonVector, skyIrradiance, sky_irradiance_moon, moon_irradiance) * SUN_SPECTRAL_RADIANCE_TO_LUMINANCE;
++                vec3 sunIrradiance = GetSunAndSkyIrradiance(ATMOSPHERE, colortex4, colortex4, planetSurfacePosition, normal, wSunVector, wMoonVector, skyIrradiance, sky_irradiance_moon, moon_irradiance) * SUN_SPECTRAL_RADIANCE_TO_LUMINANCE;
+                 moon_irradiance = MOON_SPECTRAL_RADIANCE_TO_LUMINANCE * moon_irradiance;
+                 sunIrradiance += moon_irradiance;
+ 
+@@ -248,7 +248,7 @@ void CalculateSkySphere(vec2 coord, inout vec4 outBuffer){
+ 
+                 vec3 transmit;
+                 vec3 in_scatter_moon;
+-                vec3 in_scatter = GetSkyRadianceToPoint(ATMOSPHERE, colortex7, colortex7, colortex7, skyCamera, planetSurfacePosition, 0.0, wSunVector, transmit, in_scatter_moon) * SKY_SPECTRAL_RADIANCE_TO_LUMINANCE;
++                vec3 in_scatter = GetSkyRadianceToPoint(ATMOSPHERE, colortex4, colortex4, colortex4, skyCamera, planetSurfacePosition, 0.0, wSunVector, transmit, in_scatter_moon) * SKY_SPECTRAL_RADIANCE_TO_LUMINANCE;
+                 in_scatter_moon *= SKY_SPECTRAL_RADIANCE_TO_LUMINANCE_MOON;
+                 in_scatter += in_scatter_moon;
+ 
+diff --git a/Continuum 2.1 Alpha Build 12/shaders/Composite1.glsl b/Continuum 2.1 Alpha forRTM 1.0.0/shaders/Composite1.glsl
+similarity index 94%
+rename from Continuum 2.1 Alpha Build 12/shaders/Composite1.glsl
+rename to Continuum 2.1 Alpha forRTM 1.0.0/shaders/Composite1.glsl
+index 752a491..485e8c6 100644
+--- a/Continuum 2.1 Alpha Build 12/shaders/Composite1.glsl	
++++ b/Continuum 2.1 Alpha forRTM 1.0.0/shaders/Composite1.glsl	
+@@ -46,7 +46,7 @@ uniform vec3 sunPosition;
+ uniform vec3 shadowLightAngles;
+ uniform vec3 cameraPosition;
+ 
+-uniform sampler3D colortex7;
++uniform sampler3D colortex4;
+ uniform sampler2D colortex3;
+ 
+ uniform float fov;
+@@ -120,7 +120,7 @@ void main() {
+         vec3 moon_irradiance = vec3(0.0);
+         vec3 sky_irradiance_moon = vec3(0.0);
+ 
+-        sunIlluminanceClouds = SUN_SPECTRAL_RADIANCE_TO_LUMINANCE * GetSunAndSkyIrradiance(ATMOSPHERE, colortex7, colortex7, vec3(0.0, volumetric_cloudHeight / 1000.0 + ATMOSPHERE.bottom_radius, 0.0), vec3(0.0, 1.0, 0.0), wSunVector, wMoonVector, skyIlluminanceClouds, sky_irradiance_moon, moon_irradiance);
++        sunIlluminanceClouds = SUN_SPECTRAL_RADIANCE_TO_LUMINANCE * GetSunAndSkyIrradiance(ATMOSPHERE, colortex4, colortex4, vec3(0.0, volumetric_cloudHeight / 1000.0 + ATMOSPHERE.bottom_radius, 0.0), vec3(0.0, 1.0, 0.0), wSunVector, wMoonVector, skyIlluminanceClouds, sky_irradiance_moon, moon_irradiance);
+         moon_irradiance = MOON_SPECTRAL_RADIANCE_TO_LUMINANCE * moon_irradiance;
+         sunIlluminanceClouds += moon_irradiance;
+ 
+@@ -128,7 +128,7 @@ void main() {
+         sky_irradiance_moon *= SKY_SPECTRAL_RADIANCE_TO_LUMINANCE_MOON;
+         skyIlluminanceClouds += sky_irradiance_moon;
+ 
+-        sunIlluminanceVert = SUN_SPECTRAL_RADIANCE_TO_LUMINANCE * GetSunAndSkyIrradiance(ATMOSPHERE, colortex7, colortex7, vec3(0.0, ATMOSPHERE.bottom_radius, 0.0), vec3(0.0, 1.0, 0.0), wSunVector, wMoonVector, skyIlluminanceVert, sky_irradiance_moon, moon_irradiance);
++        sunIlluminanceVert = SUN_SPECTRAL_RADIANCE_TO_LUMINANCE * GetSunAndSkyIrradiance(ATMOSPHERE, colortex4, colortex4, vec3(0.0, ATMOSPHERE.bottom_radius, 0.0), vec3(0.0, 1.0, 0.0), wSunVector, wMoonVector, skyIlluminanceVert, sky_irradiance_moon, moon_irradiance);
+         moon_irradiance = MOON_SPECTRAL_RADIANCE_TO_LUMINANCE * moon_irradiance;
+         sunIlluminanceVert += moon_irradiance;
+ 
+@@ -157,6 +157,7 @@ uniform sampler2D colortex1; //Albedo
+ uniform sampler2D colortex2; //Material Data
+ uniform sampler2D colortex3; //Half Res Data
+ uniform sampler2D colortex6; //Encoded flat normal
++uniform sampler2D colortex7;
+ 
+ uniform sampler2D depthtex0;
+ uniform sampler2D depthtex1;
+@@ -166,7 +167,7 @@ uniform sampler2D shadowtex1;
+ uniform sampler2D shadowcolor;
+ uniform sampler2D shadowcolor1;
+ 
+-uniform sampler3D colortex7;
++uniform sampler3D colortex4;
+ 
+ uniform sampler2D noisetex;
+ 
+@@ -293,6 +294,7 @@ void main() {
+     float torchLightmap = decode2z.x;
+     float skyLightmap   = decode2z.y;
+     float pomShadow     = decode2w.x;
++    float emissivity    = texture(colortex7, texcoord).r;
+     float materialID;
+     float reflectivity;
+     UnpackMaterialID(decode2y.y, materialID, reflectivity, metalIOR);
+@@ -300,18 +302,19 @@ void main() {
+     bool isMetal = metalIOR[0].x > 0.0 || reflectivity >= 1.0;
+ 
+     if (isMetal) {
+-        Buffer5 = vec4(albedo.rgb, materialData2.r);
++        Buffer5 = vec4(albedo.rgb, EncodeNormal(materialData2.rgb));
+     }
+ 
+     bool isFoliage = materialID == 8.0;
+     bool isLava    = materialID == 10.0;
+-    bool isEmissive = materialID == 11.0;
++    bool isDefaultEmissive = materialID == 11.0;
++    bool isValiableEmissive = emissivity > 0.0;
+     bool isHand    = materialID == 12.0;
+ 
+-    vec3 worldNormal = DecodeNormal(materialData.x);
++    vec3 worldNormal = texture(colortex6, texcoord).rgb;
+     vec3 normal = mat3(gbufferModelView) * worldNormal;
+ 
+-    vec3 flatWorldNormal = DecodeNormal(materialData2.r);
++    vec3 flatWorldNormal = worldNormal;
+ 
+     float dither = bayer64(gl_FragCoord.xy);
+     #ifdef TAA
+@@ -327,7 +330,7 @@ void main() {
+ 
+     vec3 shadows;
+     vec3 diffuseLight;
+-    diffuseLight  = CalculateDiffuseLighting(position, vec3(texcoord, depth), albedo.rgb, normal, worldNormal, flatWorldNormal, viewVector, depth, roughness, reflectivity, metalIOR, vec2(torchLightmap, skyLightmap), dither, pomShadow, isFoliage, isLava, isEmissive, isHand, shadows);
++    diffuseLight  = CalculateDiffuseLighting(position, vec3(texcoord, depth), albedo.rgb, normal, worldNormal, flatWorldNormal, viewVector, depth, roughness, reflectivity, metalIOR, vec2(torchLightmap, skyLightmap), dither, pomShadow, isFoliage, isLava, isDefaultEmissive, isValiableEmissive, isHand, shadows, emissivity);
+     #if defined WORLD0
+     diffuseLight += CalculateSpecularHighlight(albedo.rgb, lightVector, normal, viewVector, shadows, roughness, reflectivity, metalIOR);
+     #endif
+diff --git a/Continuum 2.1 Alpha Build 12/shaders/Composite2.glsl b/Continuum 2.1 Alpha forRTM 1.0.0/shaders/Composite2.glsl
+similarity index 80%
+rename from Continuum 2.1 Alpha Build 12/shaders/Composite2.glsl
+rename to Continuum 2.1 Alpha forRTM 1.0.0/shaders/Composite2.glsl
+index 3353afd..3e2823b 100644
+--- a/Continuum 2.1 Alpha Build 12/shaders/Composite2.glsl	
++++ b/Continuum 2.1 Alpha forRTM 1.0.0/shaders/Composite2.glsl	
+@@ -36,7 +36,7 @@ flat varying int isNight;
+ /***********************************************************************/
+ #if defined vsh
+ 
+-uniform sampler3D colortex7;
++uniform sampler3D colortex4;
+ uniform sampler2D colortex3;
+ 
+ uniform mat4 gbufferProjection;
+@@ -120,7 +120,7 @@ void main() {
+     vec3 moon_irradiance = vec3(0.0);
+     vec3 sky_irradiance_moon = vec3(0.0);
+ 
+-    sunIlluminanceClouds = SUN_SPECTRAL_RADIANCE_TO_LUMINANCE * GetSunAndSkyIrradiance(ATMOSPHERE, colortex7, colortex7, vec3(0.0, volumetric_cloudHeight / 1000.0 + ATMOSPHERE.bottom_radius, 0.0), vec3(0.0, 1.0, 0.0), wSunVector, wMoonVector, skyIlluminanceClouds, sky_irradiance_moon, moon_irradiance);
++    sunIlluminanceClouds = SUN_SPECTRAL_RADIANCE_TO_LUMINANCE * GetSunAndSkyIrradiance(ATMOSPHERE, colortex4, colortex4, vec3(0.0, volumetric_cloudHeight / 1000.0 + ATMOSPHERE.bottom_radius, 0.0), vec3(0.0, 1.0, 0.0), wSunVector, wMoonVector, skyIlluminanceClouds, sky_irradiance_moon, moon_irradiance);
+ 	moon_irradiance = MOON_SPECTRAL_RADIANCE_TO_LUMINANCE * moon_irradiance;
+     sunIlluminanceClouds += moon_irradiance;
+ 
+@@ -128,7 +128,7 @@ void main() {
+     sky_irradiance_moon *= SKY_SPECTRAL_RADIANCE_TO_LUMINANCE_MOON;
+     skyIlluminanceClouds += sky_irradiance_moon;
+ 
+-    sunIlluminanceVert = SUN_SPECTRAL_RADIANCE_TO_LUMINANCE * GetSunAndSkyIrradiance(ATMOSPHERE, colortex7, colortex7, vec3(0.0, volumetric_cloudHeight / 1000.0 + ATMOSPHERE.bottom_radius, 0.0), vec3(0.0, 1.0, 0.0), wSunVector, wMoonVector, skyIlluminanceVert, sky_irradiance_moon, moon_irradiance);
++    sunIlluminanceVert = SUN_SPECTRAL_RADIANCE_TO_LUMINANCE * GetSunAndSkyIrradiance(ATMOSPHERE, colortex4, colortex4, vec3(0.0, volumetric_cloudHeight / 1000.0 + ATMOSPHERE.bottom_radius, 0.0), vec3(0.0, 1.0, 0.0), wSunVector, wMoonVector, skyIlluminanceVert, sky_irradiance_moon, moon_irradiance);
+ 	moon_irradiance = MOON_SPECTRAL_RADIANCE_TO_LUMINANCE * moon_irradiance;
+     sunIlluminanceVert += moon_irradiance;
+ 
+@@ -164,8 +164,9 @@ uniform sampler2D colortex2; //Translucent data
+ uniform sampler2D colortex3; //Skysphere
+ uniform sampler2D colortex5; //Metal albedo
+ uniform sampler2D colortex6; //Encoded flat normal
++uniform sampler2D colortex7;
+ 
+-uniform sampler3D colortex7;
++uniform sampler3D colortex4;
+ 
+ uniform sampler2D noisetex;
+ 
+@@ -225,7 +226,7 @@ layout (location = 0) out vec4 Buffer0;
+ ******************************************************************************/
+ 
+ float GetDepth(vec2 coord) {
+-    return texture(depthtex0, coord).x;
++    return texture(depthtex1, coord).x;
+ }
+ 
+ /*******************************************************************************
+@@ -707,6 +708,12 @@ void main() {
+ 	
+ 	float depth0 = texture(depthtex0, texcoord).x;
+     float depth1 = texture(depthtex1, texcoord).x;
++    bool isTransparent = depth1 > depth0;
++
++    if(depth1>=1.0 || !isTransparent){
++        Buffer0 = vec4(texture(colortex0, texcoord)); //pass through
++        return;
++    }
+ 
+     mat2x3 position0;
+     position0[0] = CalculateViewSpacePosition(vec3(texcoord, depth0));
+@@ -724,44 +731,22 @@ void main() {
+ 		dither_2 = fract(frameCounter * (1.0 / 7.0) + dither_2);
+     #endif
+ 
+-    vec3 vDir = normalize(position0[0]);
++    vec3 vDir = normalize(position1[0]);
+     vec3 wDir = mat3(gbufferModelViewInverse) * vDir;
+ 
+     vec3 flatVdir = vDir;   // For stuff on water and translucent surfaces
+     vec3 flatWdir = wDir;   // For stuff on water and translucent surfaces
+ 
+-    bool isTransparent = depth1 > depth0;
+-
+     vec4 materialData = textureRaw(colortex2, texcoord);
+-	vec3 worldNormal = DecodeNormal(materialData.x);
++	vec3 worldNormal = texture(colortex6, texcoord).rgb;
+     vec3 normal = mat3(gbufferModelView) * worldNormal;
+ 
+     vec2 coord = texcoord;
+ 
+-    vec3 flatWorldNormal = DecodeNormal(texture(colortex6, texcoord).r);
+-    vec3 flatNormal = mat3(gbufferModelView) * flatWorldNormal;
++    vec3 flatWorldNormal = worldNormal;
++    vec3 flatNormal = normal;
++    
+     
+-    #ifdef REFRACTION
+-        if (isTransparent) {
+-            vec3 rayDirection = refract(vDir, normal - flatNormal, 0.75);
+-            vec3 refractedPosition = rayDirection * abs(distance(position0[1], position1[1])) + position0[0];
+-                    refractedPosition = ViewSpaceToScreenSpace(refractedPosition);
+-                    refractedPosition.z = texture2D(depthtex1, refractedPosition.xy).x;
+-
+-            if(refractedPosition.z > texture2D(depthtex0, refractedPosition.xy).x) {
+-                coord = refractedPosition.xy;
+-                depth1 = refractedPosition.z;
+-
+-                position1[0] = CalculateViewSpacePosition(refractedPosition);
+-                position1[1] = CalculateWorldSpacePosition(position1[0]);
+-
+-                float normFactor = inversesqrt(dot(position1[0], position1[0]));
+-                vDir = normFactor * position1[0];
+-
+-                wDir = mat3(gbufferModelViewInverse) * vDir;
+-            }
+-        }
+-    #endif
+ 
+     vec3 SkyRadiance = vec3(0.0);
+ 
+@@ -771,8 +756,8 @@ void main() {
+ 	vec3 kCamera = vec3(0.0, 0.05 + cameraPosition.y / 1000.0 + ATMOSPHERE.bottom_radius, 0.0);
+ 	vec3 kPoint  = kCamera + position1[1] / 1000.0;
+ 	
+-    float airVolumeShadowing = CalculateLitAirVolume(gbufferModelViewInverse[3].xyz, position0[1], dither_2);
+-	      airVolumeShadowing = (1-airVolumeShadowing) * length(position0[1]) / 1000.0;
++    float airVolumeShadowing = CalculateLitAirVolume(gbufferModelViewInverse[3].xyz, position1[1], dither_2);
++	      airVolumeShadowing = (1-airVolumeShadowing) * length(position1[1]) / 1000.0;
+     
+ 	/*
+         vec2 sphereCoord = sphereToCart(normalize(wDir));
+@@ -782,84 +767,10 @@ void main() {
+         return;
+     */
+ 
+-    if (depth1 >= 1.0) {
+-        vec3 transmit = vec3(0.0);
+-        vec3 SkyRadianceMoon = vec3(0.0);
+-        SkyRadiance = SKY_SPECTRAL_RADIANCE_TO_LUMINANCE * GetSkyRadiance(ATMOSPHERE, colortex7, colortex7, colortex7, kCamera, wDir, airVolumeShadowing, wSunVector, transmit, SkyRadianceMoon);
+-		SkyRadianceMoon = SKY_SPECTRAL_RADIANCE_TO_LUMINANCE_MOON * SkyRadianceMoon;
+-        SkyRadiance += SkyRadianceMoon;
+-
+-        SkyRadiance = CalculateSunLimbDarkening(SkyRadiance, vDir, transmit);
+-        SkyRadiance = CalculateMoon(SkyRadiance, vDir, transmit);
+-        SkyRadiance = calculateStars(SkyRadiance, wDir, wMoonVector, transmit);
+-
+-        vec2 planetSphere = rsi(kCamera, wDir, ATMOSPHERE.bottom_radius);
+-
+-        #ifdef PLANET_SURFACE
+-            if (planetSphere.y > 0.0) {
+-                vec3 planetSurfacePosition = kCamera + wDir * planetSphere.x;
+-                vec3 normal = normalize(planetSurfacePosition);
+-
+-                // Planet Lighting
+-                vec3 skyIrradiance = vec3(0.0);
+-                vec3 moon_irradiance = vec3(0.0);
+-                vec3 sky_irradiance_moon = vec3(0.0);
+-                vec3 sunIrradiance = GetSunAndSkyIrradiance(ATMOSPHERE, colortex7, colortex7, planetSurfacePosition , normal, wSunVector, wMoonVector, skyIrradiance, sky_irradiance_moon, moon_irradiance) * SUN_SPECTRAL_RADIANCE_TO_LUMINANCE;
+-                moon_irradiance = MOON_SPECTRAL_RADIANCE_TO_LUMINANCE * moon_irradiance;
+-                sunIrradiance += moon_irradiance;
+-
+-                skyIrradiance *= SKY_SPECTRAL_RADIANCE_TO_LUMINANCE;
+-                sky_irradiance_moon *= SKY_SPECTRAL_RADIANCE_TO_LUMINANCE_MOON;
+-                skyIrradiance += sky_irradiance_moon;
+-
+-                const vec3 planetAlbedo = vec3(0.05, 0.1, 0.15);
+-                const float waterRoughness = 0.2;
+-
+-                const float alpha = waterRoughness * waterRoughness;
+-                const float alpha2 = alpha * alpha;
+-
+-                const float planetf0 = 0.0201;
+-
+-                float NoL = clamp01(dot(normal, wLightVector));
+-                vec3 planet = sunIrradiance * sqrt(NoL) + skyIrradiance;
+-                     planet *= planetAlbedo * rPI;
+-
+-                vec3 transmit;
+-                vec3 in_scatter_moon;
+-                vec3 in_scatter = GetSkyRadianceToPoint(ATMOSPHERE, colortex7, colortex7, colortex7, kCamera, planetSurfacePosition, 0.0, wSunVector, transmit, in_scatter_moon) * SKY_SPECTRAL_RADIANCE_TO_LUMINANCE;
+-                in_scatter_moon *= SKY_SPECTRAL_RADIANCE_TO_LUMINANCE_MOON;
+-                in_scatter += in_scatter_moon;
+-                
+-                planet = planet * transmit + in_scatter;
+-                
+-                SkyRadiance = planet;
+-            }
+-        #endif
+-        
+-        #ifdef PLANAR_CLOUDS
+-            SkyRadiance = calculatePlanarClouds(SkyRadiance, wDir, wLightVector, planetSphere, dither_2, VoL, ATMOSPHERE.bottom_radius * 1000.0);
+-        #endif
+-        
+-        float cloudTransmit = 1.0;
+-		vec3 cloud = vec3(0.0);
+-
+-        //vec4 clouds = SampleClouds((texcoord + vec2(0.0, 1.0)) * 0.5);
+-		
+-		calculateVolumetricClouds(cloud, cloudTransmit, wDir, wLightVector, position1[1], planetSphere, dither_2, VoL, ATMOSPHERE.bottom_radius * 1000.0, VC_QUALITY, VC_SUNLIGHT_QUALITY);
+-		SkyRadiance = SkyRadiance * cloudTransmit + cloud;
+-        SkyRadiance = CalculateMorningFog(SkyRadiance, gbufferModelViewInverse[3].xyz, wDir * far * 1.2, VoL, dither_2);
+-        
+-        if(depth0 >= 1.0 && isEyeInWater == 0) {
+-            Buffer0 = EncodeRGBE8(max0(SkyRadiance));
+-
+-            exit();
+-            return;
+-        }
+-        
+-    }
++    
+     #endif
+ 
+-    vec3 sample1 = depth1 >= 1.0 ? SkyRadiance : DecodeRGBE8(texture(colortex0, coord));
++    vec3 sample1 = DecodeRGBE8(texture(colortex0, coord));
+     vec4 sample0 = vec4(0.0);
+ 	
+     vec2 decode2y = Decode2x8(materialData.y);
+@@ -883,37 +794,17 @@ void main() {
+     #if defined WORLD0 || defined WORLD1
+     if (isWater || isEyeInWater == 1) {
+         float skylightOcclusion = CalculateSkyVolumeOcclusion(skyLightmap);
+-        sample1.rgb = CalculateWaterVolume(sample1.rgb, isEyeInWater == 0 ? position0[1] : gbufferModelViewInverse[3].xyz, isEyeInWater == 0 ? position1[1] : position0[1], dither_2, VoL, skylightOcclusion, waterScattering, waterTransmit);
++        sample1.rgb = CalculateWaterVolume(sample1.rgb, isEyeInWater == 0 ? position1[1] : gbufferModelViewInverse[3].xyz, isEyeInWater == 0 ? position1[1] : position1[1], dither_2, VoL, skylightOcclusion, waterScattering, waterTransmit);
+     }
+     #endif
+ 
+     // Single layered diffuse lighting on transparents
+-    if (isTransparent || isMetal) {
++    if (isMetal) {
+         sample0 = texture(colortex1, isWater ? coord : texcoord);
+         sample0.rgb = srgbToLinear(sample0.rgb);
+         sample0.rgb = dot(sample0.rgb, sample0.rgb) <= 0.0 ? vec3(1.0) : sample0.rgb;
+         sample0.a = pow3(sample0.a);
+-        
+-        vec3 shadows;
+-
+-        if (isMetal) {
+-            flatWorldNormal = DecodeNormal(texture(colortex5, texcoord).a);
+-        }
+-        
+-        vec3 scatteredLit = CalculateDiffuseLighting(position0, vec3(0.0), sample0.rgb, normal, worldNormal, flatWorldNormal, -flatVdir, depth1, roughness, reflectivity, metalIOR, vec2(torchLightmap, skyLightmap), dither, 1.0, false, false, false, false, shadows);
+-    
+-        vec3 F = FMaster(reflectivity, clamp01(dot(normal, -flatVdir)), metalIOR, metalAlbedo);
+-
+-        //Blend translucent albedo with color
+-        if (isTransparent) {
+-            sample1 -= waterScattering;
+-            sample1 = sample1 * (1.0 - F) * (sample0.rgb * (1.0 - sample0.a)) + scatteredLit * sample0.a;
+-            sample1 = isEyeInWater == 1 ? sample1 * waterTransmit + waterScattering : sample1 + waterScattering * (1.0 - F);
+-        }
+-
+         sample1 *= float(!isMetal);
+-
+-        sample1 += CalculateSpecularHighlight(isTransparent ? sample0.rgb : metalAlbedo, lightVector, normal, -flatVdir, shadows, roughness, reflectivity, metalIOR) * (isWater ? vec3(1.0) : waterTransmit);
+     }
+ 
+     // Aerial Perspective
+@@ -927,21 +818,21 @@ void main() {
+     float eyeInWaterFloat = float(isEyeInWater == 1);
+     sample1 -= waterScattering * eyeInWaterFloat;
+     sample1 = isMetal ? max0(sample1) : sample1;
+-    sample1 += CalculateSpecularReflections(metalAlbedo, position0[0], flatWdir, worldNormal, isHand ? 0.7 : depth0, roughness, reflectivity, metalIOR, dither_2, skyLightmap * float(isEyeInWater == 0), isMetal) * mix(vec3(1.0), waterTransmit, eyeInWaterFloat);
++    sample1 += CalculateSpecularReflections(metalAlbedo, position1[0], flatWdir, worldNormal, isHand ? 0.7 : depth1, roughness, reflectivity, metalIOR, dither_2, skyLightmap * float(isEyeInWater == 0), isMetal) * mix(vec3(1.0), waterTransmit, eyeInWaterFloat);
+     sample1 += waterScattering * eyeInWaterFloat;
+     
+     #if defined WORLD0
+     if (isEyeInWater == 0) {
+-        sample1 = CalculateMorningFog(sample1, gbufferModelViewInverse[3].xyz, position0[1], VoL, dither_2);
++        sample1 = CalculateMorningFog(sample1, gbufferModelViewInverse[3].xyz, position1[1], VoL, dither_2);
+     }
+     #endif
+ 
+     #if defined WORLD_1
+-        sample1 = calculateNetherFog(sample1, position0[0]);
++        sample1 = calculateNetherFog(sample1, position1[0]);
+     #endif
+ 
+     #if defined WORLD1
+-        sample1 = calculateEndFog(sample1, position0[0]);
++        sample1 = calculateEndFog(sample1, position1[0]);
+     #endif
+ 
+     /*
+diff --git a/Continuum 2.1 Alpha forRTM 1.0.0/shaders/Composite3.glsl b/Continuum 2.1 Alpha forRTM 1.0.0/shaders/Composite3.glsl
+new file mode 100644
+index 0000000..2f03e10
+--- /dev/null
++++ b/Continuum 2.1 Alpha forRTM 1.0.0/shaders/Composite3.glsl	
+@@ -0,0 +1,971 @@
++/********************************************************
++    © 2020 Continuum Graphics LLC. All Rights Reserved
++ ********************************************************/
++
++#include "/../ContinuumLib/Syntax.glsl"
++
++#define Composite3_glsl 33
++#define DynamicShaderStage Composite3_glsl
++
++
++flat varying vec3 lightVector;
++flat varying vec3 wLightVector;
++
++flat varying vec3 sunPositionNorm;
++flat varying vec3 moonPositionNorm;
++flat varying vec3 wSunVector;
++flat varying vec3 wMoonVector;
++
++varying vec3 skyIlluminanceVert;
++varying vec3 sunIlluminanceVert;
++
++varying vec3 skyIlluminanceClouds;
++varying vec3 sunIlluminanceClouds;
++
++varying vec4 shR;
++varying vec4 shG;
++varying vec4 shB;
++
++varying vec2 texcoord;
++
++flat varying float timeSunrise;
++
++flat varying int isNight;
++
++
++/***********************************************************************/
++#if defined vsh
++
++uniform sampler3D colortex4;
++uniform sampler2D colortex3;
++
++uniform mat4 gbufferProjection;
++uniform mat4 gbufferProjectionInverse;
++uniform mat4 gbufferModelView;
++uniform mat4 gbufferModelViewInverse;
++
++uniform mat4 shadowModelView;
++uniform mat4 shadowModelViewInverse;
++
++uniform vec3 sunPosition;
++uniform vec3 shadowLightAngles;
++
++uniform float fov;
++uniform float eyeAltitude;
++uniform float wetness;
++
++uniform vec3 cameraPosition;
++
++uniform int worldTime;
++
++#include "/../ContinuumLib/Debug.glsl"
++
++#include "/../ContinuumLib/Utilities.glsl"
++
++#include "/../ContinuumLib/Uniform/ShadowMatrices.glsl"
++#include "/../ContinuumLib/Uniform/ProjectionMatrices.glsl"
++
++#include "/../ContinuumLib/Utilities/SphericalHarmonics.glsl"
++
++#include "/../ContinuumLib/Common/PrecomputedSky.glsl"
++
++void CalculateSH(out vec4 shR, out vec4 shG, out vec4 shB) {
++    shR = shZero();
++    shG = shZero();
++    shB = shZero();
++
++    const float axisSampleCount = 8.0;
++    
++    // Accumulate coefficients according to surounding direction/color tuples.
++    for (float az = 0.5; az < axisSampleCount; az += 1.0) {
++        for (float ze = 0.5; ze < axisSampleCount; ze += 1.0) {
++            vec3 rayDir = shGetUniformSphereSample(az / axisSampleCount, ze / axisSampleCount);
++
++            vec3 color = vec3(0.0);
++
++            // Make sure light doesn't go through the horizon.
++            if (rayDir.y > 0.0) {
++                color = DecodeRGBE8(texture(colortex3, sphereToCart(rayDir) * 0.5));
++            }
++
++            vec4 sh = shEvaluateCosineLobe(rayDir);
++            shR = shAdd(shR, shScale(sh, color.r));
++            shG = shAdd(shG, shScale(sh, color.g));
++            shB = shAdd(shB, shScale(sh, color.b));
++        }
++    }
++    
++    // integrating over a sphere so each sample has a weight of 4*PI/samplecount (uniform solid angle, for each sample)
++    float shFactor = 4.0 * PI / (axisSampleCount * axisSampleCount);
++    shR = shScale(shR, shFactor );
++    shG = shScale(shG, shFactor );
++    shB = shScale(shB, shFactor );
++
++}
++
++void main() {
++    texcoord = gl_Vertex.xy;
++
++    #if defined WORLD0
++    sunPositionNorm = sunPosition * 0.01;
++    moonPositionNorm = -sunPosition * 0.01;
++    wSunVector = mat3(gbufferModelViewInverse) * sunPositionNorm;
++    wMoonVector = mat3(gbufferModelViewInverse) * moonPositionNorm;
++
++    lightVector = (worldTime > 23075 || worldTime < 12925 ? sunPositionNorm : moonPositionNorm);
++    wLightVector = mat3(gbufferModelViewInverse) * lightVector;
++
++    isNight = int(lightVector == moonPositionNorm);
++    
++    vec3 moon_irradiance = vec3(0.0);
++    vec3 sky_irradiance_moon = vec3(0.0);
++
++    sunIlluminanceClouds = SUN_SPECTRAL_RADIANCE_TO_LUMINANCE * GetSunAndSkyIrradiance(ATMOSPHERE, colortex4, colortex4, vec3(0.0, volumetric_cloudHeight / 1000.0 + ATMOSPHERE.bottom_radius, 0.0), vec3(0.0, 1.0, 0.0), wSunVector, wMoonVector, skyIlluminanceClouds, sky_irradiance_moon, moon_irradiance);
++	moon_irradiance = MOON_SPECTRAL_RADIANCE_TO_LUMINANCE * moon_irradiance;
++    sunIlluminanceClouds += moon_irradiance;
++
++    skyIlluminanceClouds *= SKY_SPECTRAL_RADIANCE_TO_LUMINANCE;
++    sky_irradiance_moon *= SKY_SPECTRAL_RADIANCE_TO_LUMINANCE_MOON;
++    skyIlluminanceClouds += sky_irradiance_moon;
++
++    sunIlluminanceVert = SUN_SPECTRAL_RADIANCE_TO_LUMINANCE * GetSunAndSkyIrradiance(ATMOSPHERE, colortex4, colortex4, vec3(0.0, volumetric_cloudHeight / 1000.0 + ATMOSPHERE.bottom_radius, 0.0), vec3(0.0, 1.0, 0.0), wSunVector, wMoonVector, skyIlluminanceVert, sky_irradiance_moon, moon_irradiance);
++	moon_irradiance = MOON_SPECTRAL_RADIANCE_TO_LUMINANCE * moon_irradiance;
++    sunIlluminanceVert += moon_irradiance;
++
++    skyIlluminanceVert *= SKY_SPECTRAL_RADIANCE_TO_LUMINANCE;
++    sky_irradiance_moon *= SKY_SPECTRAL_RADIANCE_TO_LUMINANCE_MOON;
++    skyIlluminanceVert += sky_irradiance_moon;
++
++    float localTime = float(worldTime);
++    timeSunrise = clamp01((localTime - 22500.0) / 600.0) + (1.0 - clamp01((localTime - 200.0) / 2000.0));
++
++    CalculateSH(shR, shG, shB);
++    #endif
++    
++    CalculateProjectionMatrices();
++    CalculateShadowMatrices();
++
++    gl_Position = ftransform();
++}
++
++#endif
++/***********************************************************************/
++
++
++
++/***********************************************************************/
++#if defined fsh
++
++#include "/../ContinuumLib/Debug.glsl"
++
++uniform sampler2D colortex0;
++uniform sampler2D colortex1; //Translucent albedo
++uniform sampler2D colortex2; //Translucent data
++uniform sampler2D colortex3; //Skysphere
++uniform sampler2D colortex5; //Metal albedo
++uniform sampler2D colortex6; //Encoded flat normal
++uniform sampler2D colortex7;
++
++uniform sampler3D colortex4;
++
++uniform sampler2D noisetex;
++
++uniform sampler2D depthtex0;
++uniform sampler2D depthtex1;
++
++uniform sampler2D shadowtex0;
++uniform sampler2D shadowtex1;
++uniform sampler2D shadowcolor;
++uniform sampler2D shadowcolor1;
++
++uniform mat4 gbufferModelView;
++uniform mat4 gbufferModelViewInverse;
++uniform mat4 gbufferProjection;
++uniform mat4 gbufferProjectionInverse;
++
++uniform mat4 shadowModelView;
++uniform mat4 shadowProjection;
++uniform mat4 shadowModelViewInverse;
++uniform mat4 shadowProjectionInverse;
++
++uniform vec3 cameraPosition;
++
++uniform vec2 viewDimensions;
++uniform vec2 pixelSize;
++uniform vec2 taaJitter;
++
++uniform float frameTimeCounter;
++uniform float eyeAltitude;
++uniform float wetness;
++uniform float fov;
++
++uniform float near;
++uniform float far;
++
++uniform int isEyeInWater;
++uniform int frameCounter;
++
++uniform ivec2 eyeBrightnessSmooth;
++
++//uniform float aspectRatio;
++
++#include "/ShaderConstants.glsl"
++
++/* DRAWBUFFERS:0 */
++layout (location = 0) out vec4 Buffer0;
++#define LAYOUT_0 Buffer0
++#include "/../ContinuumLib/Exit.glsl"
++
++#include "/../ContinuumLib/Utilities.glsl"
++
++#include "/../ContinuumLib/Uniform/ShadowMatrices.glsl"
++#include "/../ContinuumLib/Uniform/ProjectionMatrices.glsl"
++
++/*******************************************************************************
++ - Sample Functions
++******************************************************************************/
++
++float GetDepth(vec2 coord) {
++    return texture(depthtex0, coord).x;
++}
++
++/*******************************************************************************
++ - Space Conversions
++******************************************************************************/
++
++vec3 CalculateViewSpacePosition(vec3 screenPos) {
++    #ifdef TAA
++        screenPos -= vec3(taaJitter, 0.0) * 0.5;
++    #endif
++    screenPos = screenPos * 2.0 - 1.0;
++
++    return projMAD(projInverseMatrix, screenPos) / (screenPos.z * projInverseMatrix[2].w + projInverseMatrix[3].w);
++}
++
++vec3 CalculateViewSpacePosition(vec2 coord) {
++    #ifdef TAA
++        coord -= taaJitter * 0.5;
++    #endif
++    vec3 screenPos = vec3(coord, GetDepth(coord)) * 2.0 - 1.0;
++
++    return projMAD(projInverseMatrix, screenPos) / (screenPos.z * projInverseMatrix[2].w + projInverseMatrix[3].w);
++}
++
++vec3 CalculateViewSpacePosition(vec2 coord, float depth) {
++    #ifdef TAA
++        coord -= taaJitter * 0.5;
++    #endif
++    vec3 screenPos = vec3(coord, depth) * 2.0 - 1.0;
++
++    return projMAD(projInverseMatrix, screenPos) / (screenPos.z * projInverseMatrix[2].w + projInverseMatrix[3].w);
++}
++
++vec3 CalculateWorldSpacePosition(vec3 viewPos) {
++    return mat3(gbufferModelViewInverse) * viewPos + gbufferModelViewInverse[3].xyz;
++}
++
++float ScreenToViewSpaceDepth(float p) {
++    p = p * 2.0 - 1.0;
++    vec2 x = projInverseMatrix[2].zw * p + projInverseMatrix[3].zw;
++
++    return x.x / x.y;
++}
++
++vec3 ViewSpaceToScreenSpace(vec3 viewPos) {
++    return ((projMAD(projMatrix, viewPos) / -viewPos.z)) * 0.5 + 0.5;
++}
++
++/*******************************************************************************
++ - Includes
++******************************************************************************/
++
++#include "/../ContinuumLib/Common/PrecomputedSky.glsl"
++
++#include "/../InternalLib/Fragment/VolumetricClouds.fsh"
++#include "/../InternalLib/Fragment/PlanarClouds.fsh"
++
++#include "/../InternalLib/Fragment/DiffuseLighting.fsh"
++#include "/../InternalLib/Fragment/WaterVolume.fsh"
++
++#include "/../InternalLib/Fragment/VolumetricLighting.fsh"
++#include "/../InternalLib/Fragment/ScreenspaceRaytracer.fsh"
++
++#include "/../ContinuumLib/Common/MatID.glsl"
++
++float CalculateSkyVolumeOcclusion(float skyLightmap){
++    if (isEyeInWater != 1) {
++        return skyLightmap * skyLightmap;
++    }
++
++    float occlusion = eyeBrightnessSmooth.y * (1.0 / 255.0);
++
++    return occlusion * occlusion;
++}
++
++vec3 CalculateSunLimbDarkening(vec3 SkyRadiance, vec3 viewVector, vec3 transmit) {
++    const vec3 u = vec3(1.0, 1.0, 1.0);
++    const vec3 a = vec3(0.397, 0.503, 0.652);
++
++    float VoL = dot(viewVector, sunPositionNorm);
++    float sunSize = cos(ATMOSPHERE.sun_angular_radius);
++
++    if (VoL > sunSize) {
++        float centerToEdge = clamp01((1.0 - clamp01(VoL)) / (1.0 - sunSize));
++        float mu = sqrt(1.0 - centerToEdge * centerToEdge);
++        
++        vec3 factor = 1.0 - u * (1.0 - pow(vec3(mu) , a));
++
++        SkyRadiance = SkyRadiance + transmit * GetSolarRadiance() * factor;
++    }
++
++    return SkyRadiance;
++}
++
++vec3 CalculateMoon(vec3 SkyRadiance, vec3 viewVector, vec3 transmit) {
++    float VoL = dot(viewVector, -sunPositionNorm);
++    float moonAngle = cos(ATMOSPHERE.moon_angular_radius);
++
++    if (VoL > moonAngle) {
++        vec3 lunarRadiance = GetLunarRadiance();
++        float centerToEdge = (1.0 - clamp01(VoL)) / (1.0 - moonAngle);
++        float mu = sqrt(1.0 - centerToEdge * centerToEdge);
++
++        SkyRadiance += lunarRadiance * transmit * mu;
++    }
++    
++
++    return SkyRadiance;
++}
++
++vec2 hammersley(uint i, float numSamples) {
++    uint bits = i;
++    bits = (bits << 16) | (bits >> 16);
++    bits = ((bits & 0x55555555) << 1) | ((bits & 0xAAAAAAAA) >> 1);
++    bits = ((bits & 0x33333333) << 2) | ((bits & 0xCCCCCCCC) >> 2);
++    bits = ((bits & 0x0F0F0F0F) << 4) | ((bits & 0xF0F0F0F0) >> 4);
++    bits = ((bits & 0x00FF00FF) << 8) | ((bits & 0xFF00FF00) >> 8);
++
++    return vec2(i / numSamples, bits * exp2(-32));
++}
++
++vec3 sampleGGXVNDF(vec3 Ve, float alpha, vec2 Xi) {
++    Xi.y = mix(Xi.y, 0.0, SPECULAR_TAIL_CLAMP);
++
++    // Section 3.2: transforming the view direction to the hemisphere configuration
++    vec3 Vh = normalize(vec3(alpha * Ve.x, alpha * Ve.y, Ve.z));
++
++    // Section 4.1: orthonormal basis (with special case if cross product is zero)
++    float lensq = Vh.x * Vh.x + Vh.y * Vh.y;
++    vec3 T1 = lensq > 0.0 ? vec3(-Vh.y, Vh.x, 0.0) * inversesqrt(lensq) : vec3(1.0, 0.0, 0.0);
++    vec3 T2 = cross(Vh, T1);
++
++    // Section 4.2: parameterization of the projected area
++    float r = sqrt(Xi.y);
++    float phi = TAU * Xi.x;
++
++    float s = 0.5 * (1.0 + Vh.z);
++
++    float t1 = r * cos(phi);
++    float t2 = r * sin(phi);
++        t2 = (1.0 - s) * sqrt(1.0 - t1 * t1) + s * t2;
++
++    // Section 4.3: reprojection onto hemisphere
++    vec3 Nh = t1 * T1 + t2 * T2 + sqrt(max0(1.0 - t1 * t1 - t2 * t2)) * Vh;
++
++    // Section 3.4: transforming the normal back to the ellipsoid configuration
++    vec3 Ne = normalize(vec3(alpha * Nh.x, alpha * Nh.y, max0(Nh.z)));
++
++    return Ne;
++}
++
++uint triple32(uint x) {
++    // https://nullprogram.com/blog/2018/07/31/
++    x ^= x >> 17;
++    x *= 0xed5ad4bbu;
++    x ^= x >> 11;
++    x *= 0xac4c1b51u;
++    x ^= x >> 15;
++    x *= 0x31848babu;
++    x ^= x >> 14;
++    return x;
++}
++
++uint randState = triple32(uint(gl_FragCoord.x + viewDimensions.x * gl_FragCoord.y) + uint(viewDimensions.x * viewDimensions.y) * frameCounter);
++uint RandNext() { return randState = triple32(randState); }
++#define RandNext2() uvec2(RandNext(), RandNext())
++#define RandNext3() uvec3(RandNext2(), RandNext())
++#define RandNext4() uvec4(RandNext3(), RandNext())
++#define RandNextF() (float(RandNext()) / float(0xffffffffu))
++#define RandNext2F() (vec2(RandNext2()) / float(0xffffffffu))
++#define RandNext3F() (vec3(RandNext3()) / float(0xffffffffu))
++#define RandNext4F() (vec4(RandNext4()) / float(0xffffffffu))
++
++vec3 CalculateSpecularReflections(vec3 albedo, vec3 position, vec3 wViewVector, vec3 wNormal, float depth, float roughness, float f0, mat2x3 metalIOR, float dither, float skyLightmap, bool isMetal) {
++    if (roughness == 1.0) return vec3(0.0);
++
++    float alpha = roughness * roughness;
++    float alpha2 = alpha * alpha;
++
++    vec3 V = -wViewVector;
++    vec3 N = wNormal;
++
++    vec3 specular = vec3(0.0);
++
++    const int samples = SPECULAR_QUALITY;
++
++    mat3 tangentToWorld;
++    tangentToWorld[0] = normalize(cross(gbufferModelView[1].xyz, N));
++    tangentToWorld[1] = cross(N, tangentToWorld[0]);
++    tangentToWorld[2] = N;
++
++    float NoV = max(1e-12, dot(N, V));
++
++    float G1V = G1Smith(alpha2, NoV);
++
++    float skyLightmap2 = clamp01(skyLightmap * 1.05);
++          skyLightmap2 = skyLightmap2 * skyLightmap2;
++
++    vec3 clipSpacePosition = vec3(texcoord, depth);
++    vec3 tbnV = V * tangentToWorld;
++
++    for(int i = 0; i < samples; ++i) {
++        vec2 uv = RandNext2F();
++             
++        vec3 H = tangentToWorld * sampleGGXVNDF(tbnV, alpha, uv);
++        vec3 L = -reflect(V, H);
++
++        float NoL = max(1e-12, dot(N, L));
++
++        float VoH = max0(dot(V, H));
++
++        float G2Smith = G2Smith(alpha2, NoL, NoV);
++        vec3 F = FMaster(f0, VoH, metalIOR, albedo);
++
++        /*
++        vec2 hitPixel;
++        vec3 csHitPoint;
++        float stepCount;
++
++        bool wasHit = traceScreenSpaceRay(
++                    position,
++                    mat3(gbufferModelView) * L,
++                    dither,
++                    hitPixel,
++                    csHitPoint);
++        
++
++        if(wasHit) {
++            specular += DecodeRGBE8(texture(colortex0, hitPixel)) * (F * G2Smith / G1V) * clamp01(sign(NoL * NoV));
++        } else {
++            specular += DecodeRGBE8(texture(colortex3, sphereToCart(L) * 0.5)) * (F * G2Smith / G1V) * clamp01(sign(NoL * NoV)) * skyLightmap2; // G1V handled in importance sample
++        }
++        */
++
++        vec3 reflection = rayTrace(
++                    position, 
++                    mat3(gbufferModelView) * L,
++                    NoV,
++                    dither, 
++                    clipSpacePosition,
++                    DecodeRGBE8(texture(colortex3, sphereToCart(L) * 0.5)), 
++                    skyLightmap2);
++
++        specular += reflection * (F * G2Smith / G1V) * clamp01(sign(NoL * NoV));
++    }
++
++    specular /= samples;
++
++    if(isMetal && f0 < 1.0) specular *= albedo;
++
++    return max0(specular);
++}
++
++vec4 SampleClouds(vec2 coord){
++    vec2 noise = texture(noisetex, texcoord * 0.25 * 64.0).xy * 2.0 - 1.0;
++
++    coord += noise * pixelSize;
++
++    vec2 minCoord = vec2(0.0, 0.5) + pixelSize * 2.0;
++    vec2 maxCoord = vec2(0.5, 1.0) - pixelSize;
++    coord = clamp(coord, minCoord, maxCoord);
++
++    vec4 clouds = texture(colortex3, coord);
++
++    return clouds * vec2(100.0, 1.0).xxxy;
++}
++
++#define VF_MULTISCAT_A 0.5
++#define VF_MULTISCAT_B 0.5
++#define VF_MULTISCAT_C 0.5
++
++#define VF_MULTISCAT_QUALITY 8
++
++float CalculateFogPhase(float vDotL){
++    const float mixer = 0.5;
++
++    float g1 = PhaseG(vDotL, 0.6);
++    float g2 = PhaseG(vDotL, -0.5);
++
++    return mix(g2, g1, mixer);
++}
++
++float CalculateMorningFogDepth(vec3 rayPosition){
++    float k = abs(rayPosition.y - VOLUMETRIC_FOG_HEIGHT) / VOLUMETRIC_FOG_FALLOFF;
++
++    float fogDis = exp2(-pow(k, 0.75));
++
++    vec3 fogCloudPos = rayPosition * 0.025;
++
++    #ifdef VOLUMETRIC_FOG_NOISE
++        float fogClouds = texture(noisetex, (fogCloudPos.xz * vec2(1.0, 0.4) - TIME * 0.1) * (1.0 / 64.0)).x;
++            fogClouds = fogClouds * fogClouds * (3.0 - 2.0 * fogClouds);
++            fogClouds += Calculate3DNoise(fogCloudPos * 4.0 - TIME * 0.1) * (1.0 / 2.0);
++            fogClouds += Calculate3DNoise(fogCloudPos * 8.0 - TIME * 0.1) * (1.0 / 4.0);
++            fogClouds += Calculate3DNoise(fogCloudPos * 16.0 - TIME * 0.1) * (1.0 / 4.0);
++    #else
++        float fogClouds = 1.0;
++    #endif
++    
++    fogClouds = (fogClouds * 0.5 + 0.5) * timeSunrise * fogDis;
++
++    #ifdef VOLUMETRIC_FOG_NOISE
++        fogClouds = clamp01(fogClouds * 2.0 - 1.0);
++    #endif
++
++    return fogClouds * VOLUMETRIC_FOG_DENSITY * timeSunrise;
++}
++
++float CalculateMorningFogDepth(vec3 rayPosition, vec3 direction, const int steps){
++    float stepLength = 2.0;
++
++    float totalDepth = 0.0;
++
++    for (int i = 0; i < steps; ++i, rayPosition += direction * stepLength){
++        totalDepth += CalculateMorningFogDepth(rayPosition) * stepLength;
++
++        stepLength *= 1.5;
++    }
++
++    return totalDepth;
++}
++
++void IntegrateFogScattering(vec3 rayPosition, vec3 shadowRayPosition, float stepTransmittance, float integral, float shadow, float sunDepth, float phase, float powder, float an, float bn, inout float transmittance, inout float directScattering, inout float indirectScattering){
++    float directShadowing = shadow * exp2(-sunDepth * rLOG2 * bn);
++
++    directScattering += integral * transmittance * an * directShadowing * phase * powder;
++    indirectScattering += integral * transmittance * an;
++}
++
++float CalculatePowderEffectVl(float powder, float VoL){
++    float r = VoL * 0.5 + 0.5;
++
++    return powder * (1.0 - r) + r;
++}
++
++void IntegrateFogScattering(vec3 rayPosition, vec3 shadowRayPosition, float stepTransmittance, float stepDepth, float VoL, float phases[VF_MULTISCAT_QUALITY], inout float transmittance, inout float directScattering, inout float indirectScattering){
++    float integral = 1.0 - stepTransmittance;
++    float sunDepth = CalculateMorningFogDepth(rayPosition, wLightVector, 10);
++    float shadow = CalculateVolumeInShadow(shadowRayPosition);
++
++    float powderLight  = CalculatePowderEffect(sunDepth);
++    float powderView = CalculatePowderEffect(stepDepth);
++
++    float powder = CalculatePowderEffectVl(powderLight, VoL) *
++                   CalculatePowderEffectVl(powderView, VoL);
++
++    float an = 1.0, bn = 1.0;
++
++    for (int i = 0; i < VF_MULTISCAT_QUALITY; ++i){
++        float phase = phases[i];
++
++        IntegrateFogScattering(rayPosition, shadowRayPosition, stepTransmittance, integral, shadow, sunDepth, phase, powder, an, bn, transmittance, directScattering, indirectScattering);
++
++        an *= VF_MULTISCAT_A;
++        bn *= VF_MULTISCAT_B;
++    }
++
++    transmittance *= stepTransmittance;
++}
++
++void CalculateMultipleScatteringFogPhases(float vDotL, inout float phases[VF_MULTISCAT_QUALITY]){
++    float cn = 1.0;
++
++    for (int i = 0; i < VF_MULTISCAT_QUALITY; ++i){
++        phases[i] = CalculateFogPhase(vDotL * cn);
++
++        cn *= VF_MULTISCAT_C;
++    }
++}
++
++vec3 CalculateMorningFog(vec3 backGroundCol, vec3 start, vec3 end, float VoL, float dither){
++    #ifndef VOLUMETRIC_FOG
++        return backGroundCol;
++    #endif
++
++    if (timeSunrise <= 0.0) return backGroundCol;
++    
++    const int steps = VOLUMETRIC_FOG_QUALITY;
++    
++    vec3 increment = (end - start) / steps;
++    vec3 rayPosition = increment * dither + start + cameraPosition;
++
++    vec3 shadowStart = WorldSpaceToShadowSpace(start);
++    vec3 shadowEnd = WorldSpaceToShadowSpace(end);
++
++    vec3 shadowIncrement = (shadowEnd - shadowStart) / steps;
++    vec3 shadowRayPosition = shadowIncrement * dither + shadowStart;
++
++    float rayLength = length(increment);
++
++    float transmittance = 1.0;
++    
++    float directScattering = 0.0;
++    float indirectScattering = 0.0;
++
++    float[VF_MULTISCAT_QUALITY] phases;
++    CalculateMultipleScatteringFogPhases(VoL, phases);
++
++    float depthCompensation = sqrt(steps / (rayLength * 1.73205080757)); // 1.0 / sqrt(3) for alignment
++
++    for (int i = 0; i < steps; ++i, rayPosition += increment, shadowRayPosition += shadowIncrement){
++        if (transmittance < 0.001) {transmittance = 0.0; break;}
++
++        float stepDepth = CalculateMorningFogDepth(rayPosition) * rayLength;
++        if (stepDepth <= 0.0) continue;
++
++        float stepTransmittance = exp2(-stepDepth * rLOG2);
++        
++        IntegrateFogScattering(rayPosition, shadowRayPosition, stepTransmittance, stepDepth * depthCompensation, VoL, phases, transmittance, directScattering, indirectScattering);
++    }
++
++    float skyOcclude = eyeBrightnessSmooth.y * (1.0 / 255.0);
++          skyOcclude = skyOcclude * skyOcclude;
++
++    vec3 totalScatteringSun = sunIlluminanceVert * directScattering;
++    vec3 totalScatteringSky = skyIlluminanceVert * 0.25 * rPI * indirectScattering * skyOcclude;
++
++    vec3 scattering = totalScatteringSun + totalScatteringSky;
++
++    return backGroundCol * transmittance + scattering;
++}
++
++vec3 calculateNetherFog(vec3 background, vec3 viewPos) {
++    const vec3 scatterColor = vec3(0.02, 0.006, 0.001);
++
++    float od = length(viewPos);
++
++    vec3 transmit = exp(-netherAbsorptionCoeff * od);
++    vec3 scatter = 1.0 - transmit;
++         scatter *= blackbody(LIGHT_TEMP) * LIGHT_LUM * scatterColor;
++         scatter *= 0.25 * rPI;
++
++    return background * transmit + scatter;
++}
++
++vec3 calculateEndFog(vec3 background, vec3 viewPos) {
++    float od = length(viewPos);
++
++    vec3 transmit = exp(-endAbsorptionCoeff * od);
++    vec3 scatter = 1.0 - transmit;
++         scatter *= END_AMBIENT_LUM;
++         scatter *= 0.25 * rPI;
++
++    return background * transmit + scatter;
++}
++
++float calculateAerialPerspective(vec3 worldDir, vec2 planetSphere, vec3 cloudHitPos, float dither) {
++    const int steps = 16;
++    const float rSteps = 1.0 / steps;
++
++    vec3 startPos = gbufferModelViewInverse[3].xyz;
++    
++    float endDis = planetSphere.y > 0.0 ? planetSphere.x * 1000.0 : length(cloudHitPos);
++    vec3 endPos = worldDir * min(endDis, 64000.0) + startPos;
++
++    vec3 increment = (endPos - startPos) * rSteps;
++    vec3 rayPosition = increment * dither + startPos;
++
++    float rayLength = length(increment);
++    
++    float totDis = 0.0;
++
++    for (int i = 0; i < steps; i++) {
++        totDis += CalculateCloudShadows(rayPosition + cameraPosition, wSunVector, 16);
++
++        rayPosition += increment;
++    }
++
++    return (-totDis * rSteps + 1.0) * length(endPos) * 0.001;
++}
++
++/*******************************************************************************
++ - Main
++******************************************************************************/
++
++void main() {
++    //This file takes in semis and the lit world and optionally blends them, if it doesnt blend them it handles all effects from the front geometry to the camera
++    //This file also handles specular.
++	
++	float depth0 = texture(depthtex0, texcoord).x;
++    float depth1 = texture(depthtex1, texcoord).x;
++
++    mat2x3 position0;
++    position0[0] = CalculateViewSpacePosition(vec3(texcoord, depth0));
++    position0[1] = CalculateWorldSpacePosition(position0[0]);
++    
++    mat2x3 position1;
++    position1[0] = CalculateViewSpacePosition(vec3(texcoord, depth1));
++    position1[1] = CalculateWorldSpacePosition(position1[0]);
++
++    float dither  = bayer64(gl_FragCoord.xy);
++	float dither_2 = dither;	//FrameCounter helps to resolve noise better for some functions. Mostly for volumetrics and importance sampling.
++	
++	#ifdef TAA
++	    dither  = fract(frameTimeCounter * (1.0 / 7.0) + dither);
++		dither_2 = fract(frameCounter * (1.0 / 7.0) + dither_2);
++    #endif
++
++    vec3 vDir = normalize(position0[0]);
++    vec3 wDir = mat3(gbufferModelViewInverse) * vDir;
++
++    vec3 flatVdir = vDir;   // For stuff on water and translucent surfaces
++    vec3 flatWdir = wDir;   // For stuff on water and translucent surfaces
++
++    bool isTransparent = depth1 > depth0;
++
++    vec4 materialData = textureRaw(colortex2, texcoord);
++	vec3 worldNormal = texture(colortex6, texcoord).rgb;
++    vec3 normal = mat3(gbufferModelView) * worldNormal;
++
++    vec2 coord = texcoord;
++
++    vec3 flatWorldNormal = worldNormal;
++    vec3 flatNormal = normal;
++    
++    #ifdef REFRACTION
++        if (isTransparent) {
++            vec3 rayDirection = refract(vDir, normal - flatNormal, 0.75);
++            vec3 refractedPosition = rayDirection * abs(distance(position0[1], position1[1])) + position0[0];
++                    refractedPosition = ViewSpaceToScreenSpace(refractedPosition);
++                    refractedPosition.z = texture2D(depthtex1, refractedPosition.xy).x;
++
++            if(refractedPosition.z > texture2D(depthtex0, refractedPosition.xy).x) {
++                coord = refractedPosition.xy;
++                depth1 = refractedPosition.z;
++
++                position1[0] = CalculateViewSpacePosition(refractedPosition);
++                position1[1] = CalculateWorldSpacePosition(position1[0]);
++
++                float normFactor = inversesqrt(dot(position1[0], position1[0]));
++                vDir = normFactor * position1[0];
++
++                wDir = mat3(gbufferModelViewInverse) * vDir;
++            }
++        }
++    #endif
++
++    vec3 SkyRadiance = vec3(0.0);
++
++    float VoL = dot(vDir, lightVector);
++
++    #if defined WORLD0
++	vec3 kCamera = vec3(0.0, 0.05 + cameraPosition.y / 1000.0 + ATMOSPHERE.bottom_radius, 0.0);
++	vec3 kPoint  = kCamera + position1[1] / 1000.0;
++	
++    float airVolumeShadowing = CalculateLitAirVolume(gbufferModelViewInverse[3].xyz, position0[1], dither_2);
++	      airVolumeShadowing = (1-airVolumeShadowing) * length(position0[1]) / 1000.0;
++    
++	/*
++        vec2 sphereCoord = sphereToCart(normalize(wDir));
++
++        Buffer3 = texture(colortex3, sphereCoord * 0.5);
++        exit();
++        return;
++    */
++
++    if (depth1 >= 1.0) {
++        vec3 transmit = vec3(0.0);
++        vec3 SkyRadianceMoon = vec3(0.0);
++        SkyRadiance = SKY_SPECTRAL_RADIANCE_TO_LUMINANCE * GetSkyRadiance(ATMOSPHERE, colortex4, colortex4, colortex4, kCamera, wDir, airVolumeShadowing, wSunVector, transmit, SkyRadianceMoon);
++		SkyRadianceMoon = SKY_SPECTRAL_RADIANCE_TO_LUMINANCE_MOON * SkyRadianceMoon;
++        SkyRadiance += SkyRadianceMoon;
++
++        SkyRadiance = CalculateSunLimbDarkening(SkyRadiance, vDir, transmit);
++        SkyRadiance = CalculateMoon(SkyRadiance, vDir, transmit);
++        SkyRadiance = calculateStars(SkyRadiance, wDir, wMoonVector, transmit);
++
++        vec2 planetSphere = rsi(kCamera, wDir, ATMOSPHERE.bottom_radius);
++
++        #ifdef PLANET_SURFACE
++            if (planetSphere.y > 0.0) {
++                vec3 planetSurfacePosition = kCamera + wDir * planetSphere.x;
++                vec3 normal = normalize(planetSurfacePosition);
++
++                // Planet Lighting
++                vec3 skyIrradiance = vec3(0.0);
++                vec3 moon_irradiance = vec3(0.0);
++                vec3 sky_irradiance_moon = vec3(0.0);
++                vec3 sunIrradiance = GetSunAndSkyIrradiance(ATMOSPHERE, colortex4, colortex4, planetSurfacePosition , normal, wSunVector, wMoonVector, skyIrradiance, sky_irradiance_moon, moon_irradiance) * SUN_SPECTRAL_RADIANCE_TO_LUMINANCE;
++                moon_irradiance = MOON_SPECTRAL_RADIANCE_TO_LUMINANCE * moon_irradiance;
++                sunIrradiance += moon_irradiance;
++
++                skyIrradiance *= SKY_SPECTRAL_RADIANCE_TO_LUMINANCE;
++                sky_irradiance_moon *= SKY_SPECTRAL_RADIANCE_TO_LUMINANCE_MOON;
++                skyIrradiance += sky_irradiance_moon;
++
++                const vec3 planetAlbedo = vec3(0.05, 0.1, 0.15);
++                const float waterRoughness = 0.2;
++
++                const float alpha = waterRoughness * waterRoughness;
++                const float alpha2 = alpha * alpha;
++
++                const float planetf0 = 0.0201;
++
++                float NoL = clamp01(dot(normal, wLightVector));
++                vec3 planet = sunIrradiance * sqrt(NoL) + skyIrradiance;
++                     planet *= planetAlbedo * rPI;
++
++                vec3 transmit;
++                vec3 in_scatter_moon;
++                vec3 in_scatter = GetSkyRadianceToPoint(ATMOSPHERE, colortex4, colortex4, colortex4, kCamera, planetSurfacePosition, 0.0, wSunVector, transmit, in_scatter_moon) * SKY_SPECTRAL_RADIANCE_TO_LUMINANCE;
++                in_scatter_moon *= SKY_SPECTRAL_RADIANCE_TO_LUMINANCE_MOON;
++                in_scatter += in_scatter_moon;
++                
++                planet = planet * transmit + in_scatter;
++                
++                SkyRadiance = planet;
++            }
++        #endif
++        
++        #ifdef PLANAR_CLOUDS
++            SkyRadiance = calculatePlanarClouds(SkyRadiance, wDir, wLightVector, planetSphere, dither_2, VoL, ATMOSPHERE.bottom_radius * 1000.0);
++        #endif
++        
++        float cloudTransmit = 1.0;
++		vec3 cloud = vec3(0.0);
++
++        //vec4 clouds = SampleClouds((texcoord + vec2(0.0, 1.0)) * 0.5);
++		
++		calculateVolumetricClouds(cloud, cloudTransmit, wDir, wLightVector, position1[1], planetSphere, dither_2, VoL, ATMOSPHERE.bottom_radius * 1000.0, VC_QUALITY, VC_SUNLIGHT_QUALITY);
++		SkyRadiance = SkyRadiance * cloudTransmit + cloud;
++        SkyRadiance = CalculateMorningFog(SkyRadiance, gbufferModelViewInverse[3].xyz, wDir * far * 1.2, VoL, dither_2);
++        
++        if(depth0 >= 1.0 && isEyeInWater == 0) {
++            Buffer0 = EncodeRGBE8(max0(SkyRadiance));
++
++            exit();
++            return;
++        }
++        
++    }
++    #endif
++
++    vec3 sample1 = depth1 >= 1.0 ? SkyRadiance : DecodeRGBE8(texture(colortex0, coord));
++    vec4 sample0 = vec4(0.0);
++	
++    vec2 decode2y = Decode2x8(materialData.y);
++    vec2 decode2z = Decode2x8(materialData.z);
++
++    mat2x3 metalIOR = mat2x3(0.0);
++
++    float roughness, reflectivity, skyLightmap, torchLightmap, materialID;
++    roughness = decode2y.x; torchLightmap = decode2z.x; skyLightmap = decode2z.y;
++    UnpackMaterialID(decode2y.y, materialID, reflectivity, metalIOR);
++
++    vec3 metalAlbedo = texture(colortex5, coord).rgb;
++
++    bool isWater = materialID > 4.5 && materialID < 5.5;
++    bool isMetal = metalIOR[0].x > 0.0 || reflectivity >= 1.0;
++    bool isHand    = materialID == 12.0;
++
++    vec3 waterTransmit = vec3(1.0);
++    vec3 waterScattering = vec3(0.0);
++
++    #if defined WORLD0 || defined WORLD1
++    if (isWater || isEyeInWater == 1) {
++        float skylightOcclusion = CalculateSkyVolumeOcclusion(skyLightmap);
++        sample1.rgb = CalculateWaterVolume(sample1.rgb, isEyeInWater == 0 ? position0[1] : gbufferModelViewInverse[3].xyz, isEyeInWater == 0 ? position1[1] : position0[1], dither_2, VoL, skylightOcclusion, waterScattering, waterTransmit);
++    }
++    #endif
++
++    // Single layered diffuse lighting on transparents
++    if (isTransparent || isMetal) {
++        sample0 = texture(colortex1, isWater ? coord : texcoord);
++        sample0.rgb = srgbToLinear(sample0.rgb);
++        sample0.rgb = dot(sample0.rgb, sample0.rgb) <= 0.0 ? vec3(1.0) : sample0.rgb;
++        sample0.a = pow3(sample0.a);
++        
++        vec3 shadows;
++
++        vec3 scatteredLit = CalculateDiffuseLighting(position0, vec3(0.0), sample0.rgb, normal, worldNormal, flatWorldNormal, -flatVdir, depth1, roughness, reflectivity, metalIOR, vec2(torchLightmap, skyLightmap), dither, 1.0, false, false, false, false, false, shadows, 0.0);
++    
++        vec3 F = FMaster(reflectivity, clamp01(dot(normal, -flatVdir)), metalIOR, metalAlbedo);
++
++        //Blend translucent albedo with color
++        if (isTransparent) {
++            sample0.rgb = reynRGB2hsv(sample0.rgb);
++            sample0.rgb = hsv2rgb(vec3(sample0.x, sample0.y*1.2 ,sample0.z*4));
++            sample1 -= waterScattering;
++            sample1 = sample1 * (1.0 - F) * (sample0.rgb * (1.0 - sample0.a)) + scatteredLit * sample0.a;
++            sample1 = isEyeInWater == 1 ? sample1 * waterTransmit + waterScattering : sample1 + waterScattering * (1.0 - F);
++        }
++
++        sample1 *= float(!isMetal);
++
++        sample1 += CalculateSpecularHighlight(isTransparent ? sample0.rgb : metalAlbedo, lightVector, normal, -flatVdir, shadows, roughness, reflectivity, metalIOR) * (isWater ? vec3(1.0) : waterTransmit);
++    }
++
++    // Aerial Perspective
++    /*
++    vec3 transmit;
++    vec3 in_scatter = GetSkyRadianceToPoint(ATMOSPHERE, colortex4, colortex4, colortex4, kCamera, kPoint, airVolumeShadowing, wSunVector, transmit) * SKY_SPECTRAL_RADIANCE_TO_LUMINANCE;
++	
++    sample1 = sample1 * transmit + in_scatter;
++    */
++    
++    float eyeInWaterFloat = float(isEyeInWater == 1);
++    sample1 -= waterScattering * eyeInWaterFloat;
++    sample1 = isMetal ? max0(sample1) : sample1;
++    sample1 += CalculateSpecularReflections(metalAlbedo, position0[0], flatWdir, worldNormal, isHand ? 0.7 : depth0, roughness, reflectivity, metalIOR, dither_2, skyLightmap * float(isEyeInWater == 0), isMetal) * mix(vec3(1.0), waterTransmit, eyeInWaterFloat);
++    sample1 += waterScattering * eyeInWaterFloat;
++    
++    #if defined WORLD0
++    if (isEyeInWater == 0) {
++        sample1 = CalculateMorningFog(sample1, gbufferModelViewInverse[3].xyz, position0[1], VoL, dither_2);
++    }
++    #endif
++
++    #if defined WORLD_1
++        sample1 = calculateNetherFog(sample1, position0[0]);
++    #endif
++
++    #if defined WORLD1
++        sample1 = calculateEndFog(sample1, position0[0]);
++    #endif
++
++    /*
++    vec2 hitPixel;
++    vec3 csHitPoint;
++    float stepCount;
++
++    bool wasHit = traceScreenSpaceRay(
++                position0[0],
++                reflect(vDir, normal),
++                dither,
++                hitPixel,
++                csHitPoint);
++
++    vec2 tsPResult = hitPixel;
++
++    sample1 = DecodeRGBE8(texture(colortex0, tsPResult) * float(wasHit));
++    */
++    
++    sample1 = any(isinf(sample1)) ? vec3(0.0) : sample1;
++    sample1 = any(isnan(sample1)) ? vec3(0.0) : sample1;
++    
++    Buffer0 = EncodeRGBE8(max0(sample1));
++	exit();
++}
++
++#endif
++/***********************************************************************/
+diff --git a/Continuum 2.1 Alpha Build 12/shaders/Composite3.glsl b/Continuum 2.1 Alpha forRTM 1.0.0/shaders/Composite4.glsl
+similarity index 98%
+rename from Continuum 2.1 Alpha Build 12/shaders/Composite3.glsl
+rename to Continuum 2.1 Alpha forRTM 1.0.0/shaders/Composite4.glsl
+index d5d4390..d61815a 100644
+--- a/Continuum 2.1 Alpha Build 12/shaders/Composite3.glsl	
++++ b/Continuum 2.1 Alpha forRTM 1.0.0/shaders/Composite4.glsl	
+@@ -4,8 +4,8 @@
+ 
+ #include "/../ContinuumLib/Syntax.glsl"
+ 
+-#define Composite3_glsl 33
+-#define DynamicShaderStage Composite3_glsl
++#define Composite4_glsl 34
++#define DynamicShaderStage Composite4_glsl
+ 
+ varying vec2 texcoord;
+ varying float averageLuminance;
+diff --git a/Continuum 2.1 Alpha Build 12/shaders/Final.glsl b/Continuum 2.1 Alpha forRTM 1.0.0/shaders/Final.glsl
+similarity index 92%
+rename from Continuum 2.1 Alpha Build 12/shaders/Final.glsl
+rename to Continuum 2.1 Alpha forRTM 1.0.0/shaders/Final.glsl
+index 0859288..62dd515 100644
+--- a/Continuum 2.1 Alpha Build 12/shaders/Final.glsl	
++++ b/Continuum 2.1 Alpha forRTM 1.0.0/shaders/Final.glsl	
+@@ -58,6 +58,9 @@ layout (location = 0) out vec4 Buffer0;
+ void main() {
+ 	
+     vec3 color = texture(colortex4, texcoord).rgb;
++    color = reynRGB2hsv(color);
++    color = vec3(color.x, color.y*(SAT_MOD + 1.0), color.z);
++    color = hsv2rgb(color);
+ 
+     #ifdef LUT
+          color = Lookup(color, colortex7);
+diff --git a/Continuum 2.1 Alpha Build 12/shaders/FlipCopy.glsl b/Continuum 2.1 Alpha forRTM 1.0.0/shaders/FlipCopy.glsl
+similarity index 89%
+rename from Continuum 2.1 Alpha Build 12/shaders/FlipCopy.glsl
+rename to Continuum 2.1 Alpha forRTM 1.0.0/shaders/FlipCopy.glsl
+index 3898cc4..3ba171a 100644
+--- a/Continuum 2.1 Alpha Build 12/shaders/FlipCopy.glsl	
++++ b/Continuum 2.1 Alpha forRTM 1.0.0/shaders/FlipCopy.glsl	
+@@ -30,14 +30,17 @@ void main() {
+ #include "/../ContinuumLib/Debug.glsl"
+ 
+ uniform sampler2D colortex2;
++uniform sampler2D colortex6;
+ 
+-/* DRAWBUFFERS:2 */
++/* DRAWBUFFERS:26 */
+ layout(location = 0) out vec4 Buffer2;
++layout(location = 1) out vec4 Buffer6;
+ #define LAYOUT_0 Buffer2
+ #include "/../ContinuumLib/Exit.glsl"
+ 
+ void main() {
+     Buffer2 = texture(colortex2, texcoord); // Copy A to B
++    Buffer6 = texture(colortex6, texcoord);
+     
+     if (Buffer2.r + Buffer2.g + Buffer2.b + Buffer2.a <= 0.0)
+         discard;
+diff --git a/Continuum 2.1 Alpha Build 12/shaders/GbuffersDiscard.glsl b/Continuum 2.1 Alpha forRTM 1.0.0/shaders/GbuffersDiscard.glsl
+similarity index 100%
+rename from Continuum 2.1 Alpha Build 12/shaders/GbuffersDiscard.glsl
+rename to Continuum 2.1 Alpha forRTM 1.0.0/shaders/GbuffersDiscard.glsl
+diff --git a/Continuum 2.1 Alpha Build 12/shaders/GbuffersMain.glsl b/Continuum 2.1 Alpha forRTM 1.0.0/shaders/GbuffersMain.glsl
+similarity index 78%
+rename from Continuum 2.1 Alpha Build 12/shaders/GbuffersMain.glsl
+rename to Continuum 2.1 Alpha forRTM 1.0.0/shaders/GbuffersMain.glsl
+index 21c47c5..3da2cb8 100644
+--- a/Continuum 2.1 Alpha Build 12/shaders/GbuffersMain.glsl	
++++ b/Continuum 2.1 Alpha forRTM 1.0.0/shaders/GbuffersMain.glsl	
+@@ -67,8 +67,6 @@ void main() {
+ 
+     // Temporary fix for entities not having a tangent
+     #if MC_VERSION < 11600 || defined terrain || defined translucent
+-        tbn[0] = mat3(gbufferModelViewInverse) * normalize(gl_NormalMatrix * at_tangent.xyz);
+-    #else
+         tbn[0].x = abs(tbn[2].y) + tbn[2].z;
+         tbn[0].y = 0.0;
+         tbn[0].z = -tbn[2].x;
+@@ -83,7 +81,7 @@ void main() {
+     color     = gl_Color;
+     blockID   = int(mc_Entity.x);
+     midcoord  = mc_midTexCoord.xy;
+-    texcoord  = gl_MultiTexCoord0.xy;
++    texcoord  = (gl_TextureMatrix[0] * gl_MultiTexCoord0).st;
+     lightmaps = gl_MultiTexCoord1.xy / 255.0;
+ 
+     // Lit block fix
+@@ -142,6 +140,7 @@ uniform sampler2D tex;
+ uniform sampler2D normals;
+ uniform sampler2D specular;
+ uniform sampler2D noisetex;
++uniform sampler2D colortex7;
+ 
+ uniform mat4 gbufferModelView;
+ uniform mat4 gbufferModelViewInverse;
+@@ -162,10 +161,11 @@ uniform int isEyeInWater;
+ layout (location = 0) out vec4 Buffer1; //colortex1 - RGBA8
+ layout (location = 1) out vec4 Buffer5; //colortex5 - RGBA8
+ #else
+-/* DRAWBUFFERS:126 */
++/* DRAWBUFFERS:1267 */
+ layout (location = 0) out vec4 Buffer1; //colortex1 - RGBA8
+ layout (location = 1) out vec4 Buffer2; //colortex2 - RGBA16
+ layout (location = 2) out vec4 Buffer6; //colortex6 - R16
++layout (location = 3) out vec4 Buffer7;
+ #endif
+ 
+ #define LAYOUT_0 Buffer1
+@@ -295,6 +295,40 @@ vec4 sampleTexture(sampler2D tex, vec2 uv, mat2 texD) {
+     #endif
+ }
+ 
++mat3 generate_newTBN(){
++    vec3 fixedWorldPosition = worldSpacePosition - gbufferModelViewInverse[3].xyz;
++    vec3 calculatednormal = normalize(cross(dFdx(fixedWorldPosition), dFdy(fixedWorldPosition)));
++         calculatednormal = clamp(calculatednormal, -1.0, 1.0);
++
++    vec3 binormal = cross(tbn[0], calculatednormal);
++    return mat3(tbn[0], binormal, calculatednormal);
++}
++
++vec3 EncodeDecodeNormal(vec3 normal){
++    vec3 b = abs(normal);
++    vec2 p = normal.xy / (b.x + b.y + b.z);
++
++    vec2 aa = normal.z <= 0.0 ? (1.0 - abs(p.yx)) * fsign(p) : p;
++
++    vec2 bb = abs(aa);
++    float zz = 1.0 - bb.x - bb.y;
++
++    return normalize(vec3(zz < 0.0 ? (1.0 - bb.yx) * fsign(aa) : aa, zz));
++}
++
++float atan2(float y, float x){
++    return x == 0.0 ? sign(y)*PI/2 : atan(y, x);
++}
++vec2 revertNormalGrad(vec2 normal){ //in -1 ~ 1
++    float NoN = -(normal.x/normal.y); //normal of normal
++    float fac = TRAIN_NORMAL_POWER / TRAIN_NORMALTEX_HEIGHT;
++    float correctedNoN = NoN*fac;
++    float angle = atan2(-1.0/correctedNoN, 1.0);
++    angle = angle < 0.? angle + PI : angle;
++
++    return vec2(cos(angle), sin(angle));
++}
++
+ void main() {
+     //This will be seperated into multiple sections, one for opauqe one for transparents.
+     //Transparents have 2 modes of rendering. Forward Lit and Front Lit.
+@@ -356,13 +390,38 @@ void main() {
+         normal = vec3(0.0, 0.0, 1.0);
+     }
+     
++    normal = vec3(revertNormalGrad(normal.xz).x, revertNormalGrad(normal.yz));
++    
+     vec4  materialInfo = sampleTexture(specular, pomCoord, texD);
+-    float porosity     = 1.0 - materialInfo.z;
+-    float reflectivity = materialInfo.y;
+-    float roughness    = 1.0 - materialInfo.x;
+-    float emissivity   = 1.0 - materialInfo.a;
++    float roughness_b  = 1.0 - materialInfo.b * SMOOTHNESS_FIX;
++    float roughness    = 1.0 - materialInfo.r;
++    float reflectivity; //実際には、ほぼマテリアルID指定用の値
++    float emissivity   = (materialInfo.a != 0.0)? 1.0 - materialInfo.a : 0.0; //materialInfo.a 1寄り:不透明 0寄り:透明、不透明も0をとる つまり完全透明と不透明を区別できない
++    roughness_b = clamp01(roughness_b);
++    bool isRenewedPBR  = materialInfo.b > materialInfo.r;
++    
++    #ifdef SPEC_AddBlueToRoughness
++        roughness = isRenewedPBR? roughness_b : roughness;
++    #endif
++    
++    
++    #ifdef READ_RENEWED_METAL
++        reflectivity = (isRenewedPBR && materialInfo.g > 0.1) ? 230/255 : materialInfo.g; //RenewedPBRかつ金属成分がある_sのピクセルなら、鉄(G:230)のマテリアルIDを設定。
++    #else
++        reflectivity = isRenewedPBR? 0.0 : materialInfo.g; //RenewedPBRのピクセルは非金属として処理
++    #endif
++    //vec3 color = reynRGB2hsv(albedo.rgb);
++    //color = vec3(color.x, color.y*0.7, color.z*2);
++    albedo = (isRenewedPBR && albedo.a < 0.9)? albedo*2 : albedo;
++    //albedo = (isRenewedPBR && albedo.a < 0.9)? vec4(hsv2rgb(color), albedo.a) : albedo;
++
+     float materialID   = PackMaterialID(reflectivity, blockID);
+ 
++
++    #if defined entities
++    materialID = 12.0; //matIDをhand扱いにして発光が貫通しないように (playerFix) //何いってんだ
++    #endif
++
+     /*
+     #if defined terrain
+         vec3 worldPos = worldSpacePosition + cameraPosition;
+@@ -412,33 +471,40 @@ void main() {
+               flatNormal = -flatNormal; }
+     #endif
+ 
+-    #if defined terrain || defined translucent
++    #if defined terrain || defined translucent || defined textured //TrainModel
+         normal = tbn * normal;
+         flatNormal = tbn * flatNormal;
+-    #else
+-        vec3 fixedWorldPosition = worldSpacePosition - gbufferModelViewInverse[3].xyz;
+-        vec3 calculatednormal = normalize(cross(dFdx(fixedWorldPosition), dFdy(fixedWorldPosition)));
+-             calculatednormal = clamp(calculatednormal, -1.0, 1.0);
+-
+-        /*
+-        vec2 pos = texcoord * atlasSize;
+-	    texD = mat2(dFdx(pos), dFdy(pos));
+-
+-        vec3 dp2perp = cross(dFdy(fixedWorldPosition), calculatednormal);
+-        vec3 dp1perp = cross(calculatednormal, dFdx(fixedWorldPosition));
+-        vec3 newTangent = dp2perp * texD[0].x + dp1perp * texD[1].x;
+-        vec3 newBinormal = dp2perp * texD[0].y + dp1perp * texD[1].y;
+-
+-        float invmax = inversesqrt(max(dot(newTangent, newTangent), dot(newBinormal, newBinormal)));
+-        mat3 newTbn = mat3(newTangent * invmax, newBinormal * invmax, calculatednormal);
+-        */
+-
+-        vec3 binormal = cross(tbn[0], calculatednormal);
+-        mat3 newTbn = mat3(tbn[0], binormal, calculatednormal);
+         
++    #elif defined block //Rail,Ornament,Machine etc.
++        #if SMOOTHING_ORNAMENT == 2 //All
++            normal = tbn * normal;
++            flatNormal = tbn * flatNormal;
++
++        #elif SMOOTHING_ORNAMENT == 1 //WhiteList
++            if(reflectivity>0.003){
++                normal = tbn * normal;
++                flatNormal = tbn * flatNormal;
++            }else{
++                mat3 newTbn = generate_newTBN();
++                normal = newTbn * normal;
++                flatNormal = newTbn * flatNormal;
++            }
++        #else //Off
++            mat3 newTbn = generate_newTBN();
++            normal = newTbn * normal;
++            flatNormal = newTbn * flatNormal;
++        #endif
++    #else
++        mat3 newTbn = generate_newTBN();
+         normal = newTbn * normal;
+         flatNormal = newTbn * flatNormal;
+     #endif
++	
++	#ifdef TRAIN_ALPHA_SMOOSE
++        #if defined textured
++        roughness = albedo.a < 0.9? 0.0 : roughness;
++        #endif
++    #endif
+ 
+     /*
+     #if defined terrain
+@@ -459,7 +525,7 @@ void main() {
+     #endif
+ 
+     Buffer1 = albedo;
+-
++    
+     float dither = bayer64(gl_FragCoord.xy);
+ 
+     vec4 materialData; //MatFlags
+@@ -474,7 +540,8 @@ void main() {
+     
+     Buffer2 = materialData;
+ 
+-    Buffer6 = vec4(EncodeNormal(flatNormal), 0.0, 0.0, 1.0);
++    Buffer6 = vec4(EncodeDecodeNormal(normal), 1.0);
++    Buffer7 = vec4(emissivity ,0.0,0.0,0.0);
+ 	
+ 	exit();
+     #endif
+diff --git a/Continuum 2.1 Alpha Build 12/shaders/PostProcess0.glsl b/Continuum 2.1 Alpha forRTM 1.0.0/shaders/PostProcess0.glsl
+similarity index 100%
+rename from Continuum 2.1 Alpha Build 12/shaders/PostProcess0.glsl
+rename to Continuum 2.1 Alpha forRTM 1.0.0/shaders/PostProcess0.glsl
+diff --git a/Continuum 2.1 Alpha Build 12/shaders/ShaderConstants.glsl b/Continuum 2.1 Alpha forRTM 1.0.0/shaders/ShaderConstants.glsl
+similarity index 91%
+rename from Continuum 2.1 Alpha Build 12/shaders/ShaderConstants.glsl
+rename to Continuum 2.1 Alpha forRTM 1.0.0/shaders/ShaderConstants.glsl
+index 4d4ef14..b4ef503 100644
+--- a/Continuum 2.1 Alpha Build 12/shaders/ShaderConstants.glsl	
++++ b/Continuum 2.1 Alpha forRTM 1.0.0/shaders/ShaderConstants.glsl	
+@@ -13,7 +13,8 @@ const int colortex2Format = RGBA16; //Big Data
+ const int colortex3Format = RGBA16F;  //Misc Data (Unused in base)
+ const int colortex4Format = RGBA8;  //Feedback
+ const int colortex5Format = RGBA16;  //Rain and metal albedo
+-const int colortex6Format = R16;    //Flat encoded normal
++const int colortex6Format = RGBA32F;   //float normal
++const int colortex7Format = RGBA8;
+ 
+ const bool colortex0Clear = false;
+ const bool colortex1Clear = true;
+@@ -30,7 +31,7 @@ const bool shadowcolor0Mipmap = true;
+ const bool shadowcolor1Mipmap = true;
+ 
+ const int shadowMapResolution = 2048; // [1024 2048 3072 4096 8192]
+-const float shadowDistance = 140;   // [70 140 280]
++const float shadowDistance = 120;   // [70 120 180 240]
+ 
+ const float	sunPathRotation = -25.0;
+ const float ambientOcclusionLevel = 0.0;
+diff --git a/Continuum 2.1 Alpha Build 12/shaders/Shadow.glsl b/Continuum 2.1 Alpha forRTM 1.0.0/shaders/Shadow.glsl
+similarity index 98%
+rename from Continuum 2.1 Alpha Build 12/shaders/Shadow.glsl
+rename to Continuum 2.1 Alpha forRTM 1.0.0/shaders/Shadow.glsl
+index a2f7714..2d1e793 100644
+--- a/Continuum 2.1 Alpha Build 12/shaders/Shadow.glsl	
++++ b/Continuum 2.1 Alpha forRTM 1.0.0/shaders/Shadow.glsl	
+@@ -151,7 +151,9 @@ void main() {
+         if (!isWater)
+         albedo.rgb = vec3(1.0);
+     #endif
+-
++    if(blockID == 0 && alpha == 1.0){ //改善の余地あり
++        alpha = 0.0;
++    }
+     shadowcolor0 = vec4(albedo.rgb * alpha, lightmaps.y * 0.5 + 0.5);
+ 
+     shadowcolor1 = vec4(normal * 0.5 + 0.5, float(isWater) * 0.5 + 0.5);
+diff --git a/Continuum 2.1 Alpha Build 12/shaders/block.properties b/Continuum 2.1 Alpha forRTM 1.0.0/shaders/block.properties
+similarity index 100%
+rename from Continuum 2.1 Alpha Build 12/shaders/block.properties
+rename to Continuum 2.1 Alpha forRTM 1.0.0/shaders/block.properties
+diff --git a/Continuum 2.1 Alpha Build 12/shaders/lang/en_US.lang b/Continuum 2.1 Alpha forRTM 1.0.0/shaders/lang/en_US.lang
+similarity index 88%
+rename from Continuum 2.1 Alpha Build 12/shaders/lang/en_US.lang
+rename to Continuum 2.1 Alpha forRTM 1.0.0/shaders/lang/en_US.lang
+index fb4e74c..eb988d8 100644
+--- a/Continuum 2.1 Alpha Build 12/shaders/lang/en_US.lang	
++++ b/Continuum 2.1 Alpha forRTM 1.0.0/shaders/lang/en_US.lang	
+@@ -206,3 +206,21 @@ value.DEBUG_VIEW.38=composite8
+ value.DEBUG_VIEW.39=composite9
+ value.DEBUG_VIEW.40=composite10
+ value.DEBUG_VIEW.50=final
++
++# Advance settings
++screen.SCREEN_ADVANCE=RTM & advance settings
++option.AUTO_EXPOSURE_MIN_LUM=Max exposure luminance
++option.AUTO_EXPOSURE_MIN_LUM.comment=Prevents the auto exposure from becoming too bright.  (Bright) 0.5 ---- 2048 (Dark)
++option.SMOOTHING_ORNAMENT=Smoothing Ornament
++option.SMOOTHING_ORNAMENT.comment=Enable smoothing for RTM structures except trains.
++value.SMOOTHING_ORNAMENT.SMOOTHING_ALL=All
++value.SMOOTHING_ORNAMENT.SMOOTHING_WHITELIST=Only partially valid
++value.SMOOTHING_ORNAMENT.SMOOTHING_OFF=Off
++
++option.volumetric_cloudScattering=Scattering
++
++option.READ_RENEWED_METAL=緑チャンネルの入力を受け付ける
++option.SPEC_AddBlueToRoughness=青チャンネルもSmoothnessに追加
++option.SPEC_AddBlueToRoughness.comment=オンにするとスペキュラーマップの青チャンネルも粗さとして認識します。
++option.SMOOTHNESS_FIX=青チャンネルにかける倍率
++option.SMOOTHNESS_FIX.comment=スペキュラーマップの青チャンネルの値を◯倍します。
+\ No newline at end of file
+diff --git a/Continuum 2.1 Alpha forRTM 1.0.0/shaders/lang/ja_JP.lang b/Continuum 2.1 Alpha forRTM 1.0.0/shaders/lang/ja_JP.lang
+new file mode 100644
+index 0000000..f68a566
+--- /dev/null
++++ b/Continuum 2.1 Alpha forRTM 1.0.0/shaders/lang/ja_JP.lang	
+@@ -0,0 +1,241 @@
++#screens
++screen.SCREEN_SURFACE=Surface Settings
++screen.SCREEN_SHADOWS=Shadow Settings
++screen.SCREEN_SPECULAR=Specular Settings
++screen.SCREEN_AO=Ambient Occlusion Settings
++screen.SCREEN_GI=Global Illumination Settings
++
++screen.SCREEN_MATERIAL=Material Settings
++screen.RENEWED_PBR=SEUS Renewed PBR
++
++screen.SCREEN_ATMOSPHERICS=Atmospheric Settings
++screen.SCREEN_VC=Volumetric Cloud Settings
++screen.SCREEN_VC_LIGHTING=Lighting Settings
++screen.SCREEN_VL=Volumetric Light Settings
++
++screen.SCREEN_CAMERA=Camera Settings
++screen.SCREEN_LENS=Lens Settings
++screen.SCREEN_POST_PROCESS=Post Process Settings
++screen.SCREEN_TAA=TAA Settings
++screen.SCREEN_FILMIC=Filmic Settings
++
++screen.SCREEN_MISC=Misc Settings
++
++screen.SCREEN_DEBUG=Debug
++screen.Setup=Setup
++
++
++# Options and values
++option.REFRACTION=Refraction
++option.WATER_CAUSTICS=Water Caustics
++
++# Shadow settings
++option.SHADOW_TYPE=Shadow Type
++option.SHADOW_QUALITY=Blur Quality
++option.shadowMapResolution=Resolution
++option.SHADOW_DISTORTION_FACTOR=Distortion Factor
++option.SHADOW_PENUMBRA_ANGLE=Penumbra Angle
++option.HIDE_PLAYER_SHADOW=Hide Player Shadow
++option.UNDERGROUND_SHADOW_FIX=Underground Shadow Fix
++value.SHADOW_TYPE.SHADOW_PCSS=PCSS
++value.SHADOW_TYPE.SHADOW_HARD=Hard
++value.SHADOW_TYPE.SHADOW_SOFT=Soft
++value.SHADOW_QUALITY.SHADOW_MINIMUM=Minimum
++value.SHADOW_QUALITY.SHADOW_LOW=Low
++value.SHADOW_QUALITY.SHADOW_MEDIUM=Medium
++value.SHADOW_QUALITY.SHADOW_HIGH=High
++value.SHADOW_QUALITY.SHADOW_ULTRA=Ultra
++value.SHADOW_QUALITY.SHADOW_CINEMATIC=Cinematic
++
++# Specular settings
++option.SPECULAR_QUALITY=Specular Quality
++option.SPECULAR_TAIL_CLAMP=Tail Clamp
++option.RAYTRACE_QUALITY=Raytrace Quality
++option.RAYTRACE_REFINEMENT=Ray Refinement
++option.RAYTRACE_REFINEMENT_STEPS=Refinements
++
++# AO settings
++option.AO=Ambient Occlusion
++option.AO_NUM_DIRECTIONS=Directional Quality
++option.AO_NUM_STEPS=Intersection Quality
++
++# RSM settings
++option.RSM=Global Illumination
++option.RSM_RADIUS=Radius
++option.RSM_QUALITY=Quality
++
++# Material settings
++option.TERRAIN_PARALLAX=Terrain Parallax
++option.TERRAIN_PARALLAX_SHADOW=Parallax Shadow
++option.TERRAIN_PARALLAX_DEPTH=Parallax Depth
++option.WATER_PARALLAX=Water Parallax
++option.WATER_PARALLAX_DEPTH=Parallax Depth
++option.WATER_PARALLAX_SAMPLES=Parallax Quality
++
++# Volumetric Cloud settings
++option.VOLUMETRIC_CLOUDS=Volumetric Clouds
++option.VC_LOCAL_COVERAGE=Local Coverage
++option.VC_QUALITY=Quality
++option.volumetric_cloudDensity=Density
++option.volumetric_cloudThicknessMult=Height
++option.volumetric_cloudCoverage=Coverage
++option.VC_NOISE_OCTAVES=Noise Octaves
++option.volumetric_cloudHeight=Altitude
++option.volumetric_cloudSpeed=Speed
++option.VC_SHADOWS=Cloud Shadows
++option.VC_GROUND_LIGHTING=Ground Lighting
++option.VC_SUNLIGHT_QUALITY=Sunlight Quality
++option.VC_MULTISCAT_TERMS=Multiple Scattering Terms
++option.VC_HQ_SKYLIGHTING=HQ Skylighting
++
++# Volumetric Light settings
++option.VOLUMETRIC_SHADOWS=Volumetric Shadows
++option.UNDERWATER_VOLUMETRIC_LIGHT=Volumetric Water Fog
++option.VOLUMETRIC_WATER_CAUSTICS=Volumetric Water Caustics
++option.WATER_DENSITY=Water Density
++option.UNDERWATER_VOLUMETRIC_LIGHT_QUALITY=Quality
++option.WATER_MURKYNESS=Murkyness
++option.VOLUMETRIC_FOG=Volumetric Fog
++option.VOLUMETRIC_FOG_QUALITY=Quality
++option.VOLUMETRIC_FOG_HEIGHT=Altitude
++option.VOLUMETRIC_FOG_NOISE=Enable Noise
++option.VOLUMETRIC_FOG_DENSITY=Density
++option.VOLUMETRIC_FOG_FALLOFF=Falloff
++
++option.PLANET_SURFACE=Render Planet Surface
++
++# Camera settings
++value.CAMERA_MODE.CAMERA_AUTO=Auto
++value.CAMERA_MODE.CAMERA_MANUAL=Manual
++value.CAMERA_FOCUS_MODE.DOF_AUTO=Auto
++value.CAMERA_FOCUS_MODE.DOF_MANUAL=Manual
++
++option.CAMERA_MODE=Camera Mode
++option.CAMERA_MODE.comment=Operating mode of the camera. 'Auto' is best for gameplay, where the camera will adjust itself. 'Manual' is best for screenshots and cinematics, where precise control over the camera is necessary.
++option.CAMERA_APERTURE=Aperture
++option.CAMERA_APERTURE.comment=Size of the aperture, in f-stops.
++prefix.CAMERA_APERTURE=f/
++option.CAMERA_ISO=ISO
++option.CAMERA_ISO.comment=Sensitivity of the sensor to light.
++option.CAMERA_SHUTTER_SPEED=Shutter Speed
++option.CAMERA_SHUTTER_SPEED.comment=Exposure time of each frame.
++option.CAMERA_EV=EV Offset
++option.CAMERA_EV.comment=Exposure Adjustment.
++option.CAMERA_FOCAL_LENGTH=Focal Length
++option.CAMERA_FOCAL_LENGTH.comment=Primary focal point distance in millimeters. Effects lens flare and DOF in manual mode.
++suffix.CAMERA_FOCAL_LENGTH= mm
++
++option.CAMERA_FOCUS_MODE=Camera Focus Mode
++option.CAMERA_FOCUS_MODE.comment=Focus mode of the camera. 'Auto' focuses on whatever the player is looking at. 'Manual' allows the player to set the distance the camera tries to focus at in meters.
++
++option.CAMERA_FOCAL_POINT=Camera Focal Point
++option.CAMERA_FOCAL_POINT.comment=Distance the camera tries to focus at when the camera is set to manual focus mode.
++suffix.CAMERA_FOCAL_POINT= m
++
++option.CAMERA_AUTO_FOCAL_OFFSET=Focal Offset
++suffix.CAMERA_AUTO_FOCAL_OFFSET= m
++
++# DOF settings
++option.DOF=Depth Of Field
++option.DOF.comment=カメラのボケ(被写体深度)を有効にします。
++option.DOF_SAMPLES=DoF Quality
++option.DOF_SAMPLES.comment=ボケの品質. Low - 32. Medium - 64. High - 128. Ultra - 256. Cinematic - 1024.
++
++option.CAMERA_BLADES=Aperture Blade Count
++option.CAMERA_BLADES.comment=The number of faces the lens has:. 3 = Triangle. 4 = Square. 5 = Pentagon. 6 = Hexagon. ect.
++option.BLADE_ROTATION=Blade Rotation
++option.BLADE_ROTATION.comment=Spins the bokeh around the center.
++option.BLADE_ROUNDING=Blade Rounding
++option.BLADE_ROUNDING.comment=The amount of rounding or "Softening" around the edges of the aperture shape. 0 = no roundness. 1 = fully round (Circle)
++option.CAMERA_BIAS=Camera Bias
++option.CAMERA_BIAS.comment=Changes the absorbtion of the lens. 0.0 = fully absorbed. 1.0 = fully transmitted.
++option.LENS_SHIFT_AMOUNT=Lens Shift Amount
++option.DISTORTION_ANAMORPHIC=Amamorphic Distortion
++
++# Bloom settings
++option.BLOOM=Bloom
++option.BLOOM_SAMPLES=Bloom Quality
++option.BLOOM_CURVE=Curve
++option.BLOOM_EV=EV offset
++
++# Post Process settings
++option.SAT_MOD=Saturation
++option.SAT_MOD.comment=Saturation Modifier
++option.VIB_MOD=Vibrance
++option.VIB_MOD.comment=Vibrance Modifier
++option.CONT_MOD=Contrast
++option.CONT_MOD.comment=Contrast Modifier
++option.GAMMA_CORRECTION=Gamma
++option.GAIN_MOD=Gain
++option.GAIN_MOD.comment=Direct Brightness.
++option.LIFT_MOD=Lift
++option.LIFT_MOD.comment=Shifts Blackpoint.
++option.LUT=L.U.T
++option.WHITE_BALANCE=White Balance
++option.TINT_BALANCE=Tint
++option.COLOR_GRADE=Color Grade
++option.COLOR_GRADE_TYPE=Type
++value.COLOR_GRADE_TYPE.CORRECTED_DEFAULT=Corrected Default
++value.COLOR_GRADE_TYPE.COLOR_GRADE1=Color Grade 1
++value.COLOR_GRADE_TYPE.COLOR_GRADE2=Color Grade 2
++
++# Filmic settings
++option.CONT_MIDPOINT=Contrast Midpoint
++option.SHOULDER_LENGTH=Shoulder Length
++option.TOE_LENGTH=Toe Length
++option.SHOULDER_ANGLE=Shoulder Angle
++option.SHOULDER_STRENGTH=Shoulder Strength
++option.TOE_STRENGTH=Toe Strength
++
++# TAA settings
++option.TAA_SHARPNESS=TAA Sharpness
++option.TAA_SHARPEN=TAA Sharpen
++
++
++option.DEBUG=Debug
++option.DEBUG_VIEW=Debug View
++option.CRASH_DANGLING_SHOW=Crash Dangling Show()
++option.CRASH_DANGLING_SHOW.comment=Cause the shader to crash if there are any show() leftover in the code when Debug is turned off
++value.DEBUG_VIEW.-10=gbuffers_shadow
++value.DEBUG_VIEW.-1=gbuffers_opaque
++value.DEBUG_VIEW.0=deferred0
++value.DEBUG_VIEW.20=gbuffers_transparent
++value.DEBUG_VIEW.30=composite0
++value.DEBUG_VIEW.31=composite1
++value.DEBUG_VIEW.32=composite2
++value.DEBUG_VIEW.38=composite8
++value.DEBUG_VIEW.39=composite9
++value.DEBUG_VIEW.40=composite10
++value.DEBUG_VIEW.50=final
++
++# Advance settings
++screen.SCREEN_ADVANCE=RTMとその他の設定
++option.AUTO_EXPOSURE_TIME=自動露出の速度
++option.AUTO_EXPOSURE_TIME.comment=値が大きいほど早く露出が調整されます。
++option.BLOCKLIGHT_ATTENUATION=ブロック光源の減衰
++option.BLOCKLIGHT_ATTENUATION.comment=値が小さいほど光が広がります。. (光が広がる) 1 ---- 20 (広がらない)
++option.AUTO_EXPOSURE_MIN_LUM=自動露出の上限
++option.AUTO_EXPOSURE_MIN_LUM.comment=露出が明るくなりすぎる事を防ぎます。. (明るい) 0.5 ---- 2048 (暗い)
++option.LIGHT_LUM=発光量
++option.LIGHT_LUM.comment=ブロック光源、RTMの光源などの強度を調節できます。. (*テクスチャ発光の強度は調節できません。)
++option.TEX_LIGHT_LUM=テクスチャ発光の量
++option.TEX_LIGHT_LUM.comment=テクスチャ発光の強度を調節できます。
++
++option.TRAIN_ALPHA_SMOOSE=透明度で表面を滑らかにする
++option.TRAIN_ALPHA_SMOOSE.comment=自動で窓などの透明度が高い表面が反射します。
++option.SMOOTHING_ORNAMENT=Smoothing Ornament
++option.SMOOTHING_ORNAMENT.comment=車両以外のRTM設置物のスムージング設定. すべて:   レール壁、道床の陰影がバグってしまいます。. 一部だけ: 専用に対応したRTM設置物でスムージングを許可します。. なし:   RTM設置物のスムージングを無効にします。
++value.SMOOTHING_ORNAMENT.SMOOTHING_ALL=すべて
++value.SMOOTHING_ORNAMENT.SMOOTHING_WHITELIST=一部だけ
++value.SMOOTHING_ORNAMENT.SMOOTHING_OFF=なし
++option.TRAIN_NORMALTEX_HEIGHT.comment=車両用ノーマルマップの元々の倍率
++option.TRAIN_NORMAL_POWER=車両用ノーマルマップの倍率
++
++option.volumetric_cloudScattering=Scattering
++
++option.READ_RENEWED_METAL=金属設定を受け付ける
++option.READ_RENEWED_METAL.comment=オン: SEUS Renewed用スペキュラーマップの金属設定をこちらでも金属(鉄)として読み取ります。
++option.SPEC_AddBlueToRoughness=青チャンネルもSmoothnessに追加
++option.SPEC_AddBlueToRoughness.comment=オンにするとスペキュラーマップの青成分も滑らかさとして認識します。. つまり SEUS Renewed用の車両が、こちらでも反射するようになります。
++option.SMOOTHNESS_FIX=滑らかさの倍率
++option.SMOOTHNESS_FIX.comment=SEUS Renewed用の反射設定の滑らかさ(青成分)を◯倍します。
+\ No newline at end of file
+diff --git a/Continuum 2.1 Alpha Build 12/shaders/shaders.properties b/Continuum 2.1 Alpha forRTM 1.0.0/shaders/shaders.properties
+similarity index 82%
+rename from Continuum 2.1 Alpha Build 12/shaders/shaders.properties
+rename to Continuum 2.1 Alpha forRTM 1.0.0/shaders/shaders.properties
+index cec2712..4daa745 100644
+--- a/Continuum 2.1 Alpha Build 12/shaders/shaders.properties	
++++ b/Continuum 2.1 Alpha forRTM 1.0.0/shaders/shaders.properties	
+@@ -15,23 +15,24 @@ backFace.translucent=true
+ 
+ flip.deferred_pre.colortex1=true
+ flip.composite_pre.colortex1=true
+-flip.composite1.colortex1=true
++flip.composite2.colortex1=true
+ 
+ flip.composite_pre.colortex5=false
+-flip.composite2.colortex5=true
++flip.composite3.colortex5=true
+ 
+-flip.deferred_pre.colortex6=true
++flip.deferred_pre.colortex6=false
+ flip.composite_pre.colortex6=true
+-flip.composite1.colortex6=true
++flip.composite2.colortex6=true
+ 
+ flip.deferred_pre.colortex2=false
+ flip.composite_pre.colortex2=true
+-flip.composite1.colortex2=true
++flip.composite2.colortex2=true
++
+ 
+ program.world-1/shadow.enabled=false
+ 
+ # Custom Data
+-texture.composite.colortex7=../UserLib/Textures/data.bin TEXTURE_3D RGBA32F 256 128 33 RGBA FLOAT
++texture.composite.colortex4=../UserLib/Textures/data.bin TEXTURE_3D RGBA32F 256 128 33 RGBA FLOAT
+ texture.noise=../UserLib/Textures/noise.png
+ 
+ # Custom Uniforms.
+@@ -72,24 +73,25 @@ sliders = CAMERA_FOCAL_LENGTH CAMERA_FOCAL_POINT CAMERA_APERTURE CAMERA_SHUTTER_
+ 		  GAMMA_CORRECTION WHITE_BALANCE TINT_BALANCE CAMERA_BLADES BLADE_ROUNDING BLADE_ROTATION \
+ 		  LENS_SHIFT_AMOUNT CAMERA_BIAS DISTORTION_ANAMORPHIC BLOOM_SAMPLES BLOOM_CURVE BLOOM_EV \
+ 		  DOF_SAMPLES TAA_SHARPNESS CONT_MIDPOINT SHOULDER_ANGLE SHOULDER_LENGTH SHOULDER_STRENGTH \
+-		  TOE_LENGTH TOE_STRENGTH SHADOW_PENUMBRA_ANGLE shadowMapResolution SHADOW_DISTORTION_FACTOR \
++		  TOE_LENGTH TOE_STRENGTH SHADOW_PENUMBRA_ANGLE shadowMapResolution shadowDistance SHADOW_DISTORTION_FACTOR \
+ 		  SPECULAR_QUALITY RAYTRACE_QUALITY AO_NUM_DIRECTIONS AO_NUM_STEPS RSM_RADIUS RSM_QUALITY \
+ 		  TERRAIN_PARALLAX_DEPTH WATER_PARALLAX_DEPTH WATER_PARALLAX_SAMPLES \
+ 		  VC_QUALITY VC_NOISE_OCTAVES volumetric_cloudDensity volumetric_cloudHeight \
+ 		  volumetric_cloudThicknessMult VC_SUNLIGHT_QUALITY VC_MULTISCAT_TERMS VOLUMETRIC_FOG_QUALITY \
+ 		  VOLUMETRIC_FOG_DENSITY UNDERWATER_VOLUMETRIC_LIGHT_QUALITY WATER_DENSITY VOLUMETRIC_FOG_HEIGHT \
+ 		  VOLUMETRIC_FOG_FALLOFF WATER_MURKYNESS TIME_SPEED volumetric_cloudCoverage RAYTRACE_REFINEMENT_STEPS \
+-		  volumetric_cloudSpeed SPECULAR_TAIL_CLAMP
++		  volumetric_cloudSpeed volumetric_cloudScattering SPECULAR_TAIL_CLAMP AUTO_EXPOSURE_TIME AUTO_EXPOSURE_MIN_LUM BLOCKLIGHT_ATTENUATION \
++		  LIGHT_LUM TEX_LIGHT_LUM TRAIN_NORMALTEX_HEIGHT TRAIN_NORMAL_POWER LIGHT_TEMP
+ 
+ ### SCREENS ###
+ screen = <empty> <empty> [SCREEN_SURFACE] [SCREEN_MATERIAL] [SCREEN_ATMOSPHERICS] [SCREEN_CAMERA]  \
+- 		 <empty> <empty> [SCREEN_DEBUG] [SCREEN_MISC]
++ 		 <empty> <empty> [SCREEN_DEBUG] [SCREEN_MISC] [SCREEN_ADVANCE]
+ 
+ ### SURFACE SETTINGS ###
+ screen.SCREEN_SURFACE = <empty> <empty> [SCREEN_SHADOWS] [SCREEN_SPECULAR] [SCREEN_AO] [SCREEN_GI] \
+ 						<empty> <empty> REFRACTION WATER_CAUSTICS
+-	screen.SCREEN_SHADOWS = <empty> <empty> SHADOW_TYPE SHADOW_QUALITY shadowMapResolution SHADOW_DISTORTION_FACTOR \
+-							<empty> <empty> SHADOW_PENUMBRA_ANGLE <empty> \
++	screen.SCREEN_SHADOWS = <empty> <empty> SHADOW_TYPE SHADOW_QUALITY shadowMapResolution shadowDistance \
++							<empty> <empty> SHADOW_PENUMBRA_ANGLE SHADOW_DISTORTION_FACTOR \
+ 							<empty> <empty> HIDE_PLAYER_SHADOW UNDERGROUND_SHADOW_FIX
+ 	screen.SCREEN_SPECULAR = <empty> <empty> SPECULAR_QUALITY RAYTRACE_QUALITY SPECULAR_TAIL_CLAMP <empty> <empty> <empty> RAYTRACE_REFINEMENT RAYTRACE_REFINEMENT_STEPS
+ 	#<empty> <empty> REFLECT_2D_CLOUDS REFLECT_3D_CLOUDS SPECULAR_CLAMP SPECULAR_TAIL_CLAMP RAIN_PUDDLES <empty> <empty> <empty> REFLECTED_CLOUDS_QUALITY REFLECTED_CLOUDS_QUALITY_DIRECT
+@@ -97,7 +99,8 @@ screen.SCREEN_SURFACE = <empty> <empty> [SCREEN_SHADOWS] [SCREEN_SPECULAR] [SCRE
+ 	screen.SCREEN_GI = <empty> <empty> RSM <empty> RSM_RADIUS RSM_QUALITY
+ 
+ ### MATERIAL SETTINGS ###
+-screen.SCREEN_MATERIAL = <empty> <empty> TERRAIN_PARALLAX WATER_PARALLAX TERRAIN_PARALLAX_SHADOW WATER_PARALLAX_DEPTH TERRAIN_PARALLAX_DEPTH WATER_PARALLAX_SAMPLES
++screen.SCREEN_MATERIAL = <empty> <empty> TERRAIN_PARALLAX WATER_PARALLAX TERRAIN_PARALLAX_SHADOW WATER_PARALLAX_DEPTH TERRAIN_PARALLAX_DEPTH WATER_PARALLAX_SAMPLES <empty> <empty> [RENEWED_PBR]
++	screen.RENEWED_PBR = SPEC_AddBlueToRoughness SMOOTHNESS_FIX READ_RENEWED_METAL 
+ # TODO: SPECULAR_MODE needs to be done too!
+ 
+ ### CAMERA SETTINGS ###
+@@ -117,7 +120,7 @@ screen.SCREEN_CAMERA = <empty> <empty> CAMERA_MODE CAMERA_FOCUS_MODE CAMERA_APER
+ screen.SCREEN_ATMOSPHERICS = <empty> <empty> [SCREEN_VC] [SCREEN_VL] PLANET_SURFACE
+ 	screen.SCREEN_VC = <empty> <empty> VOLUMETRIC_CLOUDS <empty> VC_LOCAL_COVERAGE <empty> VC_QUALITY VC_NOISE_OCTAVES \
+ 					   volumetric_cloudDensity volumetric_cloudHeight volumetric_cloudThicknessMult volumetric_cloudCoverage \
+-					   volumetric_cloudSpeed <empty> <empty> <empty> [SCREEN_VC_LIGHTING]
++					   volumetric_cloudSpeed volumetric_cloudScattering <empty> <empty> [SCREEN_VC_LIGHTING]
+ 		screen.SCREEN_VC_LIGHTING = <empty> <empty> VC_SHADOWS VC_SUNLIGHT_QUALITY <empty> VC_MULTISCAT_TERMS <empty> <empty> VC_GROUND_LIGHTING VC_HQ_SKYLIGHTING
+ 	screen.SCREEN_VL = <empty> <empty> UNDERWATER_VOLUMETRIC_LIGHT VOLUMETRIC_WATER_CAUSTICS UNDERWATER_VOLUMETRIC_LIGHT_QUALITY \
+ 					   WATER_DENSITY WATER_MURKYNESS <empty> <empty> <empty> VOLUMETRIC_FOG VOLUMETRIC_FOG_NOISE VOLUMETRIC_FOG_QUALITY \
+@@ -127,5 +130,7 @@ screen.SCREEN_ATMOSPHERICS = <empty> <empty> [SCREEN_VC] [SCREEN_VL] PLANET_SURF
+ screen.SCREEN_DEBUG = <empty> <empty> <empty> <empty> <empty> <empty> <empty> <empty> DEBUG DEBUG_VIEW CRASH_DANGLING_SHOW
+ 
+ ### MISC SETTINGS ###
+-screen.SCREEN_MISC = *
++screen.SCREEN_MISC = BILINEAR_TEXTURES BOKEH_DEBUG COMBINED_SCATTERING_TEXTURES FOV_OVERRIDE FOV_TARGET <empty> LIGHT_TEMP MOTION_BLUR PLANAR_CLOUDS PLANAR_CLOUDS_HEIGHT PLANAR_CLOUDS_MULTISCSAT_QUALITY PRECOMP_SKY_SCALE TELEFOCAL_SHADOWS TIME_OVERRIDE TIME_SPEED VOLUMETRIC_SHADOWS WAVING_PLANTS 
++
++screen.SCREEN_ADVANCE = <empty> <empty> AUTO_EXPOSURE_TIME <empty> BLOCKLIGHT_ATTENUATION AUTO_EXPOSURE_MIN_LUM LIGHT_LUM TEX_LIGHT_LUM <empty> <empty> TRAIN_ALPHA_SMOOSE SMOOTHING_ORNAMENT TRAIN_NORMALTEX_HEIGHT TRAIN_NORMAL_POWER
+ 
+diff --git a/Continuum 2.1 Alpha Build 12/shaders/world-1/composite.fsh b/Continuum 2.1 Alpha forRTM 1.0.0/shaders/world-1/composite.fsh
+similarity index 100%
+rename from Continuum 2.1 Alpha Build 12/shaders/world-1/composite.fsh
+rename to Continuum 2.1 Alpha forRTM 1.0.0/shaders/world-1/composite.fsh
+diff --git a/Continuum 2.1 Alpha Build 12/shaders/world-1/composite.vsh b/Continuum 2.1 Alpha forRTM 1.0.0/shaders/world-1/composite.vsh
+similarity index 100%
+rename from Continuum 2.1 Alpha Build 12/shaders/world-1/composite.vsh
+rename to Continuum 2.1 Alpha forRTM 1.0.0/shaders/world-1/composite.vsh
+diff --git a/Continuum 2.1 Alpha Build 12/shaders/world-1/composite1.fsh b/Continuum 2.1 Alpha forRTM 1.0.0/shaders/world-1/composite1.fsh
+similarity index 100%
+rename from Continuum 2.1 Alpha Build 12/shaders/world-1/composite1.fsh
+rename to Continuum 2.1 Alpha forRTM 1.0.0/shaders/world-1/composite1.fsh
+diff --git a/Continuum 2.1 Alpha Build 12/shaders/world-1/composite1.vsh b/Continuum 2.1 Alpha forRTM 1.0.0/shaders/world-1/composite1.vsh
+similarity index 100%
+rename from Continuum 2.1 Alpha Build 12/shaders/world-1/composite1.vsh
+rename to Continuum 2.1 Alpha forRTM 1.0.0/shaders/world-1/composite1.vsh
+diff --git a/Continuum 2.1 Alpha Build 12/shaders/world-1/composite10.fsh b/Continuum 2.1 Alpha forRTM 1.0.0/shaders/world-1/composite10.fsh
+similarity index 100%
+rename from Continuum 2.1 Alpha Build 12/shaders/world-1/composite10.fsh
+rename to Continuum 2.1 Alpha forRTM 1.0.0/shaders/world-1/composite10.fsh
+diff --git a/Continuum 2.1 Alpha Build 12/shaders/world-1/composite10.vsh b/Continuum 2.1 Alpha forRTM 1.0.0/shaders/world-1/composite10.vsh
+similarity index 100%
+rename from Continuum 2.1 Alpha Build 12/shaders/world-1/composite10.vsh
+rename to Continuum 2.1 Alpha forRTM 1.0.0/shaders/world-1/composite10.vsh
+diff --git a/Continuum 2.1 Alpha Build 12/shaders/world-1/composite2.fsh b/Continuum 2.1 Alpha forRTM 1.0.0/shaders/world-1/composite2.fsh
+similarity index 100%
+rename from Continuum 2.1 Alpha Build 12/shaders/world-1/composite2.fsh
+rename to Continuum 2.1 Alpha forRTM 1.0.0/shaders/world-1/composite2.fsh
+diff --git a/Continuum 2.1 Alpha Build 12/shaders/world-1/composite2.vsh b/Continuum 2.1 Alpha forRTM 1.0.0/shaders/world-1/composite2.vsh
+similarity index 100%
+rename from Continuum 2.1 Alpha Build 12/shaders/world-1/composite2.vsh
+rename to Continuum 2.1 Alpha forRTM 1.0.0/shaders/world-1/composite2.vsh
+diff --git a/Continuum 2.1 Alpha Build 12/shaders/world-1/composite3.fsh b/Continuum 2.1 Alpha forRTM 1.0.0/shaders/world-1/composite3.fsh
+similarity index 100%
+rename from Continuum 2.1 Alpha Build 12/shaders/world-1/composite3.fsh
+rename to Continuum 2.1 Alpha forRTM 1.0.0/shaders/world-1/composite3.fsh
+diff --git a/Continuum 2.1 Alpha Build 12/shaders/world-1/composite3.vsh b/Continuum 2.1 Alpha forRTM 1.0.0/shaders/world-1/composite3.vsh
+similarity index 100%
+rename from Continuum 2.1 Alpha Build 12/shaders/world-1/composite3.vsh
+rename to Continuum 2.1 Alpha forRTM 1.0.0/shaders/world-1/composite3.vsh
+diff --git a/Continuum 2.1 Alpha Build 12/shaders/world-1/composite8.fsh b/Continuum 2.1 Alpha forRTM 1.0.0/shaders/world-1/composite8.fsh
+similarity index 100%
+rename from Continuum 2.1 Alpha Build 12/shaders/world-1/composite8.fsh
+rename to Continuum 2.1 Alpha forRTM 1.0.0/shaders/world-1/composite8.fsh
+diff --git a/Continuum 2.1 Alpha Build 12/shaders/world-1/composite8.vsh b/Continuum 2.1 Alpha forRTM 1.0.0/shaders/world-1/composite8.vsh
+similarity index 100%
+rename from Continuum 2.1 Alpha Build 12/shaders/world-1/composite8.vsh
+rename to Continuum 2.1 Alpha forRTM 1.0.0/shaders/world-1/composite8.vsh
+diff --git a/Continuum 2.1 Alpha Build 12/shaders/world-1/composite9.fsh b/Continuum 2.1 Alpha forRTM 1.0.0/shaders/world-1/composite9.fsh
+similarity index 100%
+rename from Continuum 2.1 Alpha Build 12/shaders/world-1/composite9.fsh
+rename to Continuum 2.1 Alpha forRTM 1.0.0/shaders/world-1/composite9.fsh
+diff --git a/Continuum 2.1 Alpha Build 12/shaders/world-1/composite9.vsh b/Continuum 2.1 Alpha forRTM 1.0.0/shaders/world-1/composite9.vsh
+similarity index 100%
+rename from Continuum 2.1 Alpha Build 12/shaders/world-1/composite9.vsh
+rename to Continuum 2.1 Alpha forRTM 1.0.0/shaders/world-1/composite9.vsh
+diff --git a/Continuum 2.1 Alpha Build 12/shaders/world-1/deferred.fsh b/Continuum 2.1 Alpha forRTM 1.0.0/shaders/world-1/deferred.fsh
+similarity index 100%
+rename from Continuum 2.1 Alpha Build 12/shaders/world-1/deferred.fsh
+rename to Continuum 2.1 Alpha forRTM 1.0.0/shaders/world-1/deferred.fsh
+diff --git a/Continuum 2.1 Alpha Build 12/shaders/world-1/deferred.vsh b/Continuum 2.1 Alpha forRTM 1.0.0/shaders/world-1/deferred.vsh
+similarity index 100%
+rename from Continuum 2.1 Alpha Build 12/shaders/world-1/deferred.vsh
+rename to Continuum 2.1 Alpha forRTM 1.0.0/shaders/world-1/deferred.vsh
+diff --git a/Continuum 2.1 Alpha Build 12/shaders/world-1/final.fsh b/Continuum 2.1 Alpha forRTM 1.0.0/shaders/world-1/final.fsh
+similarity index 100%
+rename from Continuum 2.1 Alpha Build 12/shaders/world-1/final.fsh
+rename to Continuum 2.1 Alpha forRTM 1.0.0/shaders/world-1/final.fsh
+diff --git a/Continuum 2.1 Alpha Build 12/shaders/world-1/final.vsh b/Continuum 2.1 Alpha forRTM 1.0.0/shaders/world-1/final.vsh
+similarity index 100%
+rename from Continuum 2.1 Alpha Build 12/shaders/world-1/final.vsh
+rename to Continuum 2.1 Alpha forRTM 1.0.0/shaders/world-1/final.vsh
+diff --git a/Continuum 2.1 Alpha Build 12/shaders/world-1/gbuffers_basic.fsh b/Continuum 2.1 Alpha forRTM 1.0.0/shaders/world-1/gbuffers_basic.fsh
+similarity index 100%
+rename from Continuum 2.1 Alpha Build 12/shaders/world-1/gbuffers_basic.fsh
+rename to Continuum 2.1 Alpha forRTM 1.0.0/shaders/world-1/gbuffers_basic.fsh
+diff --git a/Continuum 2.1 Alpha Build 12/shaders/world-1/gbuffers_basic.vsh b/Continuum 2.1 Alpha forRTM 1.0.0/shaders/world-1/gbuffers_basic.vsh
+similarity index 100%
+rename from Continuum 2.1 Alpha Build 12/shaders/world-1/gbuffers_basic.vsh
+rename to Continuum 2.1 Alpha forRTM 1.0.0/shaders/world-1/gbuffers_basic.vsh
+diff --git a/Continuum 2.1 Alpha Build 12/shaders/world-1/gbuffers_block.fsh b/Continuum 2.1 Alpha forRTM 1.0.0/shaders/world-1/gbuffers_block.fsh
+similarity index 100%
+rename from Continuum 2.1 Alpha Build 12/shaders/world-1/gbuffers_block.fsh
+rename to Continuum 2.1 Alpha forRTM 1.0.0/shaders/world-1/gbuffers_block.fsh
+diff --git a/Continuum 2.1 Alpha Build 12/shaders/world-1/gbuffers_block.vsh b/Continuum 2.1 Alpha forRTM 1.0.0/shaders/world-1/gbuffers_block.vsh
+similarity index 100%
+rename from Continuum 2.1 Alpha Build 12/shaders/world-1/gbuffers_block.vsh
+rename to Continuum 2.1 Alpha forRTM 1.0.0/shaders/world-1/gbuffers_block.vsh
+diff --git a/Continuum 2.1 Alpha Build 12/shaders/world-1/gbuffers_entities.fsh b/Continuum 2.1 Alpha forRTM 1.0.0/shaders/world-1/gbuffers_entities.fsh
+similarity index 100%
+rename from Continuum 2.1 Alpha Build 12/shaders/world-1/gbuffers_entities.fsh
+rename to Continuum 2.1 Alpha forRTM 1.0.0/shaders/world-1/gbuffers_entities.fsh
+diff --git a/Continuum 2.1 Alpha Build 12/shaders/world-1/gbuffers_entities.vsh b/Continuum 2.1 Alpha forRTM 1.0.0/shaders/world-1/gbuffers_entities.vsh
+similarity index 100%
+rename from Continuum 2.1 Alpha Build 12/shaders/world-1/gbuffers_entities.vsh
+rename to Continuum 2.1 Alpha forRTM 1.0.0/shaders/world-1/gbuffers_entities.vsh
+diff --git a/Continuum 2.1 Alpha Build 12/shaders/world-1/gbuffers_hand.fsh b/Continuum 2.1 Alpha forRTM 1.0.0/shaders/world-1/gbuffers_hand.fsh
+similarity index 100%
+rename from Continuum 2.1 Alpha Build 12/shaders/world-1/gbuffers_hand.fsh
+rename to Continuum 2.1 Alpha forRTM 1.0.0/shaders/world-1/gbuffers_hand.fsh
+diff --git a/Continuum 2.1 Alpha Build 12/shaders/world-1/gbuffers_hand.vsh b/Continuum 2.1 Alpha forRTM 1.0.0/shaders/world-1/gbuffers_hand.vsh
+similarity index 100%
+rename from Continuum 2.1 Alpha Build 12/shaders/world-1/gbuffers_hand.vsh
+rename to Continuum 2.1 Alpha forRTM 1.0.0/shaders/world-1/gbuffers_hand.vsh
+diff --git a/Continuum 2.1 Alpha Build 12/shaders/world-1/gbuffers_skybasic.fsh b/Continuum 2.1 Alpha forRTM 1.0.0/shaders/world-1/gbuffers_skybasic.fsh
+similarity index 100%
+rename from Continuum 2.1 Alpha Build 12/shaders/world-1/gbuffers_skybasic.fsh
+rename to Continuum 2.1 Alpha forRTM 1.0.0/shaders/world-1/gbuffers_skybasic.fsh
+diff --git a/Continuum 2.1 Alpha Build 12/shaders/world-1/gbuffers_skybasic.vsh b/Continuum 2.1 Alpha forRTM 1.0.0/shaders/world-1/gbuffers_skybasic.vsh
+similarity index 100%
+rename from Continuum 2.1 Alpha Build 12/shaders/world-1/gbuffers_skybasic.vsh
+rename to Continuum 2.1 Alpha forRTM 1.0.0/shaders/world-1/gbuffers_skybasic.vsh
+diff --git a/Continuum 2.1 Alpha Build 12/shaders/world-1/gbuffers_skytextured.fsh b/Continuum 2.1 Alpha forRTM 1.0.0/shaders/world-1/gbuffers_skytextured.fsh
+similarity index 100%
+rename from Continuum 2.1 Alpha Build 12/shaders/world-1/gbuffers_skytextured.fsh
+rename to Continuum 2.1 Alpha forRTM 1.0.0/shaders/world-1/gbuffers_skytextured.fsh
+diff --git a/Continuum 2.1 Alpha Build 12/shaders/world-1/gbuffers_skytextured.vsh b/Continuum 2.1 Alpha forRTM 1.0.0/shaders/world-1/gbuffers_skytextured.vsh
+similarity index 100%
+rename from Continuum 2.1 Alpha Build 12/shaders/world-1/gbuffers_skytextured.vsh
+rename to Continuum 2.1 Alpha forRTM 1.0.0/shaders/world-1/gbuffers_skytextured.vsh
+diff --git a/Continuum 2.1 Alpha Build 12/shaders/world-1/gbuffers_terrain.fsh b/Continuum 2.1 Alpha forRTM 1.0.0/shaders/world-1/gbuffers_terrain.fsh
+similarity index 100%
+rename from Continuum 2.1 Alpha Build 12/shaders/world-1/gbuffers_terrain.fsh
+rename to Continuum 2.1 Alpha forRTM 1.0.0/shaders/world-1/gbuffers_terrain.fsh
+diff --git a/Continuum 2.1 Alpha Build 12/shaders/world-1/gbuffers_terrain.vsh b/Continuum 2.1 Alpha forRTM 1.0.0/shaders/world-1/gbuffers_terrain.vsh
+similarity index 100%
+rename from Continuum 2.1 Alpha Build 12/shaders/world-1/gbuffers_terrain.vsh
+rename to Continuum 2.1 Alpha forRTM 1.0.0/shaders/world-1/gbuffers_terrain.vsh
+diff --git a/Continuum 2.1 Alpha Build 12/shaders/world-1/gbuffers_textured.fsh b/Continuum 2.1 Alpha forRTM 1.0.0/shaders/world-1/gbuffers_textured.fsh
+similarity index 100%
+rename from Continuum 2.1 Alpha Build 12/shaders/world-1/gbuffers_textured.fsh
+rename to Continuum 2.1 Alpha forRTM 1.0.0/shaders/world-1/gbuffers_textured.fsh
+diff --git a/Continuum 2.1 Alpha Build 12/shaders/world-1/gbuffers_textured.vsh b/Continuum 2.1 Alpha forRTM 1.0.0/shaders/world-1/gbuffers_textured.vsh
+similarity index 100%
+rename from Continuum 2.1 Alpha Build 12/shaders/world-1/gbuffers_textured.vsh
+rename to Continuum 2.1 Alpha forRTM 1.0.0/shaders/world-1/gbuffers_textured.vsh
+diff --git a/Continuum 2.1 Alpha Build 12/shaders/world-1/gbuffers_water.fsh b/Continuum 2.1 Alpha forRTM 1.0.0/shaders/world-1/gbuffers_water.fsh
+similarity index 100%
+rename from Continuum 2.1 Alpha Build 12/shaders/world-1/gbuffers_water.fsh
+rename to Continuum 2.1 Alpha forRTM 1.0.0/shaders/world-1/gbuffers_water.fsh
+diff --git a/Continuum 2.1 Alpha Build 12/shaders/world-1/gbuffers_water.vsh b/Continuum 2.1 Alpha forRTM 1.0.0/shaders/world-1/gbuffers_water.vsh
+similarity index 100%
+rename from Continuum 2.1 Alpha Build 12/shaders/world-1/gbuffers_water.vsh
+rename to Continuum 2.1 Alpha forRTM 1.0.0/shaders/world-1/gbuffers_water.vsh
+diff --git a/Continuum 2.1 Alpha Build 12/shaders/world-1/gbuffers_weather.fsh b/Continuum 2.1 Alpha forRTM 1.0.0/shaders/world-1/gbuffers_weather.fsh
+similarity index 100%
+rename from Continuum 2.1 Alpha Build 12/shaders/world-1/gbuffers_weather.fsh
+rename to Continuum 2.1 Alpha forRTM 1.0.0/shaders/world-1/gbuffers_weather.fsh
+diff --git a/Continuum 2.1 Alpha Build 12/shaders/world-1/gbuffers_weather.vsh b/Continuum 2.1 Alpha forRTM 1.0.0/shaders/world-1/gbuffers_weather.vsh
+similarity index 100%
+rename from Continuum 2.1 Alpha Build 12/shaders/world-1/gbuffers_weather.vsh
+rename to Continuum 2.1 Alpha forRTM 1.0.0/shaders/world-1/gbuffers_weather.vsh
+diff --git a/Continuum 2.1 Alpha Build 12/shaders/world-1/shadow.fsh b/Continuum 2.1 Alpha forRTM 1.0.0/shaders/world-1/shadow.fsh
+similarity index 100%
+rename from Continuum 2.1 Alpha Build 12/shaders/world-1/shadow.fsh
+rename to Continuum 2.1 Alpha forRTM 1.0.0/shaders/world-1/shadow.fsh
+diff --git a/Continuum 2.1 Alpha Build 12/shaders/world-1/shadow.vsh b/Continuum 2.1 Alpha forRTM 1.0.0/shaders/world-1/shadow.vsh
+similarity index 100%
+rename from Continuum 2.1 Alpha Build 12/shaders/world-1/shadow.vsh
+rename to Continuum 2.1 Alpha forRTM 1.0.0/shaders/world-1/shadow.vsh
+diff --git a/Continuum 2.1 Alpha Build 12/shaders/world0/composite.fsh b/Continuum 2.1 Alpha forRTM 1.0.0/shaders/world0/composite.fsh
+similarity index 100%
+rename from Continuum 2.1 Alpha Build 12/shaders/world0/composite.fsh
+rename to Continuum 2.1 Alpha forRTM 1.0.0/shaders/world0/composite.fsh
+diff --git a/Continuum 2.1 Alpha Build 12/shaders/world0/composite.vsh b/Continuum 2.1 Alpha forRTM 1.0.0/shaders/world0/composite.vsh
+similarity index 100%
+rename from Continuum 2.1 Alpha Build 12/shaders/world0/composite.vsh
+rename to Continuum 2.1 Alpha forRTM 1.0.0/shaders/world0/composite.vsh
+diff --git a/Continuum 2.1 Alpha Build 12/shaders/world0/composite1.fsh b/Continuum 2.1 Alpha forRTM 1.0.0/shaders/world0/composite1.fsh
+similarity index 100%
+rename from Continuum 2.1 Alpha Build 12/shaders/world0/composite1.fsh
+rename to Continuum 2.1 Alpha forRTM 1.0.0/shaders/world0/composite1.fsh
+diff --git a/Continuum 2.1 Alpha Build 12/shaders/world0/composite1.vsh b/Continuum 2.1 Alpha forRTM 1.0.0/shaders/world0/composite1.vsh
+similarity index 100%
+rename from Continuum 2.1 Alpha Build 12/shaders/world0/composite1.vsh
+rename to Continuum 2.1 Alpha forRTM 1.0.0/shaders/world0/composite1.vsh
+diff --git a/Continuum 2.1 Alpha Build 12/shaders/world0/composite10.fsh b/Continuum 2.1 Alpha forRTM 1.0.0/shaders/world0/composite10.fsh
+similarity index 100%
+rename from Continuum 2.1 Alpha Build 12/shaders/world0/composite10.fsh
+rename to Continuum 2.1 Alpha forRTM 1.0.0/shaders/world0/composite10.fsh
+diff --git a/Continuum 2.1 Alpha Build 12/shaders/world0/composite10.vsh b/Continuum 2.1 Alpha forRTM 1.0.0/shaders/world0/composite10.vsh
+similarity index 100%
+rename from Continuum 2.1 Alpha Build 12/shaders/world0/composite10.vsh
+rename to Continuum 2.1 Alpha forRTM 1.0.0/shaders/world0/composite10.vsh
+diff --git a/Continuum 2.1 Alpha Build 12/shaders/world0/composite2.fsh b/Continuum 2.1 Alpha forRTM 1.0.0/shaders/world0/composite2.fsh
+similarity index 100%
+rename from Continuum 2.1 Alpha Build 12/shaders/world0/composite2.fsh
+rename to Continuum 2.1 Alpha forRTM 1.0.0/shaders/world0/composite2.fsh
+diff --git a/Continuum 2.1 Alpha Build 12/shaders/world0/composite2.vsh b/Continuum 2.1 Alpha forRTM 1.0.0/shaders/world0/composite2.vsh
+similarity index 100%
+rename from Continuum 2.1 Alpha Build 12/shaders/world0/composite2.vsh
+rename to Continuum 2.1 Alpha forRTM 1.0.0/shaders/world0/composite2.vsh
+diff --git a/Continuum 2.1 Alpha Build 12/shaders/world0/composite3.fsh b/Continuum 2.1 Alpha forRTM 1.0.0/shaders/world0/composite3.fsh
+similarity index 100%
+rename from Continuum 2.1 Alpha Build 12/shaders/world0/composite3.fsh
+rename to Continuum 2.1 Alpha forRTM 1.0.0/shaders/world0/composite3.fsh
+diff --git a/Continuum 2.1 Alpha Build 12/shaders/world0/composite3.vsh b/Continuum 2.1 Alpha forRTM 1.0.0/shaders/world0/composite3.vsh
+similarity index 100%
+rename from Continuum 2.1 Alpha Build 12/shaders/world0/composite3.vsh
+rename to Continuum 2.1 Alpha forRTM 1.0.0/shaders/world0/composite3.vsh
+diff --git a/Continuum 2.1 Alpha forRTM 1.0.0/shaders/world0/composite4.fsh b/Continuum 2.1 Alpha forRTM 1.0.0/shaders/world0/composite4.fsh
+new file mode 100644
+index 0000000..58eca2e
+--- /dev/null
++++ b/Continuum 2.1 Alpha forRTM 1.0.0/shaders/world0/composite4.fsh	
+@@ -0,0 +1,10 @@
++/********************************************************
++    © 2020 Continuum Graphics LLC. All Rights Reserved
++ ********************************************************/
++
++#include "/../ContinuumLib/GLSL_Version.glsl"
++#define ShaderStage 34
++#define WORLD0
++#define fsh
++
++#include "/Composite4.glsl"
+diff --git a/Continuum 2.1 Alpha forRTM 1.0.0/shaders/world0/composite4.vsh b/Continuum 2.1 Alpha forRTM 1.0.0/shaders/world0/composite4.vsh
+new file mode 100644
+index 0000000..935133d
+--- /dev/null
++++ b/Continuum 2.1 Alpha forRTM 1.0.0/shaders/world0/composite4.vsh	
+@@ -0,0 +1,10 @@
++/********************************************************
++    © 2020 Continuum Graphics LLC. All Rights Reserved
++ ********************************************************/
++
++#include "/../ContinuumLib/GLSL_Version.glsl"
++#define ShaderStage 34
++#define WORLD0
++#define vsh
++
++#include "/Composite4.glsl"
+diff --git a/Continuum 2.1 Alpha Build 12/shaders/world0/composite8.fsh b/Continuum 2.1 Alpha forRTM 1.0.0/shaders/world0/composite8.fsh
+similarity index 100%
+rename from Continuum 2.1 Alpha Build 12/shaders/world0/composite8.fsh
+rename to Continuum 2.1 Alpha forRTM 1.0.0/shaders/world0/composite8.fsh
+diff --git a/Continuum 2.1 Alpha Build 12/shaders/world0/composite8.vsh b/Continuum 2.1 Alpha forRTM 1.0.0/shaders/world0/composite8.vsh
+similarity index 100%
+rename from Continuum 2.1 Alpha Build 12/shaders/world0/composite8.vsh
+rename to Continuum 2.1 Alpha forRTM 1.0.0/shaders/world0/composite8.vsh
+diff --git a/Continuum 2.1 Alpha Build 12/shaders/world0/composite9.fsh b/Continuum 2.1 Alpha forRTM 1.0.0/shaders/world0/composite9.fsh
+similarity index 100%
+rename from Continuum 2.1 Alpha Build 12/shaders/world0/composite9.fsh
+rename to Continuum 2.1 Alpha forRTM 1.0.0/shaders/world0/composite9.fsh
+diff --git a/Continuum 2.1 Alpha Build 12/shaders/world0/composite9.vsh b/Continuum 2.1 Alpha forRTM 1.0.0/shaders/world0/composite9.vsh
+similarity index 100%
+rename from Continuum 2.1 Alpha Build 12/shaders/world0/composite9.vsh
+rename to Continuum 2.1 Alpha forRTM 1.0.0/shaders/world0/composite9.vsh
+diff --git a/Continuum 2.1 Alpha Build 12/shaders/world0/deferred.fsh b/Continuum 2.1 Alpha forRTM 1.0.0/shaders/world0/deferred.fsh
+similarity index 100%
+rename from Continuum 2.1 Alpha Build 12/shaders/world0/deferred.fsh
+rename to Continuum 2.1 Alpha forRTM 1.0.0/shaders/world0/deferred.fsh
+diff --git a/Continuum 2.1 Alpha Build 12/shaders/world0/deferred.vsh b/Continuum 2.1 Alpha forRTM 1.0.0/shaders/world0/deferred.vsh
+similarity index 100%
+rename from Continuum 2.1 Alpha Build 12/shaders/world0/deferred.vsh
+rename to Continuum 2.1 Alpha forRTM 1.0.0/shaders/world0/deferred.vsh
+diff --git a/Continuum 2.1 Alpha Build 12/shaders/world0/final.fsh b/Continuum 2.1 Alpha forRTM 1.0.0/shaders/world0/final.fsh
+similarity index 100%
+rename from Continuum 2.1 Alpha Build 12/shaders/world0/final.fsh
+rename to Continuum 2.1 Alpha forRTM 1.0.0/shaders/world0/final.fsh
+diff --git a/Continuum 2.1 Alpha Build 12/shaders/world0/final.vsh b/Continuum 2.1 Alpha forRTM 1.0.0/shaders/world0/final.vsh
+similarity index 100%
+rename from Continuum 2.1 Alpha Build 12/shaders/world0/final.vsh
+rename to Continuum 2.1 Alpha forRTM 1.0.0/shaders/world0/final.vsh
+diff --git a/Continuum 2.1 Alpha Build 12/shaders/world0/gbuffers_basic.fsh b/Continuum 2.1 Alpha forRTM 1.0.0/shaders/world0/gbuffers_basic.fsh
+similarity index 100%
+rename from Continuum 2.1 Alpha Build 12/shaders/world0/gbuffers_basic.fsh
+rename to Continuum 2.1 Alpha forRTM 1.0.0/shaders/world0/gbuffers_basic.fsh
+diff --git a/Continuum 2.1 Alpha Build 12/shaders/world0/gbuffers_basic.vsh b/Continuum 2.1 Alpha forRTM 1.0.0/shaders/world0/gbuffers_basic.vsh
+similarity index 100%
+rename from Continuum 2.1 Alpha Build 12/shaders/world0/gbuffers_basic.vsh
+rename to Continuum 2.1 Alpha forRTM 1.0.0/shaders/world0/gbuffers_basic.vsh
+diff --git a/Continuum 2.1 Alpha Build 12/shaders/world0/gbuffers_block.fsh b/Continuum 2.1 Alpha forRTM 1.0.0/shaders/world0/gbuffers_block.fsh
+similarity index 100%
+rename from Continuum 2.1 Alpha Build 12/shaders/world0/gbuffers_block.fsh
+rename to Continuum 2.1 Alpha forRTM 1.0.0/shaders/world0/gbuffers_block.fsh
+diff --git a/Continuum 2.1 Alpha Build 12/shaders/world0/gbuffers_block.vsh b/Continuum 2.1 Alpha forRTM 1.0.0/shaders/world0/gbuffers_block.vsh
+similarity index 100%
+rename from Continuum 2.1 Alpha Build 12/shaders/world0/gbuffers_block.vsh
+rename to Continuum 2.1 Alpha forRTM 1.0.0/shaders/world0/gbuffers_block.vsh
+diff --git a/Continuum 2.1 Alpha Build 12/shaders/world0/gbuffers_entities.fsh b/Continuum 2.1 Alpha forRTM 1.0.0/shaders/world0/gbuffers_entities.fsh
+similarity index 100%
+rename from Continuum 2.1 Alpha Build 12/shaders/world0/gbuffers_entities.fsh
+rename to Continuum 2.1 Alpha forRTM 1.0.0/shaders/world0/gbuffers_entities.fsh
+diff --git a/Continuum 2.1 Alpha Build 12/shaders/world0/gbuffers_entities.vsh b/Continuum 2.1 Alpha forRTM 1.0.0/shaders/world0/gbuffers_entities.vsh
+similarity index 100%
+rename from Continuum 2.1 Alpha Build 12/shaders/world0/gbuffers_entities.vsh
+rename to Continuum 2.1 Alpha forRTM 1.0.0/shaders/world0/gbuffers_entities.vsh
+diff --git a/Continuum 2.1 Alpha Build 12/shaders/world0/gbuffers_hand.fsh b/Continuum 2.1 Alpha forRTM 1.0.0/shaders/world0/gbuffers_hand.fsh
+similarity index 100%
+rename from Continuum 2.1 Alpha Build 12/shaders/world0/gbuffers_hand.fsh
+rename to Continuum 2.1 Alpha forRTM 1.0.0/shaders/world0/gbuffers_hand.fsh
+diff --git a/Continuum 2.1 Alpha Build 12/shaders/world0/gbuffers_hand.vsh b/Continuum 2.1 Alpha forRTM 1.0.0/shaders/world0/gbuffers_hand.vsh
+similarity index 100%
+rename from Continuum 2.1 Alpha Build 12/shaders/world0/gbuffers_hand.vsh
+rename to Continuum 2.1 Alpha forRTM 1.0.0/shaders/world0/gbuffers_hand.vsh
+diff --git a/Continuum 2.1 Alpha Build 12/shaders/world0/gbuffers_skybasic.fsh b/Continuum 2.1 Alpha forRTM 1.0.0/shaders/world0/gbuffers_skybasic.fsh
+similarity index 100%
+rename from Continuum 2.1 Alpha Build 12/shaders/world0/gbuffers_skybasic.fsh
+rename to Continuum 2.1 Alpha forRTM 1.0.0/shaders/world0/gbuffers_skybasic.fsh
+diff --git a/Continuum 2.1 Alpha Build 12/shaders/world0/gbuffers_skybasic.vsh b/Continuum 2.1 Alpha forRTM 1.0.0/shaders/world0/gbuffers_skybasic.vsh
+similarity index 100%
+rename from Continuum 2.1 Alpha Build 12/shaders/world0/gbuffers_skybasic.vsh
+rename to Continuum 2.1 Alpha forRTM 1.0.0/shaders/world0/gbuffers_skybasic.vsh
+diff --git a/Continuum 2.1 Alpha Build 12/shaders/world0/gbuffers_skytextured.fsh b/Continuum 2.1 Alpha forRTM 1.0.0/shaders/world0/gbuffers_skytextured.fsh
+similarity index 100%
+rename from Continuum 2.1 Alpha Build 12/shaders/world0/gbuffers_skytextured.fsh
+rename to Continuum 2.1 Alpha forRTM 1.0.0/shaders/world0/gbuffers_skytextured.fsh
+diff --git a/Continuum 2.1 Alpha Build 12/shaders/world0/gbuffers_skytextured.vsh b/Continuum 2.1 Alpha forRTM 1.0.0/shaders/world0/gbuffers_skytextured.vsh
+similarity index 100%
+rename from Continuum 2.1 Alpha Build 12/shaders/world0/gbuffers_skytextured.vsh
+rename to Continuum 2.1 Alpha forRTM 1.0.0/shaders/world0/gbuffers_skytextured.vsh
+diff --git a/Continuum 2.1 Alpha Build 12/shaders/world0/gbuffers_terrain.fsh b/Continuum 2.1 Alpha forRTM 1.0.0/shaders/world0/gbuffers_terrain.fsh
+similarity index 100%
+rename from Continuum 2.1 Alpha Build 12/shaders/world0/gbuffers_terrain.fsh
+rename to Continuum 2.1 Alpha forRTM 1.0.0/shaders/world0/gbuffers_terrain.fsh
+diff --git a/Continuum 2.1 Alpha Build 12/shaders/world0/gbuffers_terrain.vsh b/Continuum 2.1 Alpha forRTM 1.0.0/shaders/world0/gbuffers_terrain.vsh
+similarity index 100%
+rename from Continuum 2.1 Alpha Build 12/shaders/world0/gbuffers_terrain.vsh
+rename to Continuum 2.1 Alpha forRTM 1.0.0/shaders/world0/gbuffers_terrain.vsh
+diff --git a/Continuum 2.1 Alpha Build 12/shaders/world0/gbuffers_textured.fsh b/Continuum 2.1 Alpha forRTM 1.0.0/shaders/world0/gbuffers_textured.fsh
+similarity index 100%
+rename from Continuum 2.1 Alpha Build 12/shaders/world0/gbuffers_textured.fsh
+rename to Continuum 2.1 Alpha forRTM 1.0.0/shaders/world0/gbuffers_textured.fsh
+diff --git a/Continuum 2.1 Alpha Build 12/shaders/world0/gbuffers_textured.vsh b/Continuum 2.1 Alpha forRTM 1.0.0/shaders/world0/gbuffers_textured.vsh
+similarity index 100%
+rename from Continuum 2.1 Alpha Build 12/shaders/world0/gbuffers_textured.vsh
+rename to Continuum 2.1 Alpha forRTM 1.0.0/shaders/world0/gbuffers_textured.vsh
+diff --git a/Continuum 2.1 Alpha Build 12/shaders/world0/gbuffers_water.fsh b/Continuum 2.1 Alpha forRTM 1.0.0/shaders/world0/gbuffers_water.fsh
+similarity index 100%
+rename from Continuum 2.1 Alpha Build 12/shaders/world0/gbuffers_water.fsh
+rename to Continuum 2.1 Alpha forRTM 1.0.0/shaders/world0/gbuffers_water.fsh
+diff --git a/Continuum 2.1 Alpha Build 12/shaders/world0/gbuffers_water.vsh b/Continuum 2.1 Alpha forRTM 1.0.0/shaders/world0/gbuffers_water.vsh
+similarity index 100%
+rename from Continuum 2.1 Alpha Build 12/shaders/world0/gbuffers_water.vsh
+rename to Continuum 2.1 Alpha forRTM 1.0.0/shaders/world0/gbuffers_water.vsh
+diff --git a/Continuum 2.1 Alpha Build 12/shaders/world0/gbuffers_weather.fsh b/Continuum 2.1 Alpha forRTM 1.0.0/shaders/world0/gbuffers_weather.fsh
+similarity index 100%
+rename from Continuum 2.1 Alpha Build 12/shaders/world0/gbuffers_weather.fsh
+rename to Continuum 2.1 Alpha forRTM 1.0.0/shaders/world0/gbuffers_weather.fsh
+diff --git a/Continuum 2.1 Alpha Build 12/shaders/world0/gbuffers_weather.vsh b/Continuum 2.1 Alpha forRTM 1.0.0/shaders/world0/gbuffers_weather.vsh
+similarity index 100%
+rename from Continuum 2.1 Alpha Build 12/shaders/world0/gbuffers_weather.vsh
+rename to Continuum 2.1 Alpha forRTM 1.0.0/shaders/world0/gbuffers_weather.vsh
+diff --git a/Continuum 2.1 Alpha Build 12/shaders/world0/shadow.fsh b/Continuum 2.1 Alpha forRTM 1.0.0/shaders/world0/shadow.fsh
+similarity index 100%
+rename from Continuum 2.1 Alpha Build 12/shaders/world0/shadow.fsh
+rename to Continuum 2.1 Alpha forRTM 1.0.0/shaders/world0/shadow.fsh
+diff --git a/Continuum 2.1 Alpha Build 12/shaders/world0/shadow.vsh b/Continuum 2.1 Alpha forRTM 1.0.0/shaders/world0/shadow.vsh
+similarity index 100%
+rename from Continuum 2.1 Alpha Build 12/shaders/world0/shadow.vsh
+rename to Continuum 2.1 Alpha forRTM 1.0.0/shaders/world0/shadow.vsh
+diff --git a/Continuum 2.1 Alpha Build 12/shaders/world1/composite.fsh b/Continuum 2.1 Alpha forRTM 1.0.0/shaders/world1/composite.fsh
+similarity index 100%
+rename from Continuum 2.1 Alpha Build 12/shaders/world1/composite.fsh
+rename to Continuum 2.1 Alpha forRTM 1.0.0/shaders/world1/composite.fsh
+diff --git a/Continuum 2.1 Alpha Build 12/shaders/world1/composite.vsh b/Continuum 2.1 Alpha forRTM 1.0.0/shaders/world1/composite.vsh
+similarity index 100%
+rename from Continuum 2.1 Alpha Build 12/shaders/world1/composite.vsh
+rename to Continuum 2.1 Alpha forRTM 1.0.0/shaders/world1/composite.vsh
+diff --git a/Continuum 2.1 Alpha Build 12/shaders/world1/composite1.fsh b/Continuum 2.1 Alpha forRTM 1.0.0/shaders/world1/composite1.fsh
+similarity index 100%
+rename from Continuum 2.1 Alpha Build 12/shaders/world1/composite1.fsh
+rename to Continuum 2.1 Alpha forRTM 1.0.0/shaders/world1/composite1.fsh
+diff --git a/Continuum 2.1 Alpha Build 12/shaders/world1/composite1.vsh b/Continuum 2.1 Alpha forRTM 1.0.0/shaders/world1/composite1.vsh
+similarity index 100%
+rename from Continuum 2.1 Alpha Build 12/shaders/world1/composite1.vsh
+rename to Continuum 2.1 Alpha forRTM 1.0.0/shaders/world1/composite1.vsh
+diff --git a/Continuum 2.1 Alpha Build 12/shaders/world1/composite10.fsh b/Continuum 2.1 Alpha forRTM 1.0.0/shaders/world1/composite10.fsh
+similarity index 100%
+rename from Continuum 2.1 Alpha Build 12/shaders/world1/composite10.fsh
+rename to Continuum 2.1 Alpha forRTM 1.0.0/shaders/world1/composite10.fsh
+diff --git a/Continuum 2.1 Alpha Build 12/shaders/world1/composite10.vsh b/Continuum 2.1 Alpha forRTM 1.0.0/shaders/world1/composite10.vsh
+similarity index 100%
+rename from Continuum 2.1 Alpha Build 12/shaders/world1/composite10.vsh
+rename to Continuum 2.1 Alpha forRTM 1.0.0/shaders/world1/composite10.vsh
+diff --git a/Continuum 2.1 Alpha Build 12/shaders/world1/composite2.fsh b/Continuum 2.1 Alpha forRTM 1.0.0/shaders/world1/composite2.fsh
+similarity index 100%
+rename from Continuum 2.1 Alpha Build 12/shaders/world1/composite2.fsh
+rename to Continuum 2.1 Alpha forRTM 1.0.0/shaders/world1/composite2.fsh
+diff --git a/Continuum 2.1 Alpha Build 12/shaders/world1/composite2.vsh b/Continuum 2.1 Alpha forRTM 1.0.0/shaders/world1/composite2.vsh
+similarity index 100%
+rename from Continuum 2.1 Alpha Build 12/shaders/world1/composite2.vsh
+rename to Continuum 2.1 Alpha forRTM 1.0.0/shaders/world1/composite2.vsh
+diff --git a/Continuum 2.1 Alpha Build 12/shaders/world1/composite3.fsh b/Continuum 2.1 Alpha forRTM 1.0.0/shaders/world1/composite3.fsh
+similarity index 100%
+rename from Continuum 2.1 Alpha Build 12/shaders/world1/composite3.fsh
+rename to Continuum 2.1 Alpha forRTM 1.0.0/shaders/world1/composite3.fsh
+diff --git a/Continuum 2.1 Alpha Build 12/shaders/world1/composite3.vsh b/Continuum 2.1 Alpha forRTM 1.0.0/shaders/world1/composite3.vsh
+similarity index 100%
+rename from Continuum 2.1 Alpha Build 12/shaders/world1/composite3.vsh
+rename to Continuum 2.1 Alpha forRTM 1.0.0/shaders/world1/composite3.vsh
+diff --git a/Continuum 2.1 Alpha Build 12/shaders/world1/composite8.fsh b/Continuum 2.1 Alpha forRTM 1.0.0/shaders/world1/composite8.fsh
+similarity index 100%
+rename from Continuum 2.1 Alpha Build 12/shaders/world1/composite8.fsh
+rename to Continuum 2.1 Alpha forRTM 1.0.0/shaders/world1/composite8.fsh
+diff --git a/Continuum 2.1 Alpha Build 12/shaders/world1/composite8.vsh b/Continuum 2.1 Alpha forRTM 1.0.0/shaders/world1/composite8.vsh
+similarity index 100%
+rename from Continuum 2.1 Alpha Build 12/shaders/world1/composite8.vsh
+rename to Continuum 2.1 Alpha forRTM 1.0.0/shaders/world1/composite8.vsh
+diff --git a/Continuum 2.1 Alpha Build 12/shaders/world1/composite9.fsh b/Continuum 2.1 Alpha forRTM 1.0.0/shaders/world1/composite9.fsh
+similarity index 100%
+rename from Continuum 2.1 Alpha Build 12/shaders/world1/composite9.fsh
+rename to Continuum 2.1 Alpha forRTM 1.0.0/shaders/world1/composite9.fsh
+diff --git a/Continuum 2.1 Alpha Build 12/shaders/world1/composite9.vsh b/Continuum 2.1 Alpha forRTM 1.0.0/shaders/world1/composite9.vsh
+similarity index 100%
+rename from Continuum 2.1 Alpha Build 12/shaders/world1/composite9.vsh
+rename to Continuum 2.1 Alpha forRTM 1.0.0/shaders/world1/composite9.vsh
+diff --git a/Continuum 2.1 Alpha Build 12/shaders/world1/deferred.fsh b/Continuum 2.1 Alpha forRTM 1.0.0/shaders/world1/deferred.fsh
+similarity index 100%
+rename from Continuum 2.1 Alpha Build 12/shaders/world1/deferred.fsh
+rename to Continuum 2.1 Alpha forRTM 1.0.0/shaders/world1/deferred.fsh
+diff --git a/Continuum 2.1 Alpha Build 12/shaders/world1/deferred.vsh b/Continuum 2.1 Alpha forRTM 1.0.0/shaders/world1/deferred.vsh
+similarity index 100%
+rename from Continuum 2.1 Alpha Build 12/shaders/world1/deferred.vsh
+rename to Continuum 2.1 Alpha forRTM 1.0.0/shaders/world1/deferred.vsh
+diff --git a/Continuum 2.1 Alpha Build 12/shaders/world1/final.fsh b/Continuum 2.1 Alpha forRTM 1.0.0/shaders/world1/final.fsh
+similarity index 100%
+rename from Continuum 2.1 Alpha Build 12/shaders/world1/final.fsh
+rename to Continuum 2.1 Alpha forRTM 1.0.0/shaders/world1/final.fsh
+diff --git a/Continuum 2.1 Alpha Build 12/shaders/world1/final.vsh b/Continuum 2.1 Alpha forRTM 1.0.0/shaders/world1/final.vsh
+similarity index 100%
+rename from Continuum 2.1 Alpha Build 12/shaders/world1/final.vsh
+rename to Continuum 2.1 Alpha forRTM 1.0.0/shaders/world1/final.vsh
+diff --git a/Continuum 2.1 Alpha Build 12/shaders/world1/gbuffers_basic.fsh b/Continuum 2.1 Alpha forRTM 1.0.0/shaders/world1/gbuffers_basic.fsh
+similarity index 100%
+rename from Continuum 2.1 Alpha Build 12/shaders/world1/gbuffers_basic.fsh
+rename to Continuum 2.1 Alpha forRTM 1.0.0/shaders/world1/gbuffers_basic.fsh
+diff --git a/Continuum 2.1 Alpha Build 12/shaders/world1/gbuffers_basic.vsh b/Continuum 2.1 Alpha forRTM 1.0.0/shaders/world1/gbuffers_basic.vsh
+similarity index 100%
+rename from Continuum 2.1 Alpha Build 12/shaders/world1/gbuffers_basic.vsh
+rename to Continuum 2.1 Alpha forRTM 1.0.0/shaders/world1/gbuffers_basic.vsh
+diff --git a/Continuum 2.1 Alpha Build 12/shaders/world1/gbuffers_block.fsh b/Continuum 2.1 Alpha forRTM 1.0.0/shaders/world1/gbuffers_block.fsh
+similarity index 100%
+rename from Continuum 2.1 Alpha Build 12/shaders/world1/gbuffers_block.fsh
+rename to Continuum 2.1 Alpha forRTM 1.0.0/shaders/world1/gbuffers_block.fsh
+diff --git a/Continuum 2.1 Alpha Build 12/shaders/world1/gbuffers_block.vsh b/Continuum 2.1 Alpha forRTM 1.0.0/shaders/world1/gbuffers_block.vsh
+similarity index 100%
+rename from Continuum 2.1 Alpha Build 12/shaders/world1/gbuffers_block.vsh
+rename to Continuum 2.1 Alpha forRTM 1.0.0/shaders/world1/gbuffers_block.vsh
+diff --git a/Continuum 2.1 Alpha Build 12/shaders/world1/gbuffers_entities.fsh b/Continuum 2.1 Alpha forRTM 1.0.0/shaders/world1/gbuffers_entities.fsh
+similarity index 100%
+rename from Continuum 2.1 Alpha Build 12/shaders/world1/gbuffers_entities.fsh
+rename to Continuum 2.1 Alpha forRTM 1.0.0/shaders/world1/gbuffers_entities.fsh
+diff --git a/Continuum 2.1 Alpha Build 12/shaders/world1/gbuffers_entities.vsh b/Continuum 2.1 Alpha forRTM 1.0.0/shaders/world1/gbuffers_entities.vsh
+similarity index 100%
+rename from Continuum 2.1 Alpha Build 12/shaders/world1/gbuffers_entities.vsh
+rename to Continuum 2.1 Alpha forRTM 1.0.0/shaders/world1/gbuffers_entities.vsh
+diff --git a/Continuum 2.1 Alpha Build 12/shaders/world1/gbuffers_hand.fsh b/Continuum 2.1 Alpha forRTM 1.0.0/shaders/world1/gbuffers_hand.fsh
+similarity index 100%
+rename from Continuum 2.1 Alpha Build 12/shaders/world1/gbuffers_hand.fsh
+rename to Continuum 2.1 Alpha forRTM 1.0.0/shaders/world1/gbuffers_hand.fsh
+diff --git a/Continuum 2.1 Alpha Build 12/shaders/world1/gbuffers_hand.vsh b/Continuum 2.1 Alpha forRTM 1.0.0/shaders/world1/gbuffers_hand.vsh
+similarity index 100%
+rename from Continuum 2.1 Alpha Build 12/shaders/world1/gbuffers_hand.vsh
+rename to Continuum 2.1 Alpha forRTM 1.0.0/shaders/world1/gbuffers_hand.vsh
+diff --git a/Continuum 2.1 Alpha Build 12/shaders/world1/gbuffers_skybasic.fsh b/Continuum 2.1 Alpha forRTM 1.0.0/shaders/world1/gbuffers_skybasic.fsh
+similarity index 100%
+rename from Continuum 2.1 Alpha Build 12/shaders/world1/gbuffers_skybasic.fsh
+rename to Continuum 2.1 Alpha forRTM 1.0.0/shaders/world1/gbuffers_skybasic.fsh
+diff --git a/Continuum 2.1 Alpha Build 12/shaders/world1/gbuffers_skybasic.vsh b/Continuum 2.1 Alpha forRTM 1.0.0/shaders/world1/gbuffers_skybasic.vsh
+similarity index 100%
+rename from Continuum 2.1 Alpha Build 12/shaders/world1/gbuffers_skybasic.vsh
+rename to Continuum 2.1 Alpha forRTM 1.0.0/shaders/world1/gbuffers_skybasic.vsh
+diff --git a/Continuum 2.1 Alpha Build 12/shaders/world1/gbuffers_skytextured.fsh b/Continuum 2.1 Alpha forRTM 1.0.0/shaders/world1/gbuffers_skytextured.fsh
+similarity index 100%
+rename from Continuum 2.1 Alpha Build 12/shaders/world1/gbuffers_skytextured.fsh
+rename to Continuum 2.1 Alpha forRTM 1.0.0/shaders/world1/gbuffers_skytextured.fsh
+diff --git a/Continuum 2.1 Alpha Build 12/shaders/world1/gbuffers_skytextured.vsh b/Continuum 2.1 Alpha forRTM 1.0.0/shaders/world1/gbuffers_skytextured.vsh
+similarity index 100%
+rename from Continuum 2.1 Alpha Build 12/shaders/world1/gbuffers_skytextured.vsh
+rename to Continuum 2.1 Alpha forRTM 1.0.0/shaders/world1/gbuffers_skytextured.vsh
+diff --git a/Continuum 2.1 Alpha Build 12/shaders/world1/gbuffers_terrain.fsh b/Continuum 2.1 Alpha forRTM 1.0.0/shaders/world1/gbuffers_terrain.fsh
+similarity index 100%
+rename from Continuum 2.1 Alpha Build 12/shaders/world1/gbuffers_terrain.fsh
+rename to Continuum 2.1 Alpha forRTM 1.0.0/shaders/world1/gbuffers_terrain.fsh
+diff --git a/Continuum 2.1 Alpha Build 12/shaders/world1/gbuffers_terrain.vsh b/Continuum 2.1 Alpha forRTM 1.0.0/shaders/world1/gbuffers_terrain.vsh
+similarity index 100%
+rename from Continuum 2.1 Alpha Build 12/shaders/world1/gbuffers_terrain.vsh
+rename to Continuum 2.1 Alpha forRTM 1.0.0/shaders/world1/gbuffers_terrain.vsh
+diff --git a/Continuum 2.1 Alpha Build 12/shaders/world1/gbuffers_textured.fsh b/Continuum 2.1 Alpha forRTM 1.0.0/shaders/world1/gbuffers_textured.fsh
+similarity index 100%
+rename from Continuum 2.1 Alpha Build 12/shaders/world1/gbuffers_textured.fsh
+rename to Continuum 2.1 Alpha forRTM 1.0.0/shaders/world1/gbuffers_textured.fsh
+diff --git a/Continuum 2.1 Alpha Build 12/shaders/world1/gbuffers_textured.vsh b/Continuum 2.1 Alpha forRTM 1.0.0/shaders/world1/gbuffers_textured.vsh
+similarity index 100%
+rename from Continuum 2.1 Alpha Build 12/shaders/world1/gbuffers_textured.vsh
+rename to Continuum 2.1 Alpha forRTM 1.0.0/shaders/world1/gbuffers_textured.vsh
+diff --git a/Continuum 2.1 Alpha Build 12/shaders/world1/gbuffers_water.fsh b/Continuum 2.1 Alpha forRTM 1.0.0/shaders/world1/gbuffers_water.fsh
+similarity index 100%
+rename from Continuum 2.1 Alpha Build 12/shaders/world1/gbuffers_water.fsh
+rename to Continuum 2.1 Alpha forRTM 1.0.0/shaders/world1/gbuffers_water.fsh
+diff --git a/Continuum 2.1 Alpha Build 12/shaders/world1/gbuffers_water.vsh b/Continuum 2.1 Alpha forRTM 1.0.0/shaders/world1/gbuffers_water.vsh
+similarity index 100%
+rename from Continuum 2.1 Alpha Build 12/shaders/world1/gbuffers_water.vsh
+rename to Continuum 2.1 Alpha forRTM 1.0.0/shaders/world1/gbuffers_water.vsh
+diff --git a/Continuum 2.1 Alpha Build 12/shaders/world1/gbuffers_weather.fsh b/Continuum 2.1 Alpha forRTM 1.0.0/shaders/world1/gbuffers_weather.fsh
+similarity index 100%
+rename from Continuum 2.1 Alpha Build 12/shaders/world1/gbuffers_weather.fsh
+rename to Continuum 2.1 Alpha forRTM 1.0.0/shaders/world1/gbuffers_weather.fsh
+diff --git a/Continuum 2.1 Alpha Build 12/shaders/world1/gbuffers_weather.vsh b/Continuum 2.1 Alpha forRTM 1.0.0/shaders/world1/gbuffers_weather.vsh
+similarity index 100%
+rename from Continuum 2.1 Alpha Build 12/shaders/world1/gbuffers_weather.vsh
+rename to Continuum 2.1 Alpha forRTM 1.0.0/shaders/world1/gbuffers_weather.vsh
+diff --git a/Continuum 2.1 Alpha Build 12/shaders/world1/shadow.fsh b/Continuum 2.1 Alpha forRTM 1.0.0/shaders/world1/shadow.fsh
+similarity index 100%
+rename from Continuum 2.1 Alpha Build 12/shaders/world1/shadow.fsh
+rename to Continuum 2.1 Alpha forRTM 1.0.0/shaders/world1/shadow.fsh
+diff --git a/Continuum 2.1 Alpha Build 12/shaders/world1/shadow.vsh b/Continuum 2.1 Alpha forRTM 1.0.0/shaders/world1/shadow.vsh
+similarity index 100%
+rename from Continuum 2.1 Alpha Build 12/shaders/world1/shadow.vsh
+rename to Continuum 2.1 Alpha forRTM 1.0.0/shaders/world1/shadow.vsh
